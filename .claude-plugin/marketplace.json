@@ -9,6 +9,7 @@
     {
       "name": "gmail",
       "displayName": "Gmail",
+      "defaultEnabled": false,
       "description": "Leia, pesquise, organize e envie emails pelo Gmail.",
       "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
@@ -19,6 +20,7 @@
     {
       "name": "google-drive",
       "displayName": "Google Drive",
+      "defaultEnabled": false,
       "description": "Pesquise, leia e organize arquivos do Google Drive.",
       "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
@@ -29,6 +31,7 @@
     {
       "name": "google-agenda",
       "displayName": "Google Agenda",
+      "defaultEnabled": false,
       "description": "Consulte e gerencie compromissos do Google Agenda.",
       "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
@@ -39,6 +42,7 @@
     {
       "name": "notion",
       "displayName": "Notion",
+      "defaultEnabled": false,
       "description": "Consulte e atualize paginas e bases do Notion.",
       "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
@@ -49,6 +53,7 @@
     {
       "name": "slack",
       "displayName": "Slack",
+      "defaultEnabled": false,
       "description": "Pesquise conversas e trabalhe com mensagens do Slack.",
       "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
@@ -59,6 +64,7 @@
     {
       "name": "canva",
       "displayName": "Canva",
+      "defaultEnabled": false,
       "description": "Acesse e gerencie recursos e designs do Canva.",
       "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
