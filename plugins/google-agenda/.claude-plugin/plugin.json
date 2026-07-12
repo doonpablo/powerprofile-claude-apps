@@ -1,6 +1,7 @@
 {
   "name": "google-agenda",
   "displayName": "Google Agenda",
+  "defaultEnabled": false,
   "description": "Consulte e gerencie compromissos do Google Agenda.",
   "author": { "name": "PowerProfile" },
   "homepage": "https://powerprofile.com.br",

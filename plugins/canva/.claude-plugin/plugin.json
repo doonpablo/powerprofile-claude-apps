@@ -1,6 +1,7 @@
 {
   "name": "canva",
   "displayName": "Canva",
+  "defaultEnabled": false,
   "description": "Acesse e gerencie recursos e designs do Canva.",
   "author": { "name": "PowerProfile" },
   "homepage": "https://powerprofile.com.br",
