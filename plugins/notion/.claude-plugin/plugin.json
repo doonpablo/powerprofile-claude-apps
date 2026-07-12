@@ -1,0 +1,8 @@
+{
+  "name": "notion",
+  "displayName": "Notion",
+  "description": "Consulte e atualize paginas e bases do Notion.",
+  "author": { "name": "PowerProfile" },
+  "homepage": "https://powerprofile.com.br",
+  "license": "Proprietary"
+}

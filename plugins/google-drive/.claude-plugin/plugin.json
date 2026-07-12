@@ -1,0 +1,8 @@
+{
+  "name": "google-drive",
+  "displayName": "Google Drive",
+  "description": "Pesquise, leia e organize arquivos do Google Drive.",
+  "author": { "name": "PowerProfile" },
+  "homepage": "https://powerprofile.com.br",
+  "license": "Proprietary"
+}

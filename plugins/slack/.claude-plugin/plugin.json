@@ -1,0 +1,8 @@
+{
+  "name": "slack",
+  "displayName": "Slack",
+  "description": "Pesquise conversas e trabalhe com mensagens do Slack.",
+  "author": { "name": "PowerProfile" },
+  "homepage": "https://powerprofile.com.br",
+  "license": "Proprietary"
+}

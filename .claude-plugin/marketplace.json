@@ -1,22 +1,70 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "powerprofile-apps",
-  "description": "Marketplace oficial de integrações PowerProfile para Claude.",
+  "description": "Marketplace oficial de conectores PowerProfile para Claude.",
   "owner": {
     "name": "PowerProfile"
   },
   "plugins": [
     {
-      "name": "powerprofile-apps",
-      "displayName": "PowerProfile Apps",
-      "description": "Conecte Gmail, Google Drive, Agenda, Notion, Slack, Canva e milhares de outros serviços com OAuth gerenciado.",
-      "version": "1.0.0",
-      "author": {
-        "name": "PowerProfile"
-      },
+      "name": "gmail",
+      "displayName": "Gmail",
+      "description": "Leia, pesquise, organize e envie emails pelo Gmail.",
+      "author": { "name": "PowerProfile" },
       "homepage": "https://powerprofile.com.br",
       "category": "productivity",
-      "keywords": ["connectors", "oauth", "gmail", "drive", "calendar", "notion", "slack", "canva"],
-      "source": "./plugins/powerprofile-apps"
+      "keywords": ["email", "google", "gmail"],
+      "source": "./plugins/gmail"
+    },
+    {
+      "name": "google-drive",
+      "displayName": "Google Drive",
+      "description": "Pesquise, leia e organize arquivos do Google Drive.",
+      "author": { "name": "PowerProfile" },
+      "homepage": "https://powerprofile.com.br",
+      "category": "productivity",
+      "keywords": ["google", "drive", "files"],
+      "source": "./plugins/google-drive"
+    },
+    {
+      "name": "google-agenda",
+      "displayName": "Google Agenda",
+      "description": "Consulte e gerencie compromissos do Google Agenda.",
+      "author": { "name": "PowerProfile" },
+      "homepage": "https://powerprofile.com.br",
+      "category": "productivity",
+      "keywords": ["google", "calendar", "agenda"],
+      "source": "./plugins/google-agenda"
+    },
+    {
+      "name": "notion",
+      "displayName": "Notion",
+      "description": "Consulte e atualize paginas e bases do Notion.",
+      "author": { "name": "PowerProfile" },
+      "homepage": "https://powerprofile.com.br",
+      "category": "productivity",
+      "keywords": ["notion", "docs", "knowledge"],
+      "source": "./plugins/notion"
+    },
+    {
+      "name": "slack",
+      "displayName": "Slack",
+      "description": "Pesquise conversas e trabalhe com mensagens do Slack.",
+      "author": { "name": "PowerProfile" },
+      "homepage": "https://powerprofile.com.br",
+      "category": "productivity",
+      "keywords": ["slack", "chat", "teams"],
+      "source": "./plugins/slack"
+    },
+    {
+      "name": "canva",
+      "displayName": "Canva",
+      "description": "Acesse e gerencie recursos e designs do Canva.",
+      "author": { "name": "PowerProfile" },
+      "homepage": "https://powerprofile.com.br",
+      "category": "productivity",
+      "keywords": ["canva", "design", "creative"],
+      "source": "./plugins/canva"
     }
   ]
 }

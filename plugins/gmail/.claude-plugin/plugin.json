@@ -1,0 +1,8 @@
+{
+  "name": "gmail",
+  "displayName": "Gmail",
+  "description": "Leia, pesquise, organize e envie emails pelo Gmail.",
+  "author": { "name": "PowerProfile" },
+  "homepage": "https://powerprofile.com.br",
+  "license": "Proprietary"
+}
