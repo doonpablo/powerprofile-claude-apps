@@ -1,0 +1,13 @@
+{
+  "name": "powerprofile-apps",
+  "displayName": "PowerProfile Apps",
+  "version": "1.0.0",
+  "description": "Conecte os aplicativos que voce usa por OAuth gerenciado, sem armazenar credenciais na PowerProfile.",
+  "author": {
+    "name": "PowerProfile",
+    "url": "https://powerprofile.com.br"
+  },
+  "homepage": "https://powerprofile.com.br",
+  "license": "Proprietary",
+  "keywords": ["connectors", "oauth", "gmail", "drive", "calendar", "notion", "slack", "canva"]
+}

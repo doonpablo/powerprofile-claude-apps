@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powerprofile-apps": {
+      "type": "http",
+      "url": "https://mcp.pipedream.net/v2"
+    }
+  }
+}
