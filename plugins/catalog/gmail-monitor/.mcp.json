@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gmail-monitor": {
+      "type": "http",
+      "url": "https://connectors.powerprofile.com.br/mcp/gmail-monitor",
+      "headers": {
+        "Authorization": "Bearer ${POWERPROFILE_API_KEY}"
+      }
+    }
+  }
+}

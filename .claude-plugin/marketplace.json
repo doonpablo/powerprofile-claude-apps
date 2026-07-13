@@ -308,6 +308,28 @@
       "version": "1.0.0"
     },
     {
+      "name": "gmail-monitor",
+      "displayName": "Monitor do Gmail",
+      "defaultEnabled": false,
+      "description": "Consulta emails e notificações do Gmail em modo estritamente de leitura, próprio para rotinas agendadas.",
+      "author": {
+        "name": "PowerProfile"
+      },
+      "homepage": "https://powerprofile.com.br",
+      "category": "productivity",
+      "keywords": [
+        "gmail",
+        "email",
+        "monitor",
+        "read-only",
+        "conector-real",
+        "mcp",
+        "oauth"
+      ],
+      "source": "./plugins/catalog/gmail-monitor",
+      "version": "1.0.0"
+    },
+    {
       "name": "shopify",
       "displayName": "Shopify",
       "defaultEnabled": false,

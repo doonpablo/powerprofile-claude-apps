@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gmail-monitor",
+  "displayName": "Monitor do Gmail",
+  "description": "Consulta emails e notificações do Gmail em modo estritamente de leitura, próprio para rotinas agendadas.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://powerprofile.com.br",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gmail",
+    "monitor",
+    "read-only"
+  ],
+  "version": "1.0.0"
+}
