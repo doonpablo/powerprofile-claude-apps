@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "chatwork",
+  "displayName": "Chatwork",
+  "description": "Chatwork is a team communication platform featuring group chats, file sharing, and task management, aiming to enhance collaboration and productivity for businesses",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://go.chatwork.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "chatwork",
+    "team-chat"
+  ]
+}

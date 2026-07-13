@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pilvio",
+  "displayName": "Pilvio",
+  "description": "Pilvio is a cloud service provider offering virtual machines, object storage, and full API support for resource management and automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pilvio.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pilvio",
+    "developer-tools"
+  ]
+}

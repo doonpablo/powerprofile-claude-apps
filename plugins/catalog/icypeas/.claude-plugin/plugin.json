@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "icypeas",
+  "displayName": "Icypeas",
+  "description": "Icypeas is an email discovery and verification tool that allows users to find and verify professional email addresses using first name, last name, and company domain.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.icypeas.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "icypeas",
+    "email"
+  ]
+}

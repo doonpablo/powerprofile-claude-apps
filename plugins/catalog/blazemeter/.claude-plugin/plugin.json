@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "blazemeter",
+  "displayName": "Blazemeter",
+  "description": "BlazeMeter is a continuous testing platform that enables users to create, run, and analyze performance and functional tests for web and mobile applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.blazemeter.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "blazemeter",
+    "developer-tools"
+  ]
+}

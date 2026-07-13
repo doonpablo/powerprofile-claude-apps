@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "whatsapp",
+  "displayName": "WhatsApp",
+  "description": "Enables interaction with customers through the WhatsApp Business API for messaging and automation. Only supports WhatsApp Business accounts, not WhatsApp Personal accounts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://web.whatsapp.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "whatsapp",
+    "phone-sms"
+  ]
+}

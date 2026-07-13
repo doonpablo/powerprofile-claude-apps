@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "browseai",
+  "displayName": "Browseai",
+  "description": "Browse.ai allows you to turn any website into an API using its advanced web automation and data extraction tools, enabling easy monitoring and data retrieval from websites.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.browseai.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "browseai",
+    "ai-web-scraping"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "storerocket",
+  "displayName": "Storerocket",
+  "description": "StoreRocket is a store locator software platform that enables businesses to add customizable, interactive location finders to their websites. It provides location management, real-time opening hours, search filters, custom fields, lead collection, analytics, and a REST API for seamless integration with platforms like WordPress, Shopify, Webflow, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://storerocket.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "storerocket",
+    "ecommerce"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "studio-by-ai21-labs",
+  "displayName": "Studio By Ai21 Labs",
+  "description": "AI21 Studio provides API access to Jurassic-1 large-language-models. Our models power text generation and comprehension features in thousands of live applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ai21.com/studio",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "studio-by-ai21-labs",
+    "ai-models"
+  ]
+}

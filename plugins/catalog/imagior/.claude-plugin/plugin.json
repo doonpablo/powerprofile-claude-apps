@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "imagior",
+  "displayName": "Imagior",
+  "description": "Imagior is an AI-powered automated image generation software that enables businesses and creators to create and customize images using templates via no-code or API solutions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://imagior.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "imagior",
+    "images-design"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docparser",
+  "displayName": "Docparser",
+  "description": "Docparser is the most advanced cloud based document parsing and automation tool in the market today.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://docparser.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docparser",
+    "documents"
+  ]
+}

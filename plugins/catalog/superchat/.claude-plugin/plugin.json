@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "superchat",
+  "displayName": "Superchat",
+  "description": "Superchat is a unified messaging platform that enables businesses to communicate with customers across multiple channels, including WhatsApp, Instagram Direct, Facebook Messenger, Email, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.superchat.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "superchat",
+    "team-chat"
+  ]
+}

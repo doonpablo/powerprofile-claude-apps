@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cursor",
+  "displayName": "Cursor",
+  "description": "Cursor is an AI-powered code editor built on VSCode. The API provides access to Cloud Agents, Admin, Analytics, and AI Code Tracking features.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cursor.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cursor",
+    "developer-tools"
+  ]
+}

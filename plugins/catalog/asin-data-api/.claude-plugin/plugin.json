@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "asin-data-api",
+  "displayName": "ASIN Data API",
+  "description": "ASIN Data API provides detailed product data from Amazon, including price, rank, reviews, and more, enabling real-time insights for e-commerce professionals, marketers, and data analysts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.asindataapi.com/profile",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "asin-data-api",
+    "ecommerce"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho-inventory",
+  "displayName": "Zoho Inventory",
+  "description": "Zoho Inventory helps businesses track stock, manage orders, and sync inventory across multiple sales channels, streamlining supply chain operations",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoho.com/us/inventory/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho-inventory",
+    "accounting"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "magnetic",
+  "displayName": "Magnetic",
+  "description": "Magnetic is an all-in-one platform designed to help professional services firms manage projects, resources, and finances efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.magnetic.app/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "magnetic",
+    "project-management"
+  ]
+}

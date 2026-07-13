@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dotsimple",
+  "displayName": "Dotsimple",
+  "description": "DotSimple is a comprehensive social media management tool that enables users to plan, create, and publish content across multiple platforms, leveraging AI for content generation and providing analytics for performance optimization.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dotsimple.io/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dotsimple",
+    "social-media-marketing"
+  ]
+}

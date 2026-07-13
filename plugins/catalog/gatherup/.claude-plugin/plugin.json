@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gatherup",
+  "displayName": "Gatherup",
+  "description": "GatherUp is a customer feedback and online review management platform that helps businesses collect, manage, and leverage customer feedback to improve their online reputation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gatherup.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gatherup",
+    "reviews"
+  ]
+}

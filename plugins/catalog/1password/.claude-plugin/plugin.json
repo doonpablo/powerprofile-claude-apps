@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "1password",
+  "displayName": "1password",
+  "description": "Password manager and digital vault for secure credential storage and team collaboration",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://1password.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "1password",
+    "security-identity-tools"
+  ]
+}

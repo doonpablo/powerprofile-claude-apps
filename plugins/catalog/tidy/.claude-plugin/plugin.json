@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tidy",
+  "displayName": "Tidy",
+  "description": "TIDY helps to maintain a clean house. A rental. Your employee's workspace. Your home. All automated through TIDY.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.tidy.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tidy",
+    "scheduling-booking"
+  ]
+}

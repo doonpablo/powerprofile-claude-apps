@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "forcemanager",
+  "displayName": "Forcemanager",
+  "description": "ForceManager is a mobile-first CRM designed to enhance sales team productivity by providing real-time insights and streamlined management of customer interactions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.forcemanager.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "forcemanager",
+    "crm"
+  ]
+}

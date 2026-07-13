@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "poof",
+  "displayName": "Poof",
+  "description": "Empowering millions of digital businesses & creators with payments from crypto to fiat",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.poof.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "poof",
+    "payment-processing"
+  ]
+}

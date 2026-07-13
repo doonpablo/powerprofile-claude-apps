@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "segmetrics",
+  "displayName": "Segmetrics",
+  "description": "SegMetrics is a marketing analytics platform that provides detailed insights into customer journeys, helping businesses optimize their marketing strategies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://segmetrics.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "segmetrics",
+    "analytics"
+  ]
+}

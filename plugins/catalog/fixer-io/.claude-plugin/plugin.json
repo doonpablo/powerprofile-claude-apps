@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fixer-io",
+  "displayName": "Fixer.io",
+  "description": "Fixer.io is a simple and lightweight API for current and historical foreign exchange rates and currency conversion.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fixer.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fixer-io",
+    "developer-tools"
+  ]
+}

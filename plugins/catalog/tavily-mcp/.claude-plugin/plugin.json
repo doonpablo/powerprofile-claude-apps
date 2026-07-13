@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tavily-mcp",
+  "displayName": "Tavily MCP",
+  "description": "AI-powered search API for real-time web search, extraction, and crawling optimized for AI agents.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.tavily.com/mcp/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tavily-mcp",
+    "model-context-protocol"
+  ]
+}

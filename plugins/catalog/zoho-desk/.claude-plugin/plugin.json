@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho-desk",
+  "displayName": "Zoho Desk",
+  "description": "Zoho Desk is a context-aware helpdesk platform enabling support teams to track tickets, automate workflows, and gain insights on customer interactions",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoho.com/desk",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho-desk",
+    "crm"
+  ]
+}

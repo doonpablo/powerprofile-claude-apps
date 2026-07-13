@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "smugmug",
+  "displayName": "SmugMug",
+  "description": "SmugMug is a platform for photographers to showcase, share, and sell their photos and videos.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.smugmug.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "smugmug",
+    "images-design"
+  ]
+}

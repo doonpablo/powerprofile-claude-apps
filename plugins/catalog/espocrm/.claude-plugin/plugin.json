@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "espocrm",
+  "displayName": "Espocrm",
+  "description": "EspoCRM is an open-source web application that allows businesses to manage their customer relationships effectively.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.espocrm.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "espocrm",
+    "crm"
+  ]
+}

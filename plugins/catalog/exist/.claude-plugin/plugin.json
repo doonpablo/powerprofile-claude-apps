@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "exist",
+  "displayName": "Exist",
+  "description": "Exist is a personal analytics app that combines data from various services to help users understand and improve their lives.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://exist.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "exist",
+    "analytics"
+  ]
+}

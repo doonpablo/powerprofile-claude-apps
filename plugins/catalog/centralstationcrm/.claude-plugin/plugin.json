@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "centralstationcrm",
+  "displayName": "CentralStationCRM",
+  "description": "CentralStationCRM is an easy-to-use CRM software focusing on collaboration and long-term customer relationships.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://centralstationcrm.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "centralstationcrm",
+    "crm"
+  ]
+}

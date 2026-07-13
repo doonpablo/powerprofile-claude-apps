@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fibery",
+  "displayName": "Fibery",
+  "description": "Fibery is a work management platform designed to help teams collaborate, organize information, and manage their workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fibery.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fibery",
+    "project-management"
+  ]
+}

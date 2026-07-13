@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tpscheck",
+  "displayName": "Tpscheck",
+  "description": "TPSCheck is a service that verifies in real-time if a phone number is registered with the UK's Telephone Preference Service (TPS) or Corporate Telephone Preference Service (CTPS), providing insights on validity, location, type, and provider of the number.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.tpscheck.uk/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tpscheck",
+    "marketing-automation"
+  ]
+}

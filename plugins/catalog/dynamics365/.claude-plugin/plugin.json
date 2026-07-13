@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dynamics365",
+  "displayName": "Dynamics 365",
+  "description": "Dynamics 365 from Microsoft combines CRM, ERP, and productivity apps to streamline sales, marketing, customer service, and operations in one integrated platform",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.microsoft.com/en-in/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dynamics365",
+    "crm"
+  ]
+}

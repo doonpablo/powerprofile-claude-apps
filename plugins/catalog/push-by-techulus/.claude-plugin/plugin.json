@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "push-by-techulus",
+  "displayName": "Push by Techulus",
+  "description": "Push by Techulus offers a cross-platform solution for sending push notifications via code and no-code to deliver transactional information in real-time.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://push.techulus.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "push-by-techulus",
+    "notifications"
+  ]
+}

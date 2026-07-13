@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "prerender",
+  "displayName": "Prerender",
+  "description": "Prerender.io is a service that pre-renders JavaScript-heavy websites to improve SEO by serving static HTML versions to search engine crawlers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://prerender.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "prerender",
+    "developer-tools"
+  ]
+}

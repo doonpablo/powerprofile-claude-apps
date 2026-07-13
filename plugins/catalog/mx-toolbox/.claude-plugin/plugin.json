@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mx-toolbox",
+  "displayName": "MXToolbox",
+  "description": "MxToolbox provides a suite of network diagnostic and monitoring tools, including DNS lookups, blacklist checks, and email health analysis.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mxtoolbox.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mx-toolbox",
+    "server-monitoring"
+  ]
+}

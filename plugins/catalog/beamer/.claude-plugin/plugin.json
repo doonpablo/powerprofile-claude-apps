@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "beamer",
+  "displayName": "Beamer",
+  "description": "Beamer is a platform that enables companies to announce news, updates, and features directly within their applications or websites, enhancing user engagement and communication.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.getbeamer.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "beamer",
+    "notifications"
+  ]
+}

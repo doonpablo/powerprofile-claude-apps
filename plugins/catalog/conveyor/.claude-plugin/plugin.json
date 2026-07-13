@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "conveyor",
+  "displayName": "Conveyor",
+  "description": "Conveyor is a platform that automates security reviews by providing a Trust Center, AI-driven questionnaire automation, and integrations with various tools to streamline compliance processes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.conveyor.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "conveyor",
+    "security-identity-tools"
+  ]
+}

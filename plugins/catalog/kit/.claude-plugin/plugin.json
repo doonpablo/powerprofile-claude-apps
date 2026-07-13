@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kit",
+  "displayName": "Kit",
+  "description": "Kit is a platform that allows creators to automate tasks and developers to build apps for the Kit App Store.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kit.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kit",
+    "marketing-automation"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "blackboard",
+  "displayName": "Blackboard",
+  "description": "Anthology Adopt powered by Pendo allows institutions to gain insights on Blackboard Learn usage and take action through in-app messages, digital walkthrough guides, and tooltips.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.blackboard.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "blackboard",
+    "education"
+  ]
+}

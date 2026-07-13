@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "maxio",
+  "displayName": "Maxio",
+  "description": "Subscription billing and revenue management platform (formerly Chargify)",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.maxio.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "maxio",
+    "commerce"
+  ]
+}

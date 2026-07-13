@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gleap",
+  "displayName": "Gleap",
+  "description": "Gleap is an all-in-one customer feedback tool for apps and websites, enabling direct communication with users to build better software by discovering their everyday pain points.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gleap.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gleap",
+    "customer-support"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ambee",
+  "displayName": "Ambee",
+  "description": "Ambee provides real-time, hyperlocal environmental data through APIs, offering insights into air quality, weather, pollen, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://api-dashboard.getambee.com/#/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ambee",
+    "developer-tools"
+  ]
+}

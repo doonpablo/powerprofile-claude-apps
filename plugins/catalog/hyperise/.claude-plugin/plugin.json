@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hyperise",
+  "displayName": "Hyperise",
+  "description": "Hyperise is a personalization toolkit that enables sales and marketing teams to add dynamic, personalized elements to images, videos, and websites, enhancing engagement across various channels.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://hyperise.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hyperise",
+    "marketing-automation"
+  ]
+}

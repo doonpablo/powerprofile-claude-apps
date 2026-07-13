@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "helpdesk",
+  "displayName": "Helpdesk",
+  "description": "HelpDesk is a ticketing system designed to streamline customer support by organizing and managing inquiries efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.helpdesk.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "helpdesk",
+    "customer-support"
+  ]
+}

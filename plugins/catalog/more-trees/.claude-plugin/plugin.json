@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "more-trees",
+  "displayName": "More Trees",
+  "description": "More Trees is a sustainability-focused platform planting trees on behalf of individuals or businesses aiming to offset carbon footprints and support reforestation",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.moretrees.eco/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "more-trees",
+    "news-lifestyle"
+  ]
+}

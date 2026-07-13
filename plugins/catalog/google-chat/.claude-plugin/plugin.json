@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "google-chat",
+  "displayName": "Google Chat",
+  "description": "Google Chat API integration for messaging and collaboration in Google Workspace",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://chat.google.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "google-chat",
+    "productivity"
+  ]
+}

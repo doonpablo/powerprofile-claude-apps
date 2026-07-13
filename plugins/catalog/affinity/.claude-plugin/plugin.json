@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "affinity",
+  "displayName": "Affinity",
+  "description": "Affinity helps private capital investors to find, manage, and close more deals",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.affinity.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "affinity",
+    "crm"
+  ]
+}

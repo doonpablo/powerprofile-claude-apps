@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "vectorshift",
+  "displayName": "Vectorshift",
+  "description": "The End-to-End AI Automations Platform for building and deploying AI workflows, pipelines, chatbots, and knowledge bases.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://vectorshift.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "vectorshift",
+    "developer-tools"
+  ]
+}

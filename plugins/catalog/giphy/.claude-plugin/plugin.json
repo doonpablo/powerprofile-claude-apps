@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "giphy",
+  "displayName": "Giphy",
+  "description": "GIPHY is the first and largest GIF search engine, offering an extensive library of GIFs and Stickers for integration into applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developers.giphy.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "giphy",
+    "images-design"
+  ]
+}

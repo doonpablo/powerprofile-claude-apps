@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "roboflow",
+  "displayName": "Roboflow",
+  "description": "Build and use computer vision models fast with Roboflow. Train, deploy, and run inference on object detection, classification, and segmentation models.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://roboflow.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "roboflow",
+    "artificial-intelligence"
+  ]
+}

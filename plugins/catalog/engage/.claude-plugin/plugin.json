@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "engage",
+  "displayName": "Engage",
+  "description": "Engage turns your customers into fans with personalised messaging; using emails, push and in-app notifications, and SMS.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://engage.so/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "engage",
+    "marketing-automation"
+  ]
+}

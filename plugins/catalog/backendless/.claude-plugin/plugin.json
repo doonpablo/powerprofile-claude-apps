@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "backendless",
+  "displayName": "Backendless",
+  "description": "Backendless is a comprehensive backend-as-a-service (BaaS) platform providing scalable backend functionality for mobile and web applications, including user authentication, data persistence, file storage, and custom API services.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://backendless.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "backendless",
+    "developer-tools"
+  ]
+}

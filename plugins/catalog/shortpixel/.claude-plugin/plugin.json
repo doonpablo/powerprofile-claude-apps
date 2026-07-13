@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "shortpixel",
+  "displayName": "Shortpixel",
+  "description": "ShortPixel is an image optimization and compression service that offers APIs and plugins to enhance website performance by reducing image sizes without compromising quality.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://shortpixel.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "shortpixel",
+    "images-design"
+  ]
+}

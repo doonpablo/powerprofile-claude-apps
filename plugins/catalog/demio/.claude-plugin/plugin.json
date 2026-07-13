@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "demio",
+  "displayName": "Demio",
+  "description": "Demio is a webinar software for marketers, offering live and automated sessions, audience engagement tools, and analytics to optimize lead generation",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.demio.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "demio",
+    "webinars"
+  ]
+}

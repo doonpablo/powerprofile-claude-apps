@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ip2whois",
+  "displayName": "Ip2Whois",
+  "description": "IP2WHOIS provides a WHOIS lookup API that returns comprehensive domain information, including creation date, updated date, expiration date, domain age, registrant contact information, and nameservers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ip2whois.com/register",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ip2whois",
+    "security-identity-tools"
+  ]
+}

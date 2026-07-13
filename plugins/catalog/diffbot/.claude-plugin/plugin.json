@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "diffbot",
+  "displayName": "Diffbot",
+  "description": "Diffbot provides AI-powered tools to extract and structure data from web pages, transforming unstructured web content into structured, linked data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.diffbot.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "diffbot",
+    "artificial-intelligence"
+  ]
+}

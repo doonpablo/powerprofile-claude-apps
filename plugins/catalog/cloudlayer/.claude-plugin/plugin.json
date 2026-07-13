@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudlayer",
+  "displayName": "Cloudlayer",
+  "description": "cloudlayer.io is a document and asset generation service that enables users to dynamically create PDFs and images through a REST-based API, SDKs, or no-code integrations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloudlayer.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudlayer",
+    "documents"
+  ]
+}

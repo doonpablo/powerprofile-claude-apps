@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clickmeeting",
+  "displayName": "Clickmeeting",
+  "description": "ClickMeeting is a cloud-based online meeting and webinar platform that enables businesses and individuals to host virtual meetings, webinars, and training sessions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://clickmeeting.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "clickmeeting",
+    "webinars"
+  ]
+}

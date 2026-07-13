@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "freeagent",
+  "displayName": "Freeagent",
+  "description": "Cloud-based accounting software for freelancers and small businesses",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.freeagent.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "freeagent",
+    "accounting"
+  ]
+}

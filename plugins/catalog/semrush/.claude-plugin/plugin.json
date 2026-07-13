@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "semrush",
+  "displayName": "Semrush",
+  "description": "Semrush is a popular SEO tool suite that specializes in keyword research, competitor analysis, and Google Ad campaign optimization.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.semrush.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "semrush",
+    "marketing"
+  ]
+}

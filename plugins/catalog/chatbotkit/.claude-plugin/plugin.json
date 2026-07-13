@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "chatbotkit",
+  "displayName": "Chatbotkit",
+  "description": "ChatBotKit is a platform that enables developers to build and manage AI-powered chatbots, offering comprehensive APIs and SDKs for seamless integration into applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://chatbotkit.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "chatbotkit",
+    "ai-chatbots"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "conversion-tools",
+  "displayName": "Conversion Tools",
+  "description": "Conversion Tools is an online service that offers a fast and easy way to convert documents between different formats, like XML, Excel, PDF, Word, Text, CSV, and others.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://conversiontools.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "conversion-tools",
+    "documents"
+  ]
+}

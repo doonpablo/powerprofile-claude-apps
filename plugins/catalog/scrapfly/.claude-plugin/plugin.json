@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scrapfly",
+  "displayName": "Scrapfly",
+  "description": "Scrapfly is a web scraping API that enables developers to extract data from websites efficiently, offering features like JavaScript rendering, anti-bot protection bypass, and proxy rotation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://scrapfly.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scrapfly",
+    "ai-web-scraping"
+  ]
+}

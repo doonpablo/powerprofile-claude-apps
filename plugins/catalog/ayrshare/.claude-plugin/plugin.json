@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ayrshare",
+  "displayName": "Ayrshare",
+  "description": "Ayrshare provides a Social Media API that enables developers to programmatically manage and automate social media posts, analytics, and interactions across multiple platforms.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ayrshare.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ayrshare",
+    "social-media-marketing"
+  ]
+}

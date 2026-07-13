@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bitquery",
+  "displayName": "Bitquery",
+  "description": "Bitquery provides historical and real-time indexed data for over 40 blockchains through GraphQL APIs, Websockets, SQL, and cloud providers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bitquery.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bitquery",
+    "analytics"
+  ]
+}

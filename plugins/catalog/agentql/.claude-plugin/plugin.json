@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agentql",
+  "displayName": "Agentql",
+  "description": "AgentQL is a suite of tools designed to connect AI agents to the web, enabling web interaction and structured data extraction through a specialized query language.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.agentql.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "agentql",
+    "ai-web-scraping"
+  ]
+}

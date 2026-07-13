@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "enginemailer",
+  "displayName": "Enginemailer",
+  "description": "Enginemailer is an email marketing platform that enables businesses to manage contacts, design campaigns, and send personalized emails.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.enginemailer.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "enginemailer",
+    "email-newsletters"
+  ]
+}

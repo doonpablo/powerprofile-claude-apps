@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "railway",
+  "displayName": "Railway",
+  "description": "Railway is a deployment platform for building and shipping applications with instant deployments, automatic scaling, and managed infrastructure.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://railway.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "railway",
+    "developer-tools"
+  ]
+}

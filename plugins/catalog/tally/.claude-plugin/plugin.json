@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tally",
+  "displayName": "Tally",
+  "description": "Tally is a form-building platform that allows users to create forms, collect responses, and integrate with various tools and services.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://tally.so/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tally",
+    "forms-surveys"
+  ]
+}

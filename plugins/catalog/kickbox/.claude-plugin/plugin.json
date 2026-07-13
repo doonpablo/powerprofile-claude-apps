@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kickbox",
+  "displayName": "Kickbox",
+  "description": "Kickbox provides an API for real-time email verification, list cleaning, and quality scoring to ensure email deliverability.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kickbox.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kickbox",
+    "email"
+  ]
+}

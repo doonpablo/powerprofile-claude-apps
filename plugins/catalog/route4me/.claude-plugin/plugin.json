@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "route4me",
+  "displayName": "Route4me",
+  "description": "Route4Me provides a Last Mile Routing API offering automated solutions for route planning and optimization, tailored for logistics-intensive businesses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://route4me.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "route4me",
+    "project-management"
+  ]
+}

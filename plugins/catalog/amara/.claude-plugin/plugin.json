@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "amara",
+  "displayName": "Amara",
+  "description": "Amara is an online platform that enables users to create, edit, and manage subtitles and captions for videos, facilitating accessibility and multilingual content.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://amara.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "amara",
+    "video-audio"
+  ]
+}

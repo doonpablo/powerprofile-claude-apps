@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "datadog",
+  "displayName": "Datadog",
+  "description": "Datadog offers monitoring, observability, and security for cloud-scale applications, unifying metrics, logs, and traces to help teams detect issues and optimize performance",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.datadoghq.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "datadog",
+    "server-monitoring"
+  ]
+}

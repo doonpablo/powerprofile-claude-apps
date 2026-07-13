@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "baselinker",
+  "displayName": "Baselinker",
+  "description": "BaseLinker is a comprehensive e-commerce management platform that integrates with various marketplaces, online stores, carriers, and accounting systems to streamline order processing, inventory management, and sales automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://baselinker.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "baselinker",
+    "ecommerce"
+  ]
+}

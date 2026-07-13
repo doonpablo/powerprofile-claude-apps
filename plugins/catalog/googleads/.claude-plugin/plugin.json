@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googleads",
+  "displayName": "Google Ads",
+  "description": "Google Ads, is an online advertising platform developed by Google, where advertisers bid to display brief advertisements, service offerings, product listings, and videos to web users.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://composio.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googleads",
+    "ads-conversion"
+  ]
+}

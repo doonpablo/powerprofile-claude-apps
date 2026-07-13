@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "formbricks",
+  "displayName": "Formbricks",
+  "description": "Formbricks is an open-source platform for building and managing surveys, enabling organizations to collect and analyze user feedback effectively.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://formbricks.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "formbricks",
+    "forms-surveys"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fathom",
+  "displayName": "Fathom",
+  "description": "AI meeting assistant that records, transcribes, and summarizes meetings",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fathom.video",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fathom",
+    "ai-meeting-assistants"
+  ]
+}

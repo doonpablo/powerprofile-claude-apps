@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "prisma",
+  "displayName": "Prisma",
+  "description": "Prisma Data Platform provides database tools including Accelerate (global database cache), Optimize (AI-driven query analysis), and Prisma Postgres (managed PostgreSQL). Manage workspaces, projects, environments, and API keys programmatically.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://console.prisma.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "prisma",
+    "databases"
+  ]
+}

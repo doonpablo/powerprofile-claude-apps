@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho",
+  "displayName": "Zoho",
+  "description": "Zoho is a suite of cloud applications including CRM, email marketing, and collaboration tools, enabling businesses to automate and scale operations",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoho.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho",
+    "crm"
+  ]
+}

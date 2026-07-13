@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "text-to-pdf",
+  "displayName": "Text to PDF",
+  "description": "Convert text to PDF",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://composio.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "text-to-pdf",
+    "documents"
+  ]
+}

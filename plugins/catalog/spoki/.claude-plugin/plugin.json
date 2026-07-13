@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "spoki",
+  "displayName": "Spoki",
+  "description": "Spoki is an Italian platform that integrates WhatsApp's official APIs to automate communication for marketing, sales, customer support, and payments.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://spoki.it/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "spoki",
+    "marketing-automation"
+  ]
+}

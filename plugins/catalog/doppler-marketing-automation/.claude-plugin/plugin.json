@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "doppler-marketing-automation",
+  "displayName": "Doppler Marketing Automation",
+  "description": "Doppler is a marketing automation platform that enables users to create, send, and analyze email campaigns, manage subscriber lists, and integrate with various tools to enhance marketing efforts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.fromdoppler.com/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "doppler-marketing-automation",
+    "marketing-automation"
+  ]
+}

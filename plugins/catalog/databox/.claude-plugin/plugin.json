@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "databox",
+  "displayName": "Databox",
+  "description": "Connect your data from any tool and track it from any device. Build and share reports, monitor trends, and discover insights.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://databox.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "databox",
+    "analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sslmate-cert-spotter-api",
+  "displayName": "SSLMate Cert Spotter API",
+  "description": "Cert Spotter API by SSLMate monitors Certificate Transparency logs to alert users about SSL/TLS certificates issued for their domains, helping detect unauthorized certificates and potential security issues.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sslmate.com/certspotter/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sslmate-cert-spotter-api",
+    "security-identity-tools"
+  ]
+}

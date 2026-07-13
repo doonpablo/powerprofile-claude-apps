@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dialmycalls",
+  "displayName": "Dialmycalls",
+  "description": "DialMyCalls provides a mass notification system enabling users to send voice and text messages to contacts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dialmycalls.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dialmycalls",
+    "communication"
+  ]
+}

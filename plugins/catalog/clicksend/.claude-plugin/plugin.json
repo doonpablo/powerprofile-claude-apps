@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clicksend",
+  "displayName": "ClickSend",
+  "description": "ClickSend is a cloud-based SMS and email marketing platform that enables businesses to send and receive SMS messages, manage contacts, and track campaign performance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://clicksend.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "clicksend",
+    "phone-sms"
+  ]
+}

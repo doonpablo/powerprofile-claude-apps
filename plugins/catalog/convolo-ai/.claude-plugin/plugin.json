@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "convolo-ai",
+  "displayName": "Convolo AI",
+  "description": "Convolo.ai is an AI-powered communications platform designed to enhance sales calls and improve conversion rates through rapid lead response and integration capabilities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://convolo.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "convolo-ai",
+    "ai-sales-tools"
+  ]
+}

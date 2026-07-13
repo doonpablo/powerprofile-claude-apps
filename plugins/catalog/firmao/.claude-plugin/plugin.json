@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "firmao",
+  "displayName": "Firmao",
+  "description": "Firmao is a business information platform offering data and insights on companies, industries, and markets, providing tools for company research, industry analysis, and market intelligence.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://firmao.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "firmao",
+    "crm"
+  ]
+}

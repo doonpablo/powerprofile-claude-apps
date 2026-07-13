@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "composio",
+  "displayName": "Composio",
+  "description": "Composio enables AI Agents and LLMs to authenticate and integrate with various tools via function calling.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://composio.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "composio",
+    "ai-agents"
+  ]
+}

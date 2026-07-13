@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apify",
+  "displayName": "Apify",
+  "description": "Apify is a platform for building, deploying, and managing web scraping and automation tools, known as Actors.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://apify.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apify",
+    "ai-web-scraping"
+  ]
+}

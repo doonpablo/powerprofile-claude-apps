@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "recallai",
+  "displayName": "Recall.ai",
+  "description": "Recall AI provides a unified API to integrate meeting bots and access conversation data from major video conferencing platforms, enabling seamless automation, transcription, and analysis of virtual meetings.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.recall.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "recallai",
+    "ai-meeting-assistants"
+  ]
+}

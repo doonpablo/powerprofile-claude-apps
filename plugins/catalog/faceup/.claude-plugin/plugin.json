@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "faceup",
+  "displayName": "Faceup",
+  "description": "FaceUp is an anonymous reporting tool designed for companies and schools, enabling employees and students to safely report issues and misconduct.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.faceup.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "faceup",
+    "customer-support"
+  ]
+}

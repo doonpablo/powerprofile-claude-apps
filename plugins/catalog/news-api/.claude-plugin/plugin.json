@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "news-api",
+  "displayName": "NewsAPI",
+  "description": "News API is a simple HTTP REST API for searching and retrieving live articles from all over the web.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://newsapi.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "news-api",
+    "news-lifestyle"
+  ]
+}

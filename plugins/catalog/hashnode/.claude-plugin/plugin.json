@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hashnode",
+  "displayName": "Hashnode",
+  "description": "Hashnode is a blogging platform tailored for developers, offering tools to create, manage, and publish content seamlessly.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://hashnode.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hashnode",
+    "developer-tools"
+  ]
+}

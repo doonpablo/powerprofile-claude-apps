@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docsautomator",
+  "displayName": "Docsautomator",
+  "description": "Automate your documents using Google Docs in minutes. Create, manage, and generate documents from templates with the DocsAutomator API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.docsautomator.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docsautomator",
+    "documents"
+  ]
+}

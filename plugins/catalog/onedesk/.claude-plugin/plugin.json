@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "onedesk",
+  "displayName": "Onedesk",
+  "description": "OneDesk is an all-in-one platform combining help desk and project management functionalities, enabling teams to manage customer support and project tasks seamlessly.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.onedesk.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "onedesk",
+    "customer-support"
+  ]
+}

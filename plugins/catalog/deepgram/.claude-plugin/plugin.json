@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "deepgram",
+  "displayName": "Deepgram",
+  "description": "Deepgram provides AI-powered speech recognition and understanding services, offering APIs for real-time and pre-recorded audio transcription, text-to-speech, and audio intelligence.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://deepgram.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "deepgram",
+    "artificial-intelligence"
+  ]
+}

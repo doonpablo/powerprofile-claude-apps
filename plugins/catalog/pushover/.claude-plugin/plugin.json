@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pushover",
+  "displayName": "Pushover",
+  "description": "Pushover is a service that enables real-time notifications to your devices through simple API integration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pushover.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pushover",
+    "notifications"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "userlist",
+  "displayName": "Userlist",
+  "description": "Userlist is a full-stack email automation platform designed for SaaS companies, enabling targeted behavior-based campaigns through email and in-app messages.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://userlist.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "userlist",
+    "marketing-automation"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apilio",
+  "displayName": "Apilio",
+  "description": "Apilio is a home automation platform that enables users to connect and control smart devices from various brands, offering flexible automation through complex conditions, time constraints, and integrations with services like IFTTT and Tuya.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.apilio.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apilio",
+    "internet-of-things"
+  ]
+}

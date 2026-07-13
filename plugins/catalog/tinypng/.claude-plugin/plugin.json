@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tinypng",
+  "displayName": "TinyPNG",
+  "description": "TinyPNG uses smart lossy compression techniques to reduce the file size of your WebP, JPEG, and PNG files.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://tinypng.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tinypng",
+    "images-design"
+  ]
+}

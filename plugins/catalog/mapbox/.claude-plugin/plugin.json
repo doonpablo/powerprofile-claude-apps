@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mapbox",
+  "displayName": "Mapbox",
+  "description": "Mapbox is a platform that provides mapping, navigation, and location data services for developers to integrate into their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mapbox.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mapbox",
+    "developer-tools"
+  ]
+}

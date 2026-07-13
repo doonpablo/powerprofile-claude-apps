@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "salesforce",
+  "displayName": "Salesforce",
+  "description": "Salesforce is a leading CRM platform integrating sales, service, marketing, and analytics to build customer relationships and drive business growth",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.salesforce.com/in/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "salesforce",
+    "crm"
+  ]
+}

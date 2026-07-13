@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "re-amaze",
+  "displayName": "Re:amaze",
+  "description": "Re:amaze is a multi-channel customer support platform offering live chat, email, social messaging, and automated workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.reamaze.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "re-amaze",
+    "customer-support"
+  ]
+}

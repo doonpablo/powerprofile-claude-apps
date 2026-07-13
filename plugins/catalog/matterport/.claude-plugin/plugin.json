@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "matterport",
+  "displayName": "Matterport",
+  "description": "Capture, share, and collaborate the built world in immersive 3D",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://matterport.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "matterport",
+    "developer-tools"
+  ]
+}

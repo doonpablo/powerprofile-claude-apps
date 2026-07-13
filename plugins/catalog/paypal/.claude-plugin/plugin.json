@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "paypal",
+  "displayName": "Paypal",
+  "description": "Online payment system that allows money transfers and serves as an electronic alternative to traditional payment methods",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.paypal.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "paypal",
+    "payment-processing"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agencyzoom",
+  "displayName": "AgencyZoom",
+  "description": "AgencyZoom is for the P&C insurance agent that's looking to increase sales, boost retention and analyze agency & producer performance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.agencyzoom.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "agencyzoom",
+    "crm"
+  ]
+}

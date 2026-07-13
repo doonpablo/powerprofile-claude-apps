@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "manus",
+  "displayName": "Manus",
+  "description": "AI-powered task automation and workflow management platform",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://manus.im",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "manus",
+    "productivity"
+  ]
+}

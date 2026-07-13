@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wati",
+  "displayName": "Wati",
+  "description": "Wati is a WhatsApp Business API platform that automates marketing, sales, service, and support.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.wati.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wati",
+    "marketing-automation"
+  ]
+}

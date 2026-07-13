@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nango",
+  "displayName": "Nango",
+  "description": "Nango provides a unified API to integrate with over 250 external APIs, offering pre-built and customizable integrations for various categories such as CRM, HR, and accounting systems.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.nango.dev/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nango",
+    "developer-tools"
+  ]
+}

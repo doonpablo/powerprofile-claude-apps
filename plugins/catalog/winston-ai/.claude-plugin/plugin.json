@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "winston-ai",
+  "displayName": "Winston AI",
+  "description": "Winston AI provides a comprehensive content verification and management platform, offering tools for AI-generated text detection, plagiarism detection, and AI image detection.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dev.gowinston.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "winston-ai",
+    "ai-safety-compliance-detection"
+  ]
+}

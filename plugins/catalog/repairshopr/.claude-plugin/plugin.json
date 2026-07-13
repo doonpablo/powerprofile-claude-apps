@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "repairshopr",
+  "displayName": "RepairShopr",
+  "description": "RepairShopr is a comprehensive repair shop management software designed to streamline operations, manage customer relationships, and enhance business efficiency.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.repairshopr.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "repairshopr",
+    "crm"
+  ]
+}

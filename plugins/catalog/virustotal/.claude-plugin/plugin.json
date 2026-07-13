@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "virustotal",
+  "displayName": "Virustotal",
+  "description": "VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content using multiple antivirus engines and website scanners.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.virustotal.com/gui/home/upload",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "virustotal",
+    "security-identity-tools"
+  ]
+}

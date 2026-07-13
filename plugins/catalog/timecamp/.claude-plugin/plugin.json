@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "timecamp",
+  "displayName": "TimeCamp",
+  "description": "TimeCamp is a time tracking solution designed to help businesses of all sizes track time for projects to maximize their profits.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.timecamp.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "timecamp",
+    "time-tracking-software"
+  ]
+}

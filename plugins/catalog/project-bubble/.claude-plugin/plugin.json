@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "project-bubble",
+  "displayName": "Project Bubble",
+  "description": "ProProfs Project is a project management tool that helps teams plan, collaborate, and deliver projects efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.proprofsproject.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "project-bubble",
+    "project-management"
+  ]
+}

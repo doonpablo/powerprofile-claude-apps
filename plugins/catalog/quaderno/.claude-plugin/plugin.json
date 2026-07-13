@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "quaderno",
+  "displayName": "Quaderno",
+  "description": "Quaderno is a tax compliance platform that automates tax calculations, invoicing, and reporting for businesses worldwide.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://quaderno.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "quaderno",
+    "taxes"
+  ]
+}

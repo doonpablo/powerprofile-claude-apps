@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "groqcloud",
+  "displayName": "GroqCloud",
+  "description": "GroqCloud provides high-performance AI inference services, enabling developers to deploy and manage AI models efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://console.groq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "groqcloud",
+    "ai-models"
+  ]
+}

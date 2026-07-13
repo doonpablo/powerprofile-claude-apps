@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "parallel",
+  "displayName": "Parallel",
+  "description": "Parallel offers a Task API for automated, structured web research, transforming natural language queries into precise, schema-compliant outputs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://parallel.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "parallel",
+    "ai-web-scraping"
+  ]
+}

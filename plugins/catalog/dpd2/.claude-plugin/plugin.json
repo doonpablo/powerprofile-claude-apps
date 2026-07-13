@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dpd2",
+  "displayName": "Dpd2",
+  "description": "DPD is a digital product delivery platform for selling ebooks, software, music, and other digital goods.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://getdpd.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dpd2",
+    "ecommerce"
+  ]
+}

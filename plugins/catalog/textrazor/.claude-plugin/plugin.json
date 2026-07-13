@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "textrazor",
+  "displayName": "TextRazor",
+  "description": "TextRazor is a natural language processing API that extracts meaning, entities, and relationships from text, powering advanced content analysis and sentiment detection",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.textrazor.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "textrazor",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "splitwise",
+  "displayName": "Splitwise",
+  "description": "Splitwise helps you split bills and expenses with friends and family.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://splitwise.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "splitwise",
+    "accounting"
+  ]
+}

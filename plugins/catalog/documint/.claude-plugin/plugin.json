@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "documint",
+  "displayName": "Documint",
+  "description": "Documint is a document generation platform that allows you to create dynamic documents from templates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://documint.me",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "documint",
+    "documents"
+  ]
+}

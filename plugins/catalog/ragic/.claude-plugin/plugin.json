@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ragic",
+  "displayName": "Ragic",
+  "description": "Ragic is a web-based database builder that allows users to create and manage databases as easily as creating a spreadsheet.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ragic.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ragic",
+    "databases"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tisane",
+  "displayName": "Tisane",
+  "description": "Tisane API is a natural language processing tool that detects problematic content, extracts topics, and performs aspect-based sentiment analysis across 27 languages.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://tisane.ai/signup/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tisane",
+    "artificial-intelligence"
+  ]
+}

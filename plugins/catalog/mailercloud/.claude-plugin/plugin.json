@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mailercloud",
+  "displayName": "Mailercloud",
+  "description": "Powerful and simple all-in-one email marketing platform providing effective solutions for rapid business growth.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mailercloud.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mailercloud",
+    "email-newsletters"
+  ]
+}

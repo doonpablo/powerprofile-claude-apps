@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "simplero",
+  "displayName": "Simplero",
+  "description": "All-in-one marketing software for course creators, coaches and online marketers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://simplero.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "simplero",
+    "marketing-automation"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "whautomate",
+  "displayName": "Whautomate",
+  "description": "Whautomate is a platform that offers seamless integrations for customer engagement, including AI chatbots, appointment scheduling, and broadcast messaging.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://whautomate.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "whautomate",
+    "ai-chatbots"
+  ]
+}

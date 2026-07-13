@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ninox",
+  "displayName": "Ninox",
+  "description": "Ninox is a low-code platform that enables users to create custom database applications tailored to their specific needs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ninox.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ninox",
+    "databases"
+  ]
+}

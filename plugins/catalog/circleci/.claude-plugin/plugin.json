@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "circleci",
+  "displayName": "CircleCI",
+  "description": "CircleCI is a continuous integration and delivery platform that automates build, test, and deployment pipelines for software development.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://circleci.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "circleci",
+    "developer-tools"
+  ]
+}

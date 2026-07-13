@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho-books",
+  "displayName": "Zoho Books",
+  "description": "Zoho Books handles accounting, invoicing, and expense tracking, offering real-time collaboration and integrations within the Zoho ecosystem",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoho.com/us/books/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho-books",
+    "accounting"
+  ]
+}

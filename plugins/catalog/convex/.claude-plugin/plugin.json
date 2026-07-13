@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "convex",
+  "displayName": "Convex",
+  "description": "Backend-as-a-Service platform with real-time database, serverless functions, and built-in authentication",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://convex.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "convex",
+    "developer-tools"
+  ]
+}

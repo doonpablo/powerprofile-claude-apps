@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "intercom",
+  "displayName": "Intercom",
+  "description": "Intercom provides live chat, messaging, and customer engagement tools, enabling businesses to drive conversions, handle support, and personalize communication at scale",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.intercom.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "intercom",
+    "customer-support"
+  ]
+}

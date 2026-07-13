@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "optimoroute",
+  "displayName": "OptimoRoute",
+  "description": "OptimoRoute is an online route optimization and planning solution for delivery, logistics, and field service companies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://optimoroute.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "optimoroute",
+    "project-management"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "supportbee",
+  "displayName": "Supportbee",
+  "description": "SupportBee is a web-based email support tool that helps businesses organize their customer support emails efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://supportbee.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "supportbee",
+    "customer-support"
+  ]
+}

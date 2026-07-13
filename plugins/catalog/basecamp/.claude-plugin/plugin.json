@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "basecamp",
+  "displayName": "Basecamp",
+  "description": "Project management and team collaboration tool by 37signals",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://basecamp.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "basecamp",
+    "project-management"
+  ]
+}

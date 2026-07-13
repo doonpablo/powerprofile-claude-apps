@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "neverbounce",
+  "displayName": "NeverBounce",
+  "description": "NeverBounce provides email verification services to ensure the validity of email addresses, enhancing deliverability and reducing bounce rates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://neverbounce.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "neverbounce",
+    "email"
+  ]
+}

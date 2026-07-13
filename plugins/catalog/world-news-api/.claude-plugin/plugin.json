@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "world-news-api",
+  "displayName": "World news api",
+  "description": "The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://worldnewsapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "world-news-api",
+    "news-lifestyle"
+  ]
+}

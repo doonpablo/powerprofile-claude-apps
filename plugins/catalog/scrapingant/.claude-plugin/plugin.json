@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scrapingant",
+  "displayName": "Scrapingant",
+  "description": "ScrapingAnt is a web scraping API service that enables data extraction from websites through headless Chrome browsers, rotating proxies, CAPTCHA/Cloudflare bypass, LLM-ready markdown output, and AI-powered structured data extraction.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://scrapingant.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scrapingant",
+    "ai-web-scraping"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "autom",
+  "displayName": "Autom",
+  "description": "Autom is a service that delivers lightning-fast search engine results page (SERP) outcomes for Google, Bing, and Brave, offering developers rapid access to search data with minimal latency.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.autom.dev/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "autom",
+    "ai-web-scraping"
+  ]
+}

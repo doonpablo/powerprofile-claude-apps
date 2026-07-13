@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googledocs",
+  "displayName": "Google Docs",
+  "description": "Google Docs is a cloud-based word processor with real-time collaboration, version history, and integration with other Google Workspace apps",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://docs.google.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googledocs",
+    "documents"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "neutrino",
+  "displayName": "Neutrino",
+  "description": "Neutrino API provides a suite of general-purpose APIs for various tasks, including data validation, geolocation, and security.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.neutrinoapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "neutrino",
+    "developer-tools"
+  ]
+}

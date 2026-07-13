@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "supadata",
+  "displayName": "Supadata",
+  "description": "Supadata is a web and video-to-text API that extracts transcripts from YouTube, TikTok, Instagram, Facebook, X (Twitter) and video files, retrieves social media metadata, and converts web content to markdown for AI training and content analysis.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://supadata.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "supadata",
+    "ai-web-scraping"
+  ]
+}

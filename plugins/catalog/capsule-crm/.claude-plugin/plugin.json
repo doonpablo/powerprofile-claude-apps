@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "capsule-crm",
+  "displayName": "Capsule CRM",
+  "description": "Capsule CRM is a simple yet powerful CRM platform designed to help businesses manage customer relationships, sales pipelines, and tasks efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://capsulecrm.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "capsule-crm",
+    "crm"
+  ]
+}

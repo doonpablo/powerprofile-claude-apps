@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bart",
+  "displayName": "Bart",
+  "description": "BART (Bay Area Rapid Transit) provides public transportation services in the San Francisco Bay Area.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bart.gov",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bart",
+    "developer-tools"
+  ]
+}

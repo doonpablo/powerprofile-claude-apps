@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "eversign",
+  "displayName": "Eversign",
+  "description": "Xodo Sign is a cloud-based digital signature solution that allows users to sign, send, and manage documents online.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://eversign.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "eversign",
+    "signatures"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "short-io",
+  "displayName": "Short Io",
+  "description": "Short.io is a URL shortening service that allows users to create branded short links, manage them, and track their performance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://short.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "short-io",
+    "url-shortener"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "happy-scribe",
+  "displayName": "Happy Scribe",
+  "description": "Happy Scribe offers automatic and professional transcription services, converting audio and video files into text with high accuracy.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.happyscribe.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "happy-scribe",
+    "transcription"
+  ]
+}

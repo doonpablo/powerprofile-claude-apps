@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "svix",
+  "displayName": "Svix",
+  "description": "Svix is an enterprise-ready webhooks service that enables developers to send webhooks reliably and securely.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.svix.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "svix",
+    "developer-tools"
+  ]
+}

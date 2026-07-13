@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "anchor-browser",
+  "displayName": "Anchor Browser",
+  "description": "Anchor Browser is a developer platform that enables AI agents to interact with the web through browser automation, transforming complex web interactions into simple API endpoints.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://anchorbrowser.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "anchor-browser",
+    "ai-agents"
+  ]
+}

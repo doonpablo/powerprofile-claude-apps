@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ragie",
+  "displayName": "Ragie",
+  "description": "Fully managed RAG-as-a-Service for developers",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ragie.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ragie",
+    "developer-tools"
+  ]
+}

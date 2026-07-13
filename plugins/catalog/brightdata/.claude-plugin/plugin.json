@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "brightdata",
+  "displayName": "Bright Data",
+  "description": "Bright Data provides the world's #1 web data platform with Web Unlocker for bypassing anti-bot systems, SERP API for search engine data, and pre-made scrapers for popular websites. Collect any web data at scale.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://brightdata.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "brightdata",
+    "ai-web-scraping"
+  ]
+}

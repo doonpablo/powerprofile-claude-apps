@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "instagram",
+  "displayName": "Instagram",
+  "description": "Instagram is a social media platform for sharing photos, videos, and stories. Only supports Instagram Business and Creator accounts, not Instagram Personal accounts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.instagram.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "instagram",
+    "social-media-accounts"
+  ]
+}

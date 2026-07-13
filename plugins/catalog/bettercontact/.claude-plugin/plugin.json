@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bettercontact",
+  "displayName": "Bettercontact",
+  "description": "Smart Waterfall Email & Phone Finder for contact enrichment and lead generation",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bettercontact.rocks/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bettercontact",
+    "contact-management"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wakatime",
+  "displayName": "WakaTime",
+  "description": "WakaTime offers automatic time tracking for developers, integrating with code editors and delivering dashboards on coding activity, project progress, and productivity",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://wakatime.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wakatime",
+    "time-tracking-software"
+  ]
+}

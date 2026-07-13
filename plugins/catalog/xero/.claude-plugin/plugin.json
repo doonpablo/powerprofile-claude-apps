@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "xero",
+  "displayName": "Xero",
+  "description": "Xero is a cloud-based accounting software for small businesses, providing invoicing, bank reconciliation, bookkeeping, and financial reporting in real time",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.xero.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "xero",
+    "accounting"
+  ]
+}

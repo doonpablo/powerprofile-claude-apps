@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "writer",
+  "displayName": "Writer",
+  "description": "Writer is a full-stack generative AI platform for enterprises, offering tools to build and deploy AI applications integrated with their suite of LLMs, graph-based RAG tools, and AI guardrails.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://writer.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "writer",
+    "artificial-intelligence"
+  ]
+}

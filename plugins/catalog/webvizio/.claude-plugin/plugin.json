@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "webvizio",
+  "displayName": "Webvizio",
+  "description": "Webvizio is a visual feedback and collaboration tool for web professionals, enabling users to annotate web pages, share feedback, track bugs, and manage tasks efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://webvizio.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "webvizio",
+    "project-management"
+  ]
+}

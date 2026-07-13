@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "slackbot",
+  "displayName": "Slackbot",
+  "description": "Slackbot gives agents workspace-wide read access to a Slack workspace on behalf of the installing user - search messages and files, browse channel and thread history, and look up users and channels - while continuing to post and react as the bot. Includes direct messages and user email addresses so agents can search across DMs and resolve users by email.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://slack.com/intl/en-in/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "slackbot",
+    "team-chat"
+  ]
+}

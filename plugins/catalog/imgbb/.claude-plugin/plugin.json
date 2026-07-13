@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "imgbb",
+  "displayName": "ImgBB",
+  "description": "ImgBB is a free image hosting and sharing service that allows users to upload and share images easily.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://imgbb.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "imgbb",
+    "images-design"
+  ]
+}

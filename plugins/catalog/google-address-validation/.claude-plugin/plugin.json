@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "google-address-validation",
+  "displayName": "Google Address Validation",
+  "description": "The Address Validation API allows developers to verify the accuracy of addresses by validating and standardizing them, and determining their geocode.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developers.google.com/maps/documentation/address-validation",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "google-address-validation",
+    "developer-tools"
+  ]
+}

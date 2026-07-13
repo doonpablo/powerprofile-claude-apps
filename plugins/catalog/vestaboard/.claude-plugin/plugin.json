@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "vestaboard",
+  "displayName": "Vestaboard",
+  "description": "Vestaboard is a smart messaging display that allows users to send and receive messages through a mechanical split-flap display.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.vestaboard.com/developers",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "vestaboard",
+    "notifications"
+  ]
+}

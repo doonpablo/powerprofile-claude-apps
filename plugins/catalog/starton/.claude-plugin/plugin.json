@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "starton",
+  "displayName": "Starton",
+  "description": "Starton is an all-in-one Web3 API platform that enables developers to deploy and interact with smart contracts, store files on IPFS, and monitor blockchain events through a unified API and frontend interface.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.starton.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "starton",
+    "developer-tools"
+  ]
+}

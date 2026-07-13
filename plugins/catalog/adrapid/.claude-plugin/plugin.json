@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "adrapid",
+  "displayName": "Adrapid",
+  "description": "Adrapid is a tool designed for efficient creation of digital marketing visuals, including banners, images, videos, and HTML5 content, utilizing reusable templates and offering automation through a REST API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://adrapid.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "adrapid",
+    "images-design"
+  ]
+}

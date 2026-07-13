@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "datagma",
+  "displayName": "Datagma",
+  "description": "Datagma delivers data intelligence and analytics, assisting companies in discovering market insights, tracking competitive metrics, and strategizing growth opportunities",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://datagma.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "datagma",
+    "analytics"
+  ]
+}

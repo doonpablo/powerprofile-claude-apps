@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ignisign",
+  "displayName": "Ignisign",
+  "description": "IgniSign is a comprehensive electronic signature platform that enables users to sign, send, and manage documents securely online.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://console.ignisign.io/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ignisign",
+    "signatures"
+  ]
+}

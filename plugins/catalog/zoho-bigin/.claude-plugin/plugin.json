@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho-bigin",
+  "displayName": "Zoho Bigin",
+  "description": "Zoho Bigin is a simplified CRM solution from Zoho tailored for small businesses, focusing on pipeline tracking and relationship management",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bigin.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho-bigin",
+    "crm"
+  ]
+}

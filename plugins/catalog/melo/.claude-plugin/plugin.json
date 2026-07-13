@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "melo",
+  "displayName": "Melo",
+  "description": "Melo provides a comprehensive API for accessing real-time, deduplicated real estate listings and market analytics across France.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.melo.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "melo",
+    "analytics"
+  ]
+}

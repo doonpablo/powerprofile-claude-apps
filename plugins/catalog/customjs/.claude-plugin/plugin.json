@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "customjs",
+  "displayName": "Customjs",
+  "description": "CustomJS is a code-first automation platform that enables seamless integration of custom JavaScript logic into various systems and technologies, allowing users to extend applications by writing functions for tasks like sending emails, generating PDFs, or updating CRM data fields.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.customjs.space/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "customjs",
+    "developer-tools"
+  ]
+}

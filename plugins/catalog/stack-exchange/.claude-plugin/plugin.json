@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "stack-exchange",
+  "displayName": "Stack Exchange",
+  "description": "Stack Exchange is a network of Q&A communities where users ask questions, share knowledge, and collaborate on topics like coding, math, and more",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.stackexchange.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "stack-exchange",
+    "developer-tools"
+  ]
+}

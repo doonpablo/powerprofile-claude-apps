@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dub",
+  "displayName": "Dub",
+  "description": "Short link management platform with analytics and API for creating, managing, and tracking branded short links",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dub.co",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dub",
+    "url-shortener"
+  ]
+}

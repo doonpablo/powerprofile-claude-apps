@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rkvst",
+  "displayName": "Rkvst",
+  "description": "DataTrails provides an evidence management platform that delivers a reliable chain of custody for supply chain data, ensuring data authenticity and transparency.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.datatrails.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rkvst",
+    "security-identity-tools"
+  ]
+}

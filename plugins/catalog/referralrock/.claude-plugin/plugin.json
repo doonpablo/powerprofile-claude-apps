@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "referralrock",
+  "displayName": "ReferralRock",
+  "description": "ReferralRock is a referral marketing platform that helps businesses create and manage referral programs to drive word-of-mouth growth and customer acquisition",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://referralrock.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "referralrock",
+    "marketing-automation"
+  ]
+}

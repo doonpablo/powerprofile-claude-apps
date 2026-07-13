@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "expofp",
+  "displayName": "Expofp",
+  "description": "ExpoFP provides free interactive floor plan software for expos and conferences.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://expofp.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "expofp",
+    "event-management"
+  ]
+}

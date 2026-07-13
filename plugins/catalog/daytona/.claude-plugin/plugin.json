@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "daytona",
+  "displayName": "Daytona",
+  "description": "Daytona is a development environment management platform that provides cloud-based development workspaces with API access for automation",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.daytona.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "daytona",
+    "developer-tools"
+  ]
+}

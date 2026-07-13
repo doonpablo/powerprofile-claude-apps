@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mercury-mcp",
+  "displayName": "Mercury MCP",
+  "description": "Mercury's official MCP server (Beta) for read-only access to your Mercury business banking data — accounts, balances, transactions, cards, recipients, statements, and treasury. Cannot initiate transactions or modify account data; all mutations are blocked server-side.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.mercury.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mercury-mcp",
+    "model-context-protocol"
+  ]
+}

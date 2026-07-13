@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pagerduty",
+  "displayName": "PagerDuty",
+  "description": "PagerDuty helps you proactively manage your digital operations by collecting data signals from anywhere, interpreting those signals using machine learning, automatically engaging the right people, and accelerating resolution and learning.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.pagerduty.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pagerduty",
+    "server-monitoring"
+  ]
+}

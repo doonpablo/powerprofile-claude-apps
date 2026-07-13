@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bannerbear",
+  "displayName": "Bannerbear",
+  "description": "Bannerbear offers an automated image and video generation API, allowing businesses to create graphics, social media visuals, and marketing collateral with customizable templates at scale",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bannerbear.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bannerbear",
+    "images-design"
+  ]
+}

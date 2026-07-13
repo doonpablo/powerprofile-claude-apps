@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googlesuper",
+  "displayName": "Google Super",
+  "description": "Google Super App combines all Google services including Drive, Calendar, Gmail, Sheets, Analytics, Ads, and more, providing a unified platform for seamless integration and management of your digital life.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.google.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googlesuper",
+    "file-management-storage"
+  ]
+}

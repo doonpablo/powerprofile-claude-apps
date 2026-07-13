@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "polygon",
+  "displayName": "Polygon",
+  "description": "Polygon.io provides real-time and historical market data APIs for stocks, options, forex, and cryptocurrencies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://polygon.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "polygon",
+    "analytics"
+  ]
+}

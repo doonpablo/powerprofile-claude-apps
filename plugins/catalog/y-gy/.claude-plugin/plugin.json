@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "y-gy",
+  "displayName": "Y gy",
+  "description": "y.gy is a URL shortener and QR code generator that allows users to create short, memorable links from long URLs, customize them with unique endings, and integrate with an API for programmatic link creation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.y.gy",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "y-gy",
+    "url-shortener"
+  ]
+}

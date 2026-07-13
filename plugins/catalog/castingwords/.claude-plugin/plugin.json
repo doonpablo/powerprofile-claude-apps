@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "castingwords",
+  "displayName": "Castingwords",
+  "description": "CastingWords offers high-quality, human-powered transcription services with a RESTful API for seamless integration into various workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://castingwords.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "castingwords",
+    "transcription"
+  ]
+}

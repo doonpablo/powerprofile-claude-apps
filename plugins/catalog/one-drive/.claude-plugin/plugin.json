@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "one-drive",
+  "displayName": "OneDrive",
+  "description": "OneDrive is Microsoft’s cloud storage solution enabling users to store, sync, and share files across devices, offering offline access, real-time collaboration, and enterprise-grade security",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "one-drive",
+    "file-management-storage"
+  ]
+}

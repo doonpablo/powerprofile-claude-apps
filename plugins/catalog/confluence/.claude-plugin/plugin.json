@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "confluence",
+  "displayName": "Confluence",
+  "description": "A tool for team collaboration and knowledge management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.atlassian.com/software/confluence",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "confluence",
+    "team-collaboration"
+  ]
+}

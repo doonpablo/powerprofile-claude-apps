@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "jotform",
+  "displayName": "Jotform",
+  "description": "Jotform is an online form builder that allows users to create and manage forms for various purposes, including data collection, surveys, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.jotform.com/signup/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "jotform",
+    "forms-surveys"
+  ]
+}

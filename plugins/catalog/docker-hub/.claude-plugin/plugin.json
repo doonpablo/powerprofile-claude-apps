@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docker-hub",
+  "displayName": "Docker Hub",
+  "description": "Docker Hub is a service provided by Docker for finding and sharing container images with your team.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://hub.docker.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docker-hub",
+    "developer-tools"
+  ]
+}

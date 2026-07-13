@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fal-ai",
+  "displayName": "Fal.ai",
+  "description": "The generative media platform for developers with 600+ AI models for image, video, voice, and audio generation",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fal.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fal-ai",
+    "ai-models"
+  ]
+}

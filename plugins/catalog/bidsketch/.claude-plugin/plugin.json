@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bidsketch",
+  "displayName": "Bidsketch",
+  "description": "Bidsketch is a proposal software that helps businesses create professional proposals quickly and efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bidsketch.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bidsketch",
+    "proposal-invoice-management"
+  ]
+}

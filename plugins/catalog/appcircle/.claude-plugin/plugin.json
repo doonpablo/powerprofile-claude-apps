@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "appcircle",
+  "displayName": "Appcircle",
+  "description": "Appcircle is an enterprise-grade mobile CI/CD platform that enables developers to build, test, and publish mobile applications efficiently, offering both cloud-based and self-hosted deployment options.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://appcircle.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "appcircle",
+    "developer-tools"
+  ]
+}

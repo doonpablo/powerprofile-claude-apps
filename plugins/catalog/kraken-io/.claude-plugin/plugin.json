@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kraken-io",
+  "displayName": "Kraken.io",
+  "description": "Kraken.io is an image optimization and compression platform that helps reduce image file sizes without compromising quality.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kraken.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kraken-io",
+    "images-design"
+  ]
+}

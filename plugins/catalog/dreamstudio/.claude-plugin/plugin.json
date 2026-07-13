@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dreamstudio",
+  "displayName": "Dreamstudio",
+  "description": "DreamStudio is Stability AI's user interface for generative AI, allowing users to create and edit generated images.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dreamstudio.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dreamstudio",
+    "artificial-intelligence"
+  ]
+}

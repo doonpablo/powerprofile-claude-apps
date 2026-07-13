@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "servicem8",
+  "displayName": "Servicem8",
+  "description": "ServiceM8 helps field service businesses schedule jobs, send quotes, and manage invoices, offering staff mobile apps and real-time job status tracking",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.servicem8.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "servicem8",
+    "scheduling-booking"
+  ]
+}

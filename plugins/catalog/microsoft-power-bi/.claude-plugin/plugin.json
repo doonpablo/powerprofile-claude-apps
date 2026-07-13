@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "microsoft-power-bi",
+  "displayName": "Microsoft Power Bi",
+  "description": "Microsoft Power BI is a business analytics service that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://powerbi.microsoft.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "microsoft-power-bi",
+    "business-intelligence"
+  ]
+}

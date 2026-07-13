@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "epic-games",
+  "displayName": "Epic Games",
+  "description": "Epic Games is a video game developer and publisher known for titles like Fortnite and the Unreal Engine, offering an online store and platform",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://store.epicgames.com/en-US/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "epic-games",
+    "gaming"
+  ]
+}

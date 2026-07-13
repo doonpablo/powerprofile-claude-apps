@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "finerworks",
+  "displayName": "Finerworks",
+  "description": "FinerWorks is an online platform specializing in fine art and photo printing services, offering artists and photographers the ability to order prints and manage their inventory.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.finerworks.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "finerworks",
+    "ecommerce"
+  ]
+}

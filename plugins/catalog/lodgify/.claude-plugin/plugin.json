@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "lodgify",
+  "displayName": "Lodgify",
+  "description": "Lodgify is an all-in-one vacation rental software that enables property owners and managers to create bookable websites, synchronize property data across multiple channels, and manage guest reservations and communications from a single platform.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.lodgify.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "lodgify",
+    "scheduling-booking"
+  ]
+}

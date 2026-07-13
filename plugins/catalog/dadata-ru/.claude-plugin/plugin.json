@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dadata-ru",
+  "displayName": "DaData.ru",
+  "description": "DaData provides APIs for data validation, standardization, and enrichment, including address parsing, company information retrieval, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dadata.ru/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dadata-ru",
+    "developer-tools"
+  ]
+}

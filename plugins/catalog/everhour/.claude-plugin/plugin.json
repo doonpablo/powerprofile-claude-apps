@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "everhour",
+  "displayName": "Everhour",
+  "description": "Everhour is a time tracking and expense management software equipped with budgeting, forward resource planning, expense tracking, dashboards, and reports.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://everhour.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "everhour",
+    "time-tracking-software"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clearout",
+  "displayName": "Clearout",
+  "description": "Clearout offers AI-powered email validation, email finder, and prospecting services to enhance email deliverability and lead generation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.clearout.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "clearout",
+    "email"
+  ]
+}

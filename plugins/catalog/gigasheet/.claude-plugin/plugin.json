@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gigasheet",
+  "displayName": "Gigasheet",
+  "description": "Gigasheet is a big data automation platform that offers a spreadsheet-like interface for analyzing and managing large datasets, enabling users to automate tasks, integrate with various data sources, and streamline data workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gigasheet.com/api",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gigasheet",
+    "spreadsheets"
+  ]
+}

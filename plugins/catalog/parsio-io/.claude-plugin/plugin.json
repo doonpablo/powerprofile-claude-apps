@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "parsio-io",
+  "displayName": "Parsio.io",
+  "description": "No-code email parser to extract and export valuable data from emails, PDFs and documents",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://parsio.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "parsio-io",
+    "ai-document-extraction"
+  ]
+}

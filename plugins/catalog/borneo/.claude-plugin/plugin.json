@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "borneo",
+  "displayName": "Borneo",
+  "description": "Borneo is a data security and privacy platform designed for sensitive data discovery and remediation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.borneo.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "borneo",
+    "security-identity-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "leverly",
+  "displayName": "Leverly",
+  "description": "Leverly is a platform that integrates with various applications to automate workflows and processes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.leverly.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "leverly",
+    "sales-crm"
+  ]
+}

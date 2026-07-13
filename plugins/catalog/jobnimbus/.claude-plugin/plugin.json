@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "jobnimbus",
+  "displayName": "JobNimbus",
+  "description": "JobNimbus is a CRM and project management software designed for contractors, helping streamline scheduling, estimates, invoicing, and job tracking.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.jobnimbus.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "jobnimbus",
+    "crm"
+  ]
+}

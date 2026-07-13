@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bamboohr",
+  "displayName": "BambooHR",
+  "description": "BambooHR is a cloud-based human resources management system (HRMS) that helps businesses manage their employees, payroll, and benefits.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bamboohr.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bamboohr",
+    "human-resources"
+  ]
+}

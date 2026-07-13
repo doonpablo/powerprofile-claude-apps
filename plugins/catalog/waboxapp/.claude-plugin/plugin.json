@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "waboxapp",
+  "displayName": "Waboxapp",
+  "description": "Waboxapp integrates WhatsApp messaging into CRM systems, allowing businesses to centralize customer communications for sales and support",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.waboxapp.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "waboxapp",
+    "phone-sms"
+  ]
+}

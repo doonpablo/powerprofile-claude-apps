@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "deployhq",
+  "displayName": "DeployHQ",
+  "description": "Deployment made simple. We make it super easy to automate deploying projects from Git, SVN and Mercurial repositories.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.deployhq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "deployhq",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "oksign",
+  "displayName": "Oksign",
+  "description": "Sign online contracts, purchase orders, forms, you name it. Simple and legal.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://oksign.be/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "oksign",
+    "signatures"
+  ]
+}

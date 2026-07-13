@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "missive",
+  "displayName": "Missive",
+  "description": "Missive is a collaborative email and chat application designed to streamline team communication and task management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://missiveapp.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "missive",
+    "email"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tapfiliate",
+  "displayName": "Tapfiliate",
+  "description": "Tapfiliate is an affiliate and referral tracking platform that enables businesses to create, track, and scale their affiliate programs efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://tapfiliate.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tapfiliate",
+    "marketing-automation"
+  ]
+}

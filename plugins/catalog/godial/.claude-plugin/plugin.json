@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "godial",
+  "displayName": "Godial",
+  "description": "GoDial is an automatic call app, mobile CRM, and outbound dialer software that transforms your phone into a call center, enabling efficient management of calls and contacts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://godial.cc/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "godial",
+    "crm"
+  ]
+}

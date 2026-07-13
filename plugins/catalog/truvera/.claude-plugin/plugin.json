@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "truvera",
+  "displayName": "Truvera",
+  "description": "Truvera is a platform that enables organizations and developers to issue, manage, and verify verifiable credentials and decentralized identities, making data fraud-proof and instantly verifiable.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://truvera.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "truvera",
+    "security-identity-tools"
+  ]
+}

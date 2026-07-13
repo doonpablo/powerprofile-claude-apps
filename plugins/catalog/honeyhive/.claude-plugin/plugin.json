@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "honeyhive",
+  "displayName": "Honeyhive",
+  "description": "HoneyHive is a modern AI observability and evaluation platform that enables developers and domain experts to collaboratively build reliable AI applications faster.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.honeyhive.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "honeyhive",
+    "artificial-intelligence"
+  ]
+}

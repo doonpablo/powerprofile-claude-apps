@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "shipday",
+  "displayName": "Shipday",
+  "description": "Making Local Deliveries Easy Globally - Powering Local E-commerce",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.shipday.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "shipday",
+    "ecommerce"
+  ]
+}

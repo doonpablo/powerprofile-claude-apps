@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "beeminder",
+  "displayName": "Beeminder",
+  "description": "Beeminder is an online goal-tracking service that uses financial incentives-pledge money on your objectives and forfeit it if you don’t keep up-to help you achieve your goals.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.beeminder.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "beeminder",
+    "task-management"
+  ]
+}

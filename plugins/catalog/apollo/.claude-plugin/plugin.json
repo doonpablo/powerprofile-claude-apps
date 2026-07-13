@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apollo",
+  "displayName": "Apollo",
+  "description": "Apollo provides CRM and lead generation capabilities, helping businesses discover contacts, manage outreach, and track sales pipelines for consistent customer relationship development",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.apollo.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apollo",
+    "crm"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "needle",
+  "displayName": "Needle",
+  "description": "Needle provides retrieval-augmented generation (RAG) tools that enable semantic search across your data, facilitating the development of AI agents and applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://needle.app",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "needle",
+    "artificial-intelligence"
+  ]
+}

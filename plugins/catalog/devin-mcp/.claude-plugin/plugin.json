@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "devin-mcp",
+  "displayName": "Devin MCP",
+  "description": "AI-powered access to GitHub repository documentation and codebase analysis, including private repositories, via Devin.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.devin.ai/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "devin-mcp",
+    "model-context-protocol"
+  ]
+}

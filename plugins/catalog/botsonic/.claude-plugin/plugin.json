@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "botsonic",
+  "displayName": "Botsonic",
+  "description": "Botsonic is a no-code AI chatbot builder that enables users to create and integrate AI chatbots into their websites without any coding knowledge.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://botsonic.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "botsonic",
+    "ai-chatbots"
+  ]
+}

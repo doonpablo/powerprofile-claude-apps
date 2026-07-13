@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "jigsawstack",
+  "displayName": "Jigsawstack",
+  "description": "JigsawStack provides a suite of custom small AI models integrated into scalable infrastructure, enabling developers to build AI-powered applications efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://jigsawstack.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "jigsawstack",
+    "artificial-intelligence"
+  ]
+}

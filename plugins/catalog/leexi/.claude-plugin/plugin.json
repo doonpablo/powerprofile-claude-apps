@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "leexi",
+  "displayName": "Leexi",
+  "description": "AI notetaker - Transcribe, analyse and summarize your calls and meetings.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.leexi.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "leexi",
+    "ai-meeting-assistants"
+  ]
+}

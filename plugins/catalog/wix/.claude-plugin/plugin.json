@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wix",
+  "displayName": "Wix",
+  "description": "Wix is a cloud-based web development platform that allows users to create HTML5 websites and mobile sites through drag-and-drop tools. The Wix API provides programmatic access to manage sites, products, orders, and other resources.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.wix.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wix",
+    "website-builders"
+  ]
+}

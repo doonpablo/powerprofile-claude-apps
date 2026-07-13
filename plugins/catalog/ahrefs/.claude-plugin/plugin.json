@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ahrefs",
+  "displayName": "Ahrefs",
+  "description": "Ahrefs is an SEO and marketing platform offering site audits, keyword research, content analysis, and competitive insights to improve search rankings and drive organic traffic",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ahrefs.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ahrefs",
+    "marketing-automation"
+  ]
+}

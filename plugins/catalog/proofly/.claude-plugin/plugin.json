@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "proofly",
+  "displayName": "Proofly",
+  "description": "Proofly is a social proof toolkit that helps boost website conversions by displaying real-time notifications of customer activities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://proofly.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "proofly",
+    "marketing-automation"
+  ]
+}

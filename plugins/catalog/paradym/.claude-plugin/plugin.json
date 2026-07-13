@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "paradym",
+  "displayName": "Paradym",
+  "description": "Paradym is an API-first platform that simplifies the issuance, verification, and management of verifiable credentials, supporting standards like SD-JWT VCs over OpenID4VC and AnonCreds over DIDComm.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://paradym.id/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "paradym",
+    "security-identity-tools"
+  ]
+}

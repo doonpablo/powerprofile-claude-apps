@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hystruct",
+  "displayName": "Hystruct",
+  "description": "Hystruct is an AI-driven web scraping tool that simplifies data extraction from websites using predefined schemas, supporting various data fields like job listings and e-commerce.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.hystruct.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hystruct",
+    "ai-web-scraping"
+  ]
+}

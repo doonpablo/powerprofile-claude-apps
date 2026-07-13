@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "eodhd-apis",
+  "displayName": "EODHD APIs",
+  "description": "EODHD APIs provide comprehensive financial data, including historical stock market data, live stock prices, fundamental data, and more, accessible via REST and WebSocket APIs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://eodhd.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "eodhd-apis",
+    "analytics"
+  ]
+}

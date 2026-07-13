@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cal",
+  "displayName": "Cal",
+  "description": "Cal simplifies meeting coordination by providing shareable booking pages, calendar syncing, and availability management to streamline the scheduling process",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cal.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cal",
+    "scheduling-booking"
+  ]
+}

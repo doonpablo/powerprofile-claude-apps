@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "elevenreader",
+  "displayName": "Elevenreader",
+  "description": "ElevenReader is an AI-powered text-to-speech application by ElevenLabs that converts written content into natural-sounding audio",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://elevenlabs.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "elevenreader",
+    "artificial-intelligence"
+  ]
+}

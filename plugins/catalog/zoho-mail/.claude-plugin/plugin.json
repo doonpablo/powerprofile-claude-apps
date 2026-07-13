@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho-mail",
+  "displayName": "Zoho Mail",
+  "description": "Zoho Mail is a secure and ad-free email hosting platform with collaboration tools, calendar integration, and extensive administrative controls",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoho.com/mail/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho-mail",
+    "email"
+  ]
+}

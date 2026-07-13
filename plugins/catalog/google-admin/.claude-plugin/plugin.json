@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "google-admin",
+  "displayName": "Google Admin",
+  "description": "Google Admin Console for managing Google Workspace users, groups, and organizational units.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://admin.google.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "google-admin",
+    "security-identity-tools"
+  ]
+}

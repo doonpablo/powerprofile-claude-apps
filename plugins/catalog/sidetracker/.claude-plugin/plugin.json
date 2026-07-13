@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sidetracker",
+  "displayName": "Sidetracker",
+  "description": "Sidetracker is a cookie-free web analytics platform that tracks website visitors, sales funnels, and customer journeys. It provides real-time session tracking, lead management, conversion tracking, and marketing campaign analytics without relying on cookies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sidetracker.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sidetracker",
+    "analytics"
+  ]
+}

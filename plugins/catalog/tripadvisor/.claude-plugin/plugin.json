@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tripadvisor",
+  "displayName": "Tripadvisor",
+  "description": "TripAdvisor Content API provides access to location data, reviews, photos, and search functionality for travel-related content.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.tripadvisor.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tripadvisor",
+    "reviews"
+  ]
+}

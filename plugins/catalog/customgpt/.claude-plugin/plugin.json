@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "customgpt",
+  "displayName": "Customgpt",
+  "description": "CustomGPT.ai is a platform that enables users to create and integrate AI-powered chatbots tailored to their specific data and requirements.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://customgpt.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "customgpt",
+    "ai-chatbots"
+  ]
+}

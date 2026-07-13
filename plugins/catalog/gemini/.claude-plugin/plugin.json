@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gemini",
+  "displayName": "Gemini",
+  "description": "Comprehensive Gemini integration supporting Veo 3 video generation, Gemini Flash text generation (Nano Banana), chat completions, and multimodal AI capabilities via the Google Gemini API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ai.google.dev/gemini-api",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gemini",
+    "artificial-intelligence"
+  ]
+}

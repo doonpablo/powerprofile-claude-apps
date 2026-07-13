@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ashby",
+  "displayName": "Ashby",
+  "description": "Ashby delivers an applicant tracking system for modern teams, offering features like job postings, candidate management, and data-driven hiring insights to streamline the recruitment process",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ashbyhq.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ashby",
+    "hr-talent-recruitment"
+  ]
+}

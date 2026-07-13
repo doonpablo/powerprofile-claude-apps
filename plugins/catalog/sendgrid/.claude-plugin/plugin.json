@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendgrid",
+  "displayName": "SendGrid",
+  "description": "SendGrid is a cloud-based email delivery platform providing transactional and marketing email services, with APIs for integration, analytics, and scalability",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://login.sendgrid.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sendgrid",
+    "transactional-email"
+  ]
+}

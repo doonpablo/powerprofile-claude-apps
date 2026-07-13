@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coda",
+  "displayName": "Coda",
+  "description": "Collaborative workspace platform that transforms documents into powerful tools for team productivity and project management",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://coda.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "coda",
+    "productivity"
+  ]
+}

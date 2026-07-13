@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ip2location",
+  "displayName": "Ip2Location",
+  "description": "IP2Location.io provides fast and accurate IP geolocation data, including country, city, ISP, latitude, longitude, and more, supporting both IPv4 and IPv6 lookups.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ip2location.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ip2location",
+    "developer-tools"
+  ]
+}

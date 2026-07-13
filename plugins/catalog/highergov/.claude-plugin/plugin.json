@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "highergov",
+  "displayName": "Highergov",
+  "description": "HigherGov is a market intelligence platform providing comprehensive data on U.S. federal, state, and local government contracts and grants.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.highergov.com/api/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "highergov",
+    "business-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "klazify",
+  "displayName": "Klazify",
+  "description": "The most accurate Content Classification API. Categorize websites into 385+ topic categories with confidence scores, extract logos, social media links, company information, and technology stack data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.klazify.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "klazify",
+    "developer-tools"
+  ]
+}

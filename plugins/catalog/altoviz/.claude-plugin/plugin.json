@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "altoviz",
+  "displayName": "Altoviz",
+  "description": "Altoviz is a cloud-based billing and invoicing platform for businesses, offering online payments, expense tracking, document management, and customizable invoices.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://altoviz.com/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "altoviz",
+    "accounting"
+  ]
+}

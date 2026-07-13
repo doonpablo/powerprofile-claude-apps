@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "insighto-ai",
+  "displayName": "Insighto.ai",
+  "description": "Insighto.ai is an AI-powered communication platform that enables businesses to create and deploy conversational AI chatbots and voice agents for enhanced customer engagement across multiple channels.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://insighto.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "insighto-ai",
+    "ai-chatbots"
+  ]
+}

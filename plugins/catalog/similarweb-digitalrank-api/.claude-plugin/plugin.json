@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "similarweb-digitalrank-api",
+  "displayName": "SimilarWeb Digital Rank API",
+  "description": "Provides free access to global website ranking data for benchmarking and competitive analysis.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.similarweb.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "similarweb-digitalrank-api",
+    "analytics"
+  ]
+}

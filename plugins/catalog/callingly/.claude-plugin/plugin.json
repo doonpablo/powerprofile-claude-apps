@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "callingly",
+  "displayName": "Callingly",
+  "description": "Callingly is a lead response management software that automates immediate call and text follow-ups to new leads, integrating seamlessly with various CRMs and lead sources to enhance sales team responsiveness and conversion rates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://callingly.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "callingly",
+    "phone-sms"
+  ]
+}

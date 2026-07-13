@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zenrows",
+  "displayName": "ZenRows",
+  "description": "ZenRows is a web scraping API allowing developers to bypass CAPTCHAs and blocks, gather structured data from dynamic websites, and quickly integrate results into applications",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zenrows.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zenrows",
+    "ai-web-scraping"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hex",
+  "displayName": "Hex",
+  "description": "Hex is a collaborative data workspace that combines SQL, Python, and R notebooks for analytics and data science",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://hex.tech",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hex",
+    "analytics"
+  ]
+}

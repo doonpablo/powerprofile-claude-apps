@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "async-interview",
+  "displayName": "Async Interview",
+  "description": "Async Interview is an on-demand video interview platform that streamlines the hiring process by allowing candidates to respond to pre-recorded questions at their convenience, enabling employers to review responses asynchronously.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://asyncinterview.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "async-interview",
+    "human-resources"
+  ]
+}

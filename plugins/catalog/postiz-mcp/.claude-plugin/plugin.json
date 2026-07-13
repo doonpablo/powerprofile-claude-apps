@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "postiz-mcp",
+  "displayName": "Postiz",
+  "description": "Postiz is an agentic social media scheduling tool. It offers everything you need to manage your social media posts, build an audience, capture leads, and grow your business faster with AI.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.postiz.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "postiz-mcp",
+    "social-media-marketing"
+  ]
+}

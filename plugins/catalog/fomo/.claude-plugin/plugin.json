@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fomo",
+  "displayName": "Fomo",
+  "description": "Fomo is a social proof marketing platform that displays real-time user activity notifications on websites to build trust and increase conversions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fomo.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fomo",
+    "marketing-automation"
+  ]
+}

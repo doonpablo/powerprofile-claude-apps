@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "motion",
+  "displayName": "Motion",
+  "description": "Motion is an intelligent calendar and project management tool that automatically plans your day, schedules meetings, and helps teams collaborate efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.usemotion.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "motion",
+    "productivity"
+  ]
+}

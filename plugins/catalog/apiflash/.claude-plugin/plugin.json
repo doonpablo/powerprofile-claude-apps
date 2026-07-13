@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apiflash",
+  "displayName": "Apiflash",
+  "description": "ApiFlash is a website screenshot API that allows users to capture high-quality screenshots of web pages programmatically.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://apiflash.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apiflash",
+    "images-design"
+  ]
+}

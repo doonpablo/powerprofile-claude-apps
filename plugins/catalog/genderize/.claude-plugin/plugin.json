@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "genderize",
+  "displayName": "Genderize",
+  "description": "Genderize is an API that predicts the gender of a person based on their first name, providing statistical probabilities for male or female classifications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://genderize.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "genderize",
+    "developer-tools"
+  ]
+}

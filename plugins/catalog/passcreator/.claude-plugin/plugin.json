@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "passcreator",
+  "displayName": "Passcreator",
+  "description": "Passcreator is a SaaS platform that enables businesses to create, distribute, and manage digital Wallet passes for Apple Wallet and Google Wallet, including store cards, event tickets, coupons, and membership cards.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.passcreator.com/en",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "passcreator",
+    "event-management"
+  ]
+}

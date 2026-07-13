@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dromo",
+  "displayName": "Dromo",
+  "description": "Dromo is an intuitive spreadsheet importer that integrates seamlessly with your product, enabling users to match columns, correct errors, perform complex validations, transform values, and upload perfectly formatted data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dromo.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dromo",
+    "spreadsheets"
+  ]
+}

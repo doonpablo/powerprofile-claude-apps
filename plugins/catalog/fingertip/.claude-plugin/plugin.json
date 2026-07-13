@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fingertip",
+  "displayName": "Fingertip",
+  "description": "Fingertip is an all-in-one platform that enables businesses to manage their operations from a single link, offering tools for selling products, booking clients, and connecting with customers across various social media platforms.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fingertip.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fingertip",
+    "website-builders"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ntfy",
+  "displayName": "Ntfy",
+  "description": "Send push notifications to your phone or desktop via PUT/POST",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ntfy.sh/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ntfy",
+    "notifications"
+  ]
+}

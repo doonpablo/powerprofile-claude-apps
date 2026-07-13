@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "iqair-airvisual",
+  "displayName": "Iqair Airvisual",
+  "description": "IQAir AirVisual provides global air quality data through its API, offering real-time and historical information on air pollution levels.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dashboard.iqair.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "iqair-airvisual",
+    "developer-tools"
+  ]
+}

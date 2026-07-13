@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "membervault",
+  "displayName": "Membervault",
+  "description": "MemberVault is a Relationship Marketing Platform that allows users to host courses, memberships, and other digital products in one place.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://membervault.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "membervault",
+    "online-courses"
+  ]
+}

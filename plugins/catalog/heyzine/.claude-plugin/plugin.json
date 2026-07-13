@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "heyzine",
+  "displayName": "Heyzine",
+  "description": "Heyzine is a flipbook maker that converts PDFs into interactive, customizable digital publications with various page flip effects.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://heyzine.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "heyzine",
+    "documents"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gtmetrix",
+  "displayName": "GTmetrix",
+  "description": "GTmetrix is a performance testing and monitoring tool that analyzes website speed, provides detailed performance reports, and helps optimize web applications for better user experience.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gtmetrix.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gtmetrix",
+    "developer-tools"
+  ]
+}

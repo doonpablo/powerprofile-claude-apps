@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clientary",
+  "displayName": "Clientary",
+  "description": "A full-suite platform to manage Clients, Invoices, Projects, Proposals, Estimates, Hours, Payments, Contractors and Staff. The perfect solution to win clients and save time.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.clientary.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "clientary",
+    "project-management"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gorgias",
+  "displayName": "Gorgias",
+  "description": "Gorgias is a helpdesk and live chat platform specializing in e-commerce, offering automated support, order management, and unified customer communication",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.gorgias.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gorgias",
+    "crm"
+  ]
+}

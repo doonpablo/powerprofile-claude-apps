@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nutshell",
+  "displayName": "Nutshell",
+  "description": "Nutshell is a flexible CRM and email marketing platform that helps small businesses manage contacts, sales pipelines, and customer relationships.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.nutshell.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nutshell",
+    "crm"
+  ]
+}

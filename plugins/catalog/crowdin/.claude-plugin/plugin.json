@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "crowdin",
+  "displayName": "Crowdin",
+  "description": "Crowdin is a localization management platform that streamlines the translation process, offering tools for collaboration, content centralization, and workflow automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://crowdin.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "crowdin",
+    "developer-tools"
+  ]
+}

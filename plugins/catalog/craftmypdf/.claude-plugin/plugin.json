@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "craftmypdf",
+  "displayName": "Craftmypdf",
+  "description": "CraftMyPDF is a web-based platform that enables users to design and generate customizable PDF documents using pre-designed templates and dynamic data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://craftmypdf.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "craftmypdf",
+    "documents"
+  ]
+}

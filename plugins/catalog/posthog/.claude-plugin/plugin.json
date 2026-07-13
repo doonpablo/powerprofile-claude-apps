@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "posthog",
+  "displayName": "PostHog",
+  "description": "PostHog is an open-source product analytics platform tracking user interactions and behaviors to help teams refine features, improve funnels, and reduce churn",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://posthog.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "posthog",
+    "analytics"
+  ]
+}

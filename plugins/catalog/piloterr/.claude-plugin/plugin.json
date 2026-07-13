@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "piloterr",
+  "displayName": "Piloterr",
+  "description": "Piloterr is a developer-first platform offering over 50 ready-to-use APIs for web scraping and data extraction, enabling businesses to efficiently gather and integrate web data into their systems.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.piloterr.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "piloterr",
+    "ai-web-scraping"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "leadfeeder",
+  "displayName": "Leadfeeder",
+  "description": "Leadfeeder identifies companies visiting your website and converts them into high-value leads.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.leadfeeder.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "leadfeeder",
+    "analytics"
+  ]
+}

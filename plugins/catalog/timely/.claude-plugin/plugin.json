@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "timely",
+  "displayName": "Timely",
+  "description": "Timely is an automatic time-tracking platform capturing activity across applications, calendars, and devices, creating detailed timesheets for billing or productivity insights",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.timelyapp.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "timely",
+    "time-tracking-software"
+  ]
+}

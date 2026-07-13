@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "yousearch",
+  "displayName": "You.com",
+  "description": "YouSearch is a search engine or search tool that enables users to find relevant information, possibly with enhanced filtering or privacy-focused features",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://you.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "yousearch",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apiverve",
+  "displayName": "Apiverve",
+  "description": "APIVerve offers a comprehensive suite of APIs designed to simplify integration processes, providing developers with scalable and reliable solutions for various applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://apiverve.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apiverve",
+    "developer-tools"
+  ]
+}

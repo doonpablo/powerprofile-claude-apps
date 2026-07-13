@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "influxdb-cloud",
+  "displayName": "InfluxDB Cloud",
+  "description": "InfluxDB Cloud is a fully managed, scalable, and secure time series database service designed for real-time analytics and monitoring.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloud2.influxdata.com/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "influxdb-cloud",
+    "databases"
+  ]
+}

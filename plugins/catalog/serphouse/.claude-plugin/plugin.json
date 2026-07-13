@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "serphouse",
+  "displayName": "Serphouse",
+  "description": "High Volume API for SEO companies, data mining services, and SEO Tool Suite as a SaaS.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.serphouse.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "serphouse",
+    "developer-tools"
+  ]
+}

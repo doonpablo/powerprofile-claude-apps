@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "proabono",
+  "displayName": "Proabono",
+  "description": "ProAbono is the smart subscription management software that automates your daily routine.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.proabono.com/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "proabono",
+    "ecommerce"
+  ]
+}

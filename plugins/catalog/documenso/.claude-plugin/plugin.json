@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "documenso",
+  "displayName": "Documenso",
+  "description": "Documenso is an open-source electronic signature platform that allows users to create, send, and sign documents digitally.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://documenso.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "documenso",
+    "signatures"
+  ]
+}

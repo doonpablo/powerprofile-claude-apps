@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "test-app",
+  "displayName": "Test app",
+  "description": "...",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://composio.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "test-app",
+    "tag1"
+  ]
+}

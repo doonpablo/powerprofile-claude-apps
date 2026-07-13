@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kanbanize",
+  "displayName": "Kanbanize",
+  "description": "Kanbanize is designed to help advanced product teams apply the principles of Lean and Kanban to their work to maximize results.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kanbanize.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kanbanize",
+    "project-management"
+  ]
+}

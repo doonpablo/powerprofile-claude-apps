@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "college-football-data",
+  "displayName": "College Football Data",
+  "description": "CollegeFootballData.com provides comprehensive college football data, including game scores, statistics, and recruiting information, accessible via a RESTful API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://collegefootballdata.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "college-football-data",
+    "analytics"
+  ]
+}

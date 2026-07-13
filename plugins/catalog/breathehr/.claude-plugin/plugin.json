@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "breathehr",
+  "displayName": "Breathe HR",
+  "description": "BreatheHR is a simple, cloud-based HR software designed for SMEs to manage employee records, absences, performance reviews, and other HR processes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.breathehr.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "breathehr",
+    "human-resources"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "swaggerhub",
+  "displayName": "Swaggerhub",
+  "description": "Accelerating API delivery and quality through standards and collaboration, built on OpenAPI",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://swagger.io/tools/swaggerhub/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "swaggerhub",
+    "developer-tools"
+  ]
+}

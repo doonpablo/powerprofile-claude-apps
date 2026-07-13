@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "attio",
+  "displayName": "Attio",
+  "description": "Attio is a fully customizable workspace for your team's relationships and workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://attio.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "attio",
+    "crm"
+  ]
+}

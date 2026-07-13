@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "userflow",
+  "displayName": "Userflow",
+  "description": "User onboarding software. Build product tours, checklists and more. No coding needed.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://userflow.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "userflow",
+    "marketing-automation"
+  ]
+}

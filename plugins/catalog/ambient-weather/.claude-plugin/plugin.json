@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ambient-weather",
+  "displayName": "Ambient Weather",
+  "description": "Ambient Weather provides personal weather stations and an API for accessing real-time and historical weather data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ambientweather.net/account",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ambient-weather",
+    "internet-of-things"
+  ]
+}

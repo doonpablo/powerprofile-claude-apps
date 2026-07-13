@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "aeroleads",
+  "displayName": "Aeroleads",
+  "description": "AeroLeads is a B2B lead generation platform that helps users find business emails and phone numbers of prospects.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://aeroleads.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "aeroleads",
+    "contact-management"
+  ]
+}

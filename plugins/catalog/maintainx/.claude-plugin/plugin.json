@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "maintainx",
+  "displayName": "Maintainx",
+  "description": "MaintainX is a cloud-based computerized maintenance management system (CMMS) that helps organizations centralize maintenance data, communication, and workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.getmaintainx.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "maintainx",
+    "task-management"
+  ]
+}

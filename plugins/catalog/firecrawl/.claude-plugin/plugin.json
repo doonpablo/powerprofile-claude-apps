@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "firecrawl",
+  "displayName": "Firecrawl",
+  "description": "Firecrawl automates web crawling and data extraction, enabling organizations to gather content, index sites, and gain insights from online sources at scale",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.firecrawl.dev/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "firecrawl",
+    "ai-web-scraping"
+  ]
+}

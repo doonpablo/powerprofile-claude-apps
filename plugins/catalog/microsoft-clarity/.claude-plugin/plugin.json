@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "microsoft-clarity",
+  "displayName": "Microsoft Clarity",
+  "description": "Microsoft Clarity is a free user behavior analytics tool that captures heatmaps, session recordings, and engagement metrics to help improve website experiences",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://clarity.microsoft.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "microsoft-clarity",
+    "analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "veo",
+  "displayName": "Veo",
+  "description": "Veo 3 is Google's state-of-the-art model for generating high-fidelity 8s 720p videos with natively generated audio via the Gemini API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ai.google.dev/gemini-api/docs/video",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "veo",
+    "artificial-intelligence"
+  ]
+}

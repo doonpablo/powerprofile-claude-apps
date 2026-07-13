@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "buildkite",
+  "displayName": "Buildkite",
+  "description": "Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://buildkite.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "buildkite",
+    "developer-tools"
+  ]
+}

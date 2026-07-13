@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudflare",
+  "displayName": "Cloudflare",
+  "description": "Cloudflare is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dash.cloudflare.com/sign-up",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudflare",
+    "security-identity-tools"
+  ]
+}

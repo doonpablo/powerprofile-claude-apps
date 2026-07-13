@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "facebook",
+  "displayName": "Facebook",
+  "description": "Facebook is a social media and advertising platform used by individuals and businesses to connect, share content, and promote products or services. Only supports Facebook Pages, not Facebook Personal accounts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.facebook.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "facebook",
+    "social-media-accounts"
+  ]
+}

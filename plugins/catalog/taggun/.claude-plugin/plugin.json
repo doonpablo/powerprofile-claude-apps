@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "taggun",
+  "displayName": "Taggun",
+  "description": "Taggun is an AI-powered receipt OCR API that extracts structured data from receipt and invoice images in real-time. It supports 85+ languages, fraud detection, and automated expense tracking.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.taggun.io/register",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "taggun",
+    "ai-document-extraction"
+  ]
+}

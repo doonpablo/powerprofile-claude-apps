@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "finage",
+  "displayName": "Finage",
+  "description": "Finage provides secure RESTful APIs for real-time and historical financial market data covering stocks, forex, cryptocurrencies, indices, ETFs, and commodities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://finage.co.uk",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "finage",
+    "analytics"
+  ]
+}

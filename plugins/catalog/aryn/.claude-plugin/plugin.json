@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "aryn",
+  "displayName": "Aryn",
+  "description": "Aryn is an AI-powered platform for document parsing, data extraction, and analytics, enabling users to process and query unstructured documents at scale.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.aryn.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "aryn",
+    "ai-document-extraction"
+  ]
+}

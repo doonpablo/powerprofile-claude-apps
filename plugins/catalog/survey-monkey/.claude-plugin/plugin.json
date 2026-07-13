@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "survey-monkey",
+  "displayName": "SurveyMonkey",
+  "description": "SurveyMonkey is an online survey development platform that enables users to create, distribute, and analyze surveys for various purposes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.surveymonkey.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "survey-monkey",
+    "forms-surveys"
+  ]
+}

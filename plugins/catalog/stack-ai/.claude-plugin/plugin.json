@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "stack-ai",
+  "displayName": "Stack Ai",
+  "description": "No-Code Platform for Enterprise AI. Build, deploy, and scale AI workflows without code.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.stack-ai.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "stack-ai",
+    "artificial-intelligence"
+  ]
+}

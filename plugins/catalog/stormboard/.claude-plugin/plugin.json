@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "stormboard",
+  "displayName": "Stormboard",
+  "description": "An online sticky note whiteboard making meetings, brainstorms, and creative projects more productive and effective.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.stormboard.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "stormboard",
+    "productivity"
+  ]
+}

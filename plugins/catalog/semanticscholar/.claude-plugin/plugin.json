@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "semanticscholar",
+  "displayName": "Semantic Scholar",
+  "description": "Semantic Scholar is an AI-powered academic search engine that helps researchers discover and understand scientific literature",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.semanticscholar.org",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "semanticscholar",
+    "artificial-intelligence"
+  ]
+}

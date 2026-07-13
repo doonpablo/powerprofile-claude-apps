@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "metaphor",
+  "displayName": "Metaphor",
+  "description": "Metaphor is a neural search engine that enables developers to perform contextually relevant searches by understanding how people describe and share content online.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://metaphor.systems",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "metaphor",
+    "artificial-intelligence"
+  ]
+}

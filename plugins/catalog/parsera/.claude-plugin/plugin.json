@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "parsera",
+  "displayName": "Parsera",
+  "description": "Parsera is a lightweight Python library for scraping websites using large language models (LLMs).",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://parsera.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "parsera",
+    "ai-web-scraping"
+  ]
+}

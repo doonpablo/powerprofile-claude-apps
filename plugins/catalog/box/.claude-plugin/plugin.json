@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "box",
+  "displayName": "Box",
+  "description": "Box is a cloud content management platform for secure file storage, sharing, collaboration, and governance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.box.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "box",
+    "file-management-storage"
+  ]
+}

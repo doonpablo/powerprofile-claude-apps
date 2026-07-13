@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bugsnag",
+  "displayName": "Bugsnag",
+  "description": "Bugsnag is an error monitoring and stability management platform that helps developers identify, prioritize, and fix software bugs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.bugsnag.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bugsnag",
+    "developer-tools"
+  ]
+}

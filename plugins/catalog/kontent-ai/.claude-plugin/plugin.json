@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kontent-ai",
+  "displayName": "Kontent.ai",
+  "description": "Kontent.ai is a headless CMS that delivers content via API, allowing developers to build websites and applications using their preferred frameworks, languages, or libraries.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kontent.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kontent-ai",
+    "documents"
+  ]
+}

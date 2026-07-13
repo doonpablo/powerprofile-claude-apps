@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "esputnik",
+  "displayName": "Esputnik",
+  "description": "eSputnik is a marketing automation platform that enables businesses to manage and automate their communication channels, including email, SMS, web push, and mobile push notifications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://esputnik.com/en",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "esputnik",
+    "marketing-automation"
+  ]
+}

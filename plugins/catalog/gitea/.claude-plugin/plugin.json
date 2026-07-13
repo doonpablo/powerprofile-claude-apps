@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gitea",
+  "displayName": "Gitea",
+  "description": "Community managed lightweight code hosting solution written in Go",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gitea.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gitea",
+    "developer-tools"
+  ]
+}

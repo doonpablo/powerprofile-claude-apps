@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "klipfolio",
+  "displayName": "Klipfolio",
+  "description": "Klipfolio is a cloud-based business intelligence platform that enables users to create and share real-time dashboards and reports.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.klipfolio.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "klipfolio",
+    "business-intelligence"
+  ]
+}

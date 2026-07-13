@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "github",
+  "displayName": "GitHub",
+  "description": "GitHub is a code hosting platform for version control and collaboration, offering Git-based repository management, issue tracking, and continuous integration features",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://github.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "github",
+    "developer-tools"
+  ]
+}

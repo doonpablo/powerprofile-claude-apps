@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "parma",
+  "displayName": "Parma",
+  "description": "Parma CRM is a relationship management app designed to help you accelerate growth by deepening and nurturing your business relationships.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.parma.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "parma",
+    "crm"
+  ]
+}

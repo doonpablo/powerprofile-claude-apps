@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "databricks",
+  "displayName": "Databricks",
+  "description": "Databricks is the lakehouse company, helping data teams solve the world's toughest problems with unified analytics platform for big data and AI.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.databricks.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "databricks",
+    "developer-tools"
+  ]
+}

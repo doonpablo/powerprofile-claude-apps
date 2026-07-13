@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "niftyimages",
+  "displayName": "Niftyimages",
+  "description": "Allowing marketers to create dynamic and personalized content for your email campaigns.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://niftyimages.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "niftyimages",
+    "marketing-automation"
+  ]
+}

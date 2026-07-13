@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "plasmic",
+  "displayName": "Plasmic",
+  "description": "Plasmic is a visual builder for the web, enabling teams to create and manage web pages and components without code.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.plasmic.app/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "plasmic",
+    "website-builders"
+  ]
+}

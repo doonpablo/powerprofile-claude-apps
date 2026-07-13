@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "short-menu",
+  "displayName": "Short Menu",
+  "description": "Short Menu is a URL shortening application that allows users to create and manage short links efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://shortmenu.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "short-menu",
+    "url-shortener"
+  ]
+}

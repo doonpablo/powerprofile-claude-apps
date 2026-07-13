@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sentry",
+  "displayName": "Sentry",
+  "description": "Integrate Sentry to manage your error tracking and monitoring.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sentry.io/welcome/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sentry",
+    "developer-tools"
+  ]
+}

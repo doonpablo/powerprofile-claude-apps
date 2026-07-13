@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "amcards",
+  "displayName": "Amcards",
+  "description": "AMCards enables users to create personalized greeting cards, automate mailing campaigns, strengthen customer relationships using a convenient online platform for individualized connections",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://amcards.com/user/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "amcards",
+    "marketing-automation"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coinbase",
+  "displayName": "Coinbase",
+  "description": "Coinbase is a platform for buying, selling, transferring, and storing cryptocurrency.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.coinbase.com/en-in",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "coinbase",
+    "developer-tools"
+  ]
+}

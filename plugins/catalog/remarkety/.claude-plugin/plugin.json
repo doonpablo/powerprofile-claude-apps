@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "remarkety",
+  "displayName": "Remarkety",
+  "description": "Remarkety is an AI-powered marketing automation platform designed for eCommerce, enabling personalized email, SMS, and social campaigns based on customer behavior.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.remarkety.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "remarkety",
+    "marketing-automation"
+  ]
+}

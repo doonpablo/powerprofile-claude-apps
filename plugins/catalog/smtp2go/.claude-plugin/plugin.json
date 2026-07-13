@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "smtp2go",
+  "displayName": "Smtp2go",
+  "description": "SMTP2GO is a reliable email delivery service that ensures your emails reach recipients' inboxes efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.smtp2go.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "smtp2go",
+    "transactional-email"
+  ]
+}

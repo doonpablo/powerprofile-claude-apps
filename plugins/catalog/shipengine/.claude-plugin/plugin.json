@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "shipengine",
+  "displayName": "Shipengine",
+  "description": "ShipEngine is a REST API that simplifies shipping processes by integrating with multiple carriers, allowing users to manage shipping labels, track packages, and validate addresses efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.shipengine.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "shipengine",
+    "ecommerce"
+  ]
+}

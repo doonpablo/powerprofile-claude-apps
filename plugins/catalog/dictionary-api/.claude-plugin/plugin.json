@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dictionary-api",
+  "displayName": "Dictionary Api",
+  "description": "The Merriam-Webster Dictionary API provides developers with access to comprehensive dictionary and thesaurus content, including definitions, etymologies, audio pronunciations, synonyms, and antonyms.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dictionaryapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dictionary-api",
+    "education"
+  ]
+}

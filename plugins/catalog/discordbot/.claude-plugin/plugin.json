@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "discordbot",
+  "displayName": "Discord Bot",
+  "description": "Discordbot refers to automated programs on Discord servers, performing tasks like moderation, music playback, and user engagement to enhance community interactions",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://discord.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "discordbot",
+    "team-chat"
+  ]
+}

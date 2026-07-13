@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hyperbrowser",
+  "displayName": "Hyperbrowser",
+  "description": "Hyperbrowser is a next-generation platform empowering AI agents and enabling effortless, scalable browser automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.hyperbrowser.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hyperbrowser",
+    "ai-web-scraping"
+  ]
+}

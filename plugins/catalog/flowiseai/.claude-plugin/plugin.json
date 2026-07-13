@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "flowiseai",
+  "displayName": "Flowiseai",
+  "description": "FlowiseAI is an open-source generative AI development platform for building AI Agents and LLM workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://flowiseai.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "flowiseai",
+    "ai-agents"
+  ]
+}

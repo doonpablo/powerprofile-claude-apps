@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "api2pdf",
+  "displayName": "API2PDF",
+  "description": "Api2Pdf is a REST API that enables developers to generate PDFs from HTML, URLs, and various document formats using engines like wkhtmltopdf, Headless Chrome, and LibreOffice.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://portal.api2pdf.com/register",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "api2pdf",
+    "documents"
+  ]
+}

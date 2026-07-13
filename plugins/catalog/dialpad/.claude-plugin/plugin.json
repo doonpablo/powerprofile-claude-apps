@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dialpad",
+  "displayName": "Dialpad",
+  "description": "Dialpad is a cloud-based business phone system and contact center platform that enables voice, video, messages and meetings across your existing devices",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dialpad.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dialpad",
+    "communication"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gladia",
+  "displayName": "Gladia",
+  "description": "Gladia provides state-of-the-art audio transcription and intelligence services through a simple API, enabling real-time and asynchronous transcription, translation, and audio analysis.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.gladia.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gladia",
+    "transcription"
+  ]
+}

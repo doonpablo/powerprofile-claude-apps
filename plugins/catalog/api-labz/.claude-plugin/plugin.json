@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "api-labz",
+  "displayName": "API Labz",
+  "description": "API Labz offers a comprehensive suite of AI-driven APIs and tools designed to streamline workflows, automate tasks, and build innovative applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://apilabz.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "api-labz",
+    "artificial-intelligence"
+  ]
+}

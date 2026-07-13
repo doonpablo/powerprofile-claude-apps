@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "anonyflow",
+  "displayName": "Anonyflow",
+  "description": "AnonyFlow offers a simple and powerful service for encryption-based data anonymization and community sharing, enabling GDPR, CCPA, and HIPAA data privacy protection compliance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://anonyflow.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "anonyflow",
+    "security-identity-tools"
+  ]
+}

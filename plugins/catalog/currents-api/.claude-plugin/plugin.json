@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "currents-api",
+  "displayName": "Currents API",
+  "description": "Currents News API provides access to the latest news articles from various sources worldwide, supporting multiple languages and categories.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://currentsapi.services/en",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "currents-api",
+    "news-lifestyle"
+  ]
+}

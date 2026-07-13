@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "screenshotone",
+  "displayName": "ScreenshotOne",
+  "description": "ScreenshotOne is a screenshot API for developers, enabling the rendering of website screenshots through simple API calls without managing browser clusters.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://screenshotone.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "screenshotone",
+    "developer-tools"
+  ]
+}

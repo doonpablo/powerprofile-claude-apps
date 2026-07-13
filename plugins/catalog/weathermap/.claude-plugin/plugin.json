@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "weathermap",
+  "displayName": "OpenWeatherMap",
+  "description": "WeatherMap provides visual weather data, forecasts, and mappings, helping users understand climate patterns or track severe weather conditions",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://openweathermap.org/weathermap",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "weathermap",
+    "developer-tools"
+  ]
+}

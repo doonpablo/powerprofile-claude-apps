@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "onepage",
+  "displayName": "Onepage",
+  "description": "API for enriching user and company data, providing endpoints for token validation and generic search.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://onepagerapp.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "onepage",
+    "productivity"
+  ]
+}

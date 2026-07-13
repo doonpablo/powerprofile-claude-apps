@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "polymarket",
+  "displayName": "Polymarket US",
+  "description": "Polymarket US only. This toolkit connects to the CFTC-compliant Polymarket US product for United States users, not the global Polymarket app. API credentials are created at https://polymarket.us/developers after Polymarket US account verification.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://polymarket.us",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "polymarket",
+    "commerce"
+  ]
+}

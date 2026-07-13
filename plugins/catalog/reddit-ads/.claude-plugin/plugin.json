@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "reddit-ads",
+  "displayName": "Reddit Ads",
+  "description": "Reddit Ads API for managing advertising campaigns, conversions, and account data on Reddit.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ads.reddit.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "reddit-ads",
+    "marketing"
+  ]
+}

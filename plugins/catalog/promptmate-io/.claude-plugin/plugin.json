@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "promptmate-io",
+  "displayName": "Promptmate.io",
+  "description": "Promptmate.io enables users to build AI-powered applications by integrating various AI systems like ChatGPT, Google Gemini, and Stability AI, offering features such as multi-step AI workflows, bulk processing, and automation through Zapier.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://promptmate.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "promptmate-io",
+    "artificial-intelligence"
+  ]
+}

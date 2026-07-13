@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "appveyor",
+  "displayName": "Appveyor",
+  "description": "AppVeyor is a hosted continuous integration service for building and deploying applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.appveyor.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "appveyor",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "memberspot",
+  "displayName": "Memberspot",
+  "description": "Memberspot is an online course and video-hosting platform designed to facilitate knowledge management and community engagement for businesses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.memberspot.de/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "memberspot",
+    "online-courses"
+  ]
+}

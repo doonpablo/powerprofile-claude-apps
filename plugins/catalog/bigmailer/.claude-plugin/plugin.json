@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bigmailer",
+  "displayName": "Bigmailer",
+  "description": "BigMailer is an email marketing platform designed for managing multiple brands, offering features like white-labeling, automation, and integration with Amazon SES.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bigmailer.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bigmailer",
+    "email-newsletters"
+  ]
+}

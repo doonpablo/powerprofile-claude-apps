@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "chatfai",
+  "displayName": "Chatfai",
+  "description": "ChatFAI is an AI-powered platform that enables users to engage in interactive conversations with AI-generated versions of their favorite fictional characters from various media.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://chatfai.com/developers",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "chatfai",
+    "ai-chatbots"
+  ]
+}

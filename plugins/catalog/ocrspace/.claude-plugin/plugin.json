@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ocrspace",
+  "displayName": "OCR.space",
+  "description": "OCR.space provides a free and paid OCR API for extracting text from images and PDFs, returning results in JSON format.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ocr.space/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ocrspace",
+    "ai-document-extraction"
+  ]
+}

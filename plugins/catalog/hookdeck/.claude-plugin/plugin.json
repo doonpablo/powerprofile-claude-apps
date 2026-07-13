@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hookdeck",
+  "displayName": "Hookdeck",
+  "description": "Hookdeck is a platform that enables developers to manage, monitor, and secure webhooks and API events.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://hookdeck.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hookdeck",
+    "developer-tools"
+  ]
+}

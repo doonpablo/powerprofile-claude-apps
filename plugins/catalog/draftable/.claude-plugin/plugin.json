@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "draftable",
+  "displayName": "Draftable",
+  "description": "Draftable provides an enterprise-grade document comparison API that allows developers to compare popular document types such as PDFs, Word, and PowerPoint files.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.draftable.com/rest-api",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "draftable",
+    "documents"
+  ]
+}

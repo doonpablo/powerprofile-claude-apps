@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "exa",
+  "displayName": "Exa",
+  "description": "Exa focuses on data extraction and search, helping teams gather, analyze, and visualize information from websites, APIs, or internal databases",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://exa.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "exa",
+    "ai-web-scraping"
+  ]
+}

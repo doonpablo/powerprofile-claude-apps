@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "textcortex",
+  "displayName": "Textcortex",
+  "description": "TextCortex offers an AI-powered text generation API that enables developers to integrate advanced language models into their applications for tasks such as content creation, paraphrasing, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://textcortex.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "textcortex",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fraudlabs-pro",
+  "displayName": "FraudLabs Pro",
+  "description": "FraudLabs Pro is an online payment fraud detection service that helps merchants minimize chargebacks and maximize revenue by detecting fraud across various payment methods.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.fraudlabspro.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fraudlabs-pro",
+    "security-identity-tools"
+  ]
+}

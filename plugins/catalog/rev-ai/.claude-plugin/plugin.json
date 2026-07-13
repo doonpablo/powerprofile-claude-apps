@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rev-ai",
+  "displayName": "Rev AI",
+  "description": "Rev AI provides advanced machine learning and speech recognition services for converting audio and video to text.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.rev.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rev-ai",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "paperform",
+  "displayName": "Paperform",
+  "description": "Paperform is a flexible online form builder that combines beautiful design with serious digital smarts",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://paperform.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "paperform",
+    "forms-surveys"
+  ]
+}

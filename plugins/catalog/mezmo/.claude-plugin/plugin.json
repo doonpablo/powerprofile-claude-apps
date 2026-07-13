@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mezmo",
+  "displayName": "Mezmo",
+  "description": "Mezmo provides a comprehensive platform for log management and telemetry data processing, enabling organizations to collect, analyze, and manage their log data efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mezmo.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mezmo",
+    "server-monitoring"
+  ]
+}

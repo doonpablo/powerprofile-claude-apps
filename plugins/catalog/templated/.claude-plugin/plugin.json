@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "templated",
+  "displayName": "Templated",
+  "description": "Templated is a platform that automates the generation of images and PDFs through a simple API, allowing users to design templates and render them multiple times with dynamic content.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://templated.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "templated",
+    "images-design"
+  ]
+}

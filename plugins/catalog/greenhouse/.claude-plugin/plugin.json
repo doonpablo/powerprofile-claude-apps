@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "greenhouse",
+  "displayName": "Greenhouse",
+  "description": "Applicant tracking and recruiting software to optimize your entire recruiting process",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.greenhouse.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "greenhouse",
+    "hr-talent-recruitment"
+  ]
+}

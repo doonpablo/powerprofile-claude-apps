@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "eagle-doc",
+  "displayName": "Eagle doc",
+  "description": "AI-Powered, Fast, Reliable and Accurate Invoice OCR and Receipt OCR API for Seamless Integration",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.eagle-doc.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "eagle-doc",
+    "ai-document-extraction"
+  ]
+}

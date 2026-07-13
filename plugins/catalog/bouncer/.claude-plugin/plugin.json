@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bouncer",
+  "displayName": "Bouncer",
+  "description": "Bouncer is an email verification and validation service that helps ensure email deliverability by verifying email addresses through real-time and batch processing APIs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.usebouncer.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bouncer",
+    "email"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "formdesk",
+  "displayName": "Formdesk",
+  "description": "Formdesk is an online form builder that allows users to create and manage professional online forms with flexible features and integrations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://formdesk.com/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "formdesk",
+    "forms-surveys"
+  ]
+}

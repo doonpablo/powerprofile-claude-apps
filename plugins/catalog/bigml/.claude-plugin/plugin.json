@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bigml",
+  "displayName": "Bigml",
+  "description": "BigML is a comprehensive machine learning platform that simplifies the creation and deployment of predictive models through an intuitive web interface and a REST API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bigml.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bigml",
+    "artificial-intelligence"
+  ]
+}

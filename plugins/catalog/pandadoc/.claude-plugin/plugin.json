@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pandadoc",
+  "displayName": "PandaDoc",
+  "description": "PandaDoc offers document creation, e-signatures, and workflow automation, helping sales teams and businesses streamline proposals, contracts, and agreement processes",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.pandadoc.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pandadoc",
+    "documents"
+  ]
+}

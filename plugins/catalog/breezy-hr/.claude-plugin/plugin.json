@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "breezy-hr",
+  "displayName": "Breezy Hr",
+  "description": "Integrate Breezy HR to streamline your recruiting and applicant tracking processes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://breezy.hr/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "breezy-hr",
+    "hr-talent-recruitment"
+  ]
+}

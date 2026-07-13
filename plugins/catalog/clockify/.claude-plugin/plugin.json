@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clockify",
+  "displayName": "Clockify",
+  "description": "Clockify is a free time tracking software that allows individuals and teams to track work hours across projects.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://clockify.me/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "clockify",
+    "time-tracking-software"
+  ]
+}

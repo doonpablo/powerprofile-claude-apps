@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "corrently",
+  "displayName": "Corrently",
+  "description": "Corrently provides a suite of APIs offering real-time and forecasted data on renewable energy availability, CO₂ emissions, and electricity pricing, enabling users to optimize energy consumption and reduce carbon footprints.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://console.corrently.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "corrently",
+    "analytics"
+  ]
+}

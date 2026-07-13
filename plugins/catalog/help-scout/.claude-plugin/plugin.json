@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "help-scout",
+  "displayName": "Help Scout",
+  "description": "Help Scout provides customer support software with shared inbox, knowledge base, and customer management tools",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.helpscout.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "help-scout",
+    "customer-support"
+  ]
+}

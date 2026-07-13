@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "leadoku",
+  "displayName": "Leadoku",
+  "description": "Leadoku is a platform designed to streamline lead management and sales processes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://leadoku.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "leadoku",
+    "sales-crm"
+  ]
+}

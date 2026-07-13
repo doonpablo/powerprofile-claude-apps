@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "remote-retrieval",
+  "displayName": "Remote Retrieval",
+  "description": "Remote Retrieval automates the logistics of managing equipment returns, providing efficient tracking and management of laptop and monitor returns.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.remoteretrieval.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "remote-retrieval",
+    "it-operations"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "api-ninjas",
+  "displayName": "API Ninjas",
+  "description": "API Ninjas offers over 120 unique APIs across various categories, enabling developers to build real applications with real data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://api-ninjas.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "api-ninjas",
+    "developer-tools"
+  ]
+}

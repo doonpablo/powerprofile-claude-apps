@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sap-successfactors",
+  "displayName": "SAP SuccessFactors",
+  "description": "Cloud-based human capital management software covering Employee Central, Recruiting, Performance & Goals, Learning, Compensation, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.sap.com/products/hcm.html",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sap-successfactors",
+    "human-resources"
+  ]
+}

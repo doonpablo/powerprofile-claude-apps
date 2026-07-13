@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "waiverfile",
+  "displayName": "Waiverfile",
+  "description": "WaiverFile is an electronic waiver form system that allows customers to sign release waivers from any device, streamlining the waiver management process.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.waiverfile.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "waiverfile",
+    "forms-surveys"
+  ]
+}

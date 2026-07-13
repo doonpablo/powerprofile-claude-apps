@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hubspot",
+  "displayName": "HubSpot",
+  "description": "HubSpot is an inbound marketing, sales, and customer service platform integrating CRM, email automation, and analytics to facilitate lead nurturing and seamless customer experiences",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.hubspot.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hubspot",
+    "crm"
+  ]
+}

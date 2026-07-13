@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "datarobot",
+  "displayName": "DataRobot",
+  "description": "DataRobot is a machine learning platform that automates model building, deployment, and monitoring, enabling organizations to derive predictive insights from large datasets",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.datarobot.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "datarobot",
+    "artificial-intelligence"
+  ]
+}

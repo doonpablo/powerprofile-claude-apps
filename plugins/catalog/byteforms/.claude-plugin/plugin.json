@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "byteforms",
+  "displayName": "Byteforms",
+  "description": "All-in-one solution for form creation, submission management, and data integration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://forms.bytesuite.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "byteforms",
+    "forms-surveys"
+  ]
+}

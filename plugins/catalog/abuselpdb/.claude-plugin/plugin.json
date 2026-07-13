@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "abuselpdb",
+  "displayName": "AbuseIPDB",
+  "description": "AbuseIPDB is a project dedicated to helping make the internet safer by providing a central repository for reporting and checking IP addresses associated with malicious activities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.abuseipdb.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "abuselpdb",
+    "security-identity-tools"
+  ]
+}

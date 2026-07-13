@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hackernews",
+  "displayName": "Hacker News",
+  "description": "Hacker News is a tech-focused news aggregator by Y Combinator, featuring user-submitted stories and discussions on startups, programming, and emerging trends",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://news.ycombinator.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hackernews",
+    "news-lifestyle"
+  ]
+}

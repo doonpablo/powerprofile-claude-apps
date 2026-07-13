@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "signaturely",
+  "displayName": "Signaturely",
+  "description": "Signaturely is an electronic signature platform that allows users to sign documents online, offering features like automated signature requests, templates, and integrations with other platforms.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://signaturely.com/api/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "signaturely",
+    "signatures"
+  ]
+}

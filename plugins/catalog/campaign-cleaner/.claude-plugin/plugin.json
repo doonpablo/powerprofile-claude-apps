@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "campaign-cleaner",
+  "displayName": "Campaign Cleaner",
+  "description": "Campaign Cleaner is a tool designed to optimize email campaigns by ensuring compatibility across email clients, improving deliverability, and enhancing overall performance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://campaigncleaner.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "campaign-cleaner",
+    "email"
+  ]
+}

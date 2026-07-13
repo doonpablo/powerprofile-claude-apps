@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zenserp",
+  "displayName": "Zenserp",
+  "description": "Zenserp is a real-time SERP API that extracts Google Search results in JSON format.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://zenserp.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zenserp",
+    "ai-web-scraping"
+  ]
+}

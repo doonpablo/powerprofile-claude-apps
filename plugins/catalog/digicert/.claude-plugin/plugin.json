@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "digicert",
+  "displayName": "Digicert",
+  "description": "DigiCert is a leading provider of high-assurance TLS/SSL, PKI, IoT, and signing solutions, enabling secure digital interactions worldwide.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.digicert.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "digicert",
+    "security-identity-tools"
+  ]
+}

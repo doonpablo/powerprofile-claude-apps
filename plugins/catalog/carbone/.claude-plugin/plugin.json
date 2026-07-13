@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "carbone",
+  "displayName": "Carbone",
+  "description": "Carbone is a fast and simple report generator that converts JSON data into various document formats such as PDF, DOCX, XLSX, ODT, and more, using templates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://account.carbone.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "carbone",
+    "documents"
+  ]
+}

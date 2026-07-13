@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "retailed",
+  "displayName": "Retailed",
+  "description": "Retailed is a global developer-first platform providing retail and resale marketplace APIs with access to product data, pricing information, and inventory management from major platforms like StockX, GOAT, Chrono24, and 50+ retail websites including sneakers, streetwear, watches, and luxury goods.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.retailed.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "retailed",
+    "ecommerce"
+  ]
+}

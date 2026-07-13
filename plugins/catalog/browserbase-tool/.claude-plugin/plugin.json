@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "browserbase-tool",
+  "displayName": "Browserbase",
+  "description": "Browserbase is a serverless platform that enables developers to run, manage, and monitor headless browsers at scale, offering seamless integration with tools like Playwright, Puppeteer, and Selenium.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.browserbase.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "browserbase-tool",
+    "developer-tools"
+  ]
+}

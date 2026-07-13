@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "alpaca",
+  "displayName": "Alpaca",
+  "description": "Stock and crypto trading platform with commission-free trading, real-time market data, and algorithmic trading capabilities",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://alpaca.markets",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "alpaca",
+    "commerce"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linear",
+  "displayName": "Linear",
+  "description": "Linear is a streamlined issue tracking and project planning tool for modern teams, featuring fast workflows, keyboard shortcuts, and GitHub integrations",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://linear.app",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "linear",
+    "project-management"
+  ]
+}

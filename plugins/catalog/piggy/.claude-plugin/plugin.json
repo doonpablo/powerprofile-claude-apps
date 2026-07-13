@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "piggy",
+  "displayName": "Piggy",
+  "description": "Piggy offers cashback and loyalty program integrations for online stores, letting users earn points or discounts and encouraging repeat purchases",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.piggy.eu/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "piggy",
+    "marketing-automation"
+  ]
+}

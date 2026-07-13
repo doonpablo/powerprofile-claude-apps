@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "graphhopper",
+  "displayName": "Graphhopper",
+  "description": "GraphHopper Directions API provides enterprise-grade routing services, including route planning, optimization, geocoding, and more, for various vehicle types.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.graphhopper.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "graphhopper",
+    "developer-tools"
+  ]
+}

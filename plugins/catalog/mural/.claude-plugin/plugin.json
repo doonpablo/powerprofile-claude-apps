@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mural",
+  "displayName": "Mural",
+  "description": "Mural is a digital whiteboard platform enabling distributed teams to visually brainstorm, map ideas, and collaborate in real time with sticky notes and diagrams",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mural.co",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mural",
+    "team-collaboration"
+  ]
+}

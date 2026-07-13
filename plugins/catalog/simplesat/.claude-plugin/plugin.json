@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "simplesat",
+  "displayName": "Simplesat",
+  "description": "Simplesat captures customer feedback and CSAT scores through surveys, integrating directly with helpdesk systems for real-time performance insights",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.simplesat.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "simplesat",
+    "crm"
+  ]
+}

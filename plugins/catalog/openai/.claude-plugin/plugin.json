@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "openai",
+  "displayName": "OpenAI",
+  "description": "Toolkit for OpenAI APIs: manage Assistants, Threads/Messages; upload/list/delete Files; list/retrieve Models (including vision/multimodal); and view fine-tune listings and events.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://platform.openai.com/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "openai",
+    "artificial-intelligence"
+  ]
+}

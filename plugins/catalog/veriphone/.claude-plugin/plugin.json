@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "veriphone",
+  "displayName": "Veriphone",
+  "description": "Veriphone is a REST-based JSON API that provides phone number validation services, allowing developers to verify the validity, type, carrier, and region of phone numbers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://veriphone.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "veriphone",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "claid-ai",
+  "displayName": "Claid.ai",
+  "description": "Claid.ai offers AI-powered image editing APIs for tasks like background removal, upscaling, and color correction.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://claid.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "claid-ai",
+    "images-design"
+  ]
+}

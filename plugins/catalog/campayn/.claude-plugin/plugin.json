@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "campayn",
+  "displayName": "Campayn",
+  "description": "Campayn is an email marketing platform that allows users to create, send, and manage email campaigns.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.campayn.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "campayn",
+    "email-newsletters"
+  ]
+}

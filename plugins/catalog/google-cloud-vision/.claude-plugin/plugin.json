@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "google-cloud-vision",
+  "displayName": "Google Cloud Vision",
+  "description": "Google Cloud Vision API enables developers to integrate vision detection features into applications, including image labeling, face and landmark detection, optical character recognition (OCR), and explicit content tagging.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloud.google.com/vision",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "google-cloud-vision",
+    "artificial-intelligence"
+  ]
+}

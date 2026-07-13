@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "doppler-secretops",
+  "displayName": "Doppler SecretOps",
+  "description": "Doppler is a secrets management platform that helps teams securely manage and sync environment variables across projects and environments.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.doppler.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "doppler-secretops",
+    "developer-tools"
+  ]
+}

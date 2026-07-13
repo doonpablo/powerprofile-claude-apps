@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "metabase",
+  "displayName": "Metabase",
+  "description": "Metabase is an open-source business intelligence tool that lets you ask questions about your data and visualize answers as charts, graphs, and dashboards.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.metabase.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "metabase",
+    "business-intelligence"
+  ]
+}

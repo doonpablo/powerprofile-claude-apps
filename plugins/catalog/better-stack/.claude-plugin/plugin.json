@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "better-stack",
+  "displayName": "Better Stack",
+  "description": "Better Stack provides monitoring, logging, and incident management solutions to help teams ensure the reliability and performance of their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://betterstack.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "better-stack",
+    "server-monitoring"
+  ]
+}

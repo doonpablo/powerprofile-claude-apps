@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mistral-ai",
+  "displayName": "Mistral AI",
+  "description": "Mistral AI is a research lab building state-of-the-art open-source language models and providing APIs for developers and enterprises to integrate these models into their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://console.mistral.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mistral-ai",
+    "artificial-intelligence"
+  ]
+}

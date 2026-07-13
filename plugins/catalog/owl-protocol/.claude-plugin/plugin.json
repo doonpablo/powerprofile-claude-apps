@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "owl-protocol",
+  "displayName": "Owl Protocol",
+  "description": "Owl Protocol empowers developers to build feature-rich, user-friendly Web3 applications for mainstream adoption through modular infrastructure that simplifies blockchain development.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://owlprotocol.xyz/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "owl-protocol",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dynapictures",
+  "displayName": "Dynapictures",
+  "description": "Generate Hundreds of Personalized Images in Minutes. DynaPictures is a cloud-based solution for dynamic image generation. Connect your preferred data source like Google Sheets to create personalized images and display your client names, coupons, or virtually anything else.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dynapictures.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dynapictures",
+    "images-design"
+  ]
+}

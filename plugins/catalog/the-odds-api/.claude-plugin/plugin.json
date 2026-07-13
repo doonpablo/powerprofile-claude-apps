@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "the-odds-api",
+  "displayName": "The Odds API",
+  "description": "The Odds API provides real-time sports betting odds data from various bookmakers worldwide, covering multiple sports and betting markets.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://the-odds-api.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "the-odds-api",
+    "gaming"
+  ]
+}

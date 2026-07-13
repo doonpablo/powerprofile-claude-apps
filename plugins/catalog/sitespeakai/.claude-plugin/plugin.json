@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sitespeakai",
+  "displayName": "Sitespeakai",
+  "description": "SiteSpeakAI enables businesses to automate customer support by creating custom-trained, embeddable GPT chatbots that provide real-time answers about products and services, reducing support tickets.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sitespeak.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sitespeakai",
+    "ai-chatbots"
+  ]
+}

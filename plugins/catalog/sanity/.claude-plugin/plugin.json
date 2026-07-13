@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sanity",
+  "displayName": "Sanity",
+  "description": "Sanity is a headless CMS platform that provides structured content storage and APIs for modern applications",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.sanity.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sanity",
+    "developer-tools"
+  ]
+}

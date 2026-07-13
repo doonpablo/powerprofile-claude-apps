@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apify-mcp",
+  "displayName": "Apify MCP",
+  "description": "AI-powered web scraping and automation platform. Run actors, scrape websites, and automate browser tasks via the official Apify MCP server.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.apify.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apify-mcp",
+    "model-context-protocol"
+  ]
+}

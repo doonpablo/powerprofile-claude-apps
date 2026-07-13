@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "seqera",
+  "displayName": "Seqera",
+  "description": "Seqera Platform is an intuitive, centralized command post that enables data analysis at scale, allowing users to launch, manage, and monitor scalable Nextflow pipelines and compute environments on-premises or across cloud providers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://seqera.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "seqera",
+    "developer-tools"
+  ]
+}

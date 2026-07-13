@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "storyblok",
+  "displayName": "Storyblok",
+  "description": "Headless CMS with visual editor for content management and delivery across multiple platforms",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.storyblok.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "storyblok",
+    "developer-tools"
+  ]
+}

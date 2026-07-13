@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "detrack",
+  "displayName": "Detrack",
+  "description": "Detrack is a delivery management software that offers real-time vehicle tracking, electronic proof of delivery, and automated customer notifications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.detrack.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "detrack",
+    "internet-of-things"
+  ]
+}

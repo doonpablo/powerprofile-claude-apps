@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "openrouter",
+  "displayName": "Openrouter",
+  "description": "OpenRouter is a platform that provides a unified API for accessing various large language models (LLMs) from different providers, allowing developers to integrate multiple AI models seamlessly.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://openrouter.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "openrouter",
+    "artificial-intelligence"
+  ]
+}

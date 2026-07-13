@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "realphonevalidation",
+  "displayName": "Realphonevalidation",
+  "description": "RealPhoneValidation offers real-time phone number validation services, providing information on connectivity, phone type, carrier, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.realphonevalidation.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "realphonevalidation",
+    "phone-sms"
+  ]
+}

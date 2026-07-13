@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "alttext-ai",
+  "displayName": "AltText.ai",
+  "description": "AltText.ai is a service that automatically generates alt text for images, enhancing accessibility and SEO.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://alttext.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "alttext-ai",
+    "artificial-intelligence"
+  ]
+}

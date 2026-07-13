@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scheduleonce",
+  "displayName": "Scheduleonce",
+  "description": "Scheduling platform for capturing, qualifying, and engaging with inbound leads",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.oncehub.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scheduleonce",
+    "scheduling-booking"
+  ]
+}

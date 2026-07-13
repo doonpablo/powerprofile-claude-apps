@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "razorpay",
+  "displayName": "Razorpay",
+  "description": "Payment gateway and financial services platform for businesses in India",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://razorpay.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "razorpay",
+    "payment-processing"
+  ]
+}

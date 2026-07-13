@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ramp",
+  "displayName": "Ramp",
+  "description": "Ramp is a platform that helps you manage your finances, track your income and expenses, and get insights into your business",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ramp.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ramp",
+    "accounting"
+  ]
+}

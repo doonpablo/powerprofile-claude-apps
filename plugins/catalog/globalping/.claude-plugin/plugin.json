@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "globalping",
+  "displayName": "Globalping",
+  "description": "Globalping is a global network of probes that allows users to run network tests like ping, traceroute, and DNS resolve from various locations worldwide.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://globalping.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "globalping",
+    "server-monitoring"
+  ]
+}

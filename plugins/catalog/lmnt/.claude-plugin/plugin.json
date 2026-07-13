@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "lmnt",
+  "displayName": "LMNT",
+  "description": "LMNT focuses on voice and audio manipulation, possibly leveraging AI to generate or transform sound for various creative and technical use cases",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://drinklmnt.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "lmnt",
+    "artificial-intelligence"
+  ]
+}

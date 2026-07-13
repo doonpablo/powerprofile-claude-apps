@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "suitedash",
+  "displayName": "Suitedash",
+  "description": "All-in-one business software for client management, CRM, project management, and invoicing",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.suitedash.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "suitedash",
+    "productivity"
+  ]
+}

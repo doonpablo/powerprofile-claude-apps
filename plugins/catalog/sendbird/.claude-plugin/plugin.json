@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendbird",
+  "displayName": "Sendbird",
+  "description": "Sendbird is a platform that provides chat, voice, and video APIs to help businesses build in-app communication features.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sendbird.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sendbird",
+    "communication"
+  ]
+}

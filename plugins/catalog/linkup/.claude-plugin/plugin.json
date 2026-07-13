@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linkup",
+  "displayName": "Linkup",
+  "description": "Linkup is a search engine that allows you to search the web for relevant results.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.linkup.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "linkup",
+    "ai-web-scraping"
+  ]
+}

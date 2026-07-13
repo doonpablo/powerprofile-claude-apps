@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "planyo-online-booking",
+  "displayName": "Planyo Online Booking",
+  "description": "Planyo is an online reservation system which can be used by any business taking bookings: for days, nights, hours or minutes, or scheduled events.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.planyo.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "planyo-online-booking",
+    "scheduling-booking"
+  ]
+}

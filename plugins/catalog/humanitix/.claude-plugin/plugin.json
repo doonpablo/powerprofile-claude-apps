@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "humanitix",
+  "displayName": "Humanitix",
+  "description": "Humanitix is a not-for-profit ticketing platform that donates 100% of its profits to charity.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://humanitix.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "humanitix",
+    "event-management"
+  ]
+}

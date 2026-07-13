@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "botstar",
+  "displayName": "Botstar",
+  "description": "BotStar is a comprehensive chatbot platform that enables businesses to design, develop, and train chatbots visually for Messenger and websites.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://botstar.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "botstar",
+    "ai-chatbots"
+  ]
+}

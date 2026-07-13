@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wix-mcp",
+  "displayName": "Wix MCP",
+  "description": "Wix is a cloud-based website building platform for creating and managing sites, content, and online business experiences. It supports business features like eCommerce, bookings, blog, and CMS-driven content.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.wix.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wix-mcp",
+    "e-commerce"
+  ]
+}

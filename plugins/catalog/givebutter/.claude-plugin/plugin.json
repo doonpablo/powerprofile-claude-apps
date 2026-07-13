@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "givebutter",
+  "displayName": "Givebutter",
+  "description": "Givebutter is a fundraising platform that offers a free, open, and public API for developers to manage campaigns, track donations, and engage with supporters.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://givebutter.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "givebutter",
+    "fundraising"
+  ]
+}

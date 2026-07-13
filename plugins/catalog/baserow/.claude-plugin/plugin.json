@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "baserow",
+  "displayName": "Baserow",
+  "description": "Baserow is an open-source database tool that lets teams build no-code data applications, collaborate on records, and integrate with other services for data management",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://baserow.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "baserow",
+    "databases"
+  ]
+}

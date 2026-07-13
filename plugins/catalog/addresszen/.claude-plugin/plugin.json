@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "addresszen",
+  "displayName": "Addresszen",
+  "description": "AddressZen provides address autocomplete and verification services, offering real-time address suggestions and validation to ensure accurate and deliverable addresses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://addresszen.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "addresszen",
+    "developer-tools"
+  ]
+}

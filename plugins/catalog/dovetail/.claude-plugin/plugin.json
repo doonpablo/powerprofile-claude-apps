@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dovetail",
+  "displayName": "Dovetail",
+  "description": "Dovetail is an Australian software company that provides tools for transcription analysis, coding interpretation of interviews, survey responses, and feedback, enabling users to create summarized insights from their research analysis.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dovetail.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dovetail",
+    "analytics"
+  ]
+}

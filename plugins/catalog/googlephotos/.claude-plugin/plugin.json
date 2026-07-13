@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googlephotos",
+  "displayName": "Google Photos",
+  "description": "Google Photos is a cloud-based photo storage and organization service offering automatic backups, AI-assisted search, and shared albums for personal and collaborative media management",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://photos.google.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googlephotos",
+    "images-design"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "timelink",
+  "displayName": "Timelink",
+  "description": "Timelink is a time tracking application designed to simplify and enhance the process of recording work hours, offering both software and hardware solutions for efficient time management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://timelink.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "timelink",
+    "time-tracking-software"
+  ]
+}

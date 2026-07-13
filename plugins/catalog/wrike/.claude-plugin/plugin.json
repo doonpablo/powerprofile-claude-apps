@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wrike",
+  "displayName": "Wrike",
+  "description": "Wrike is a project management and collaboration tool offering customizable workflows, Gantt charts, reporting, and resource management to boost team productivity",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.wrike.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wrike",
+    "project-management"
+  ]
+}

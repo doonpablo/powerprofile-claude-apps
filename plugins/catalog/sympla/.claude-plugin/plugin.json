@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sympla",
+  "displayName": "Sympla",
+  "description": "Sympla is a platform for managing both in-person and online events, offering tools for ticket sales, registrations, and digital content broadcasting.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.sympla.com.br",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sympla",
+    "event-management"
+  ]
+}

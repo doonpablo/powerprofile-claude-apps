@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "keen-io",
+  "displayName": "Keen.io",
+  "description": "Keen.io is an embedded analytics API that enables developers to collect, analyze, and visualize event data seamlessly.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://keen.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "keen-io",
+    "analytics"
+  ]
+}

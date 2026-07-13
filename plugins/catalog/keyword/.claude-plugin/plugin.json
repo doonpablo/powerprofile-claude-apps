@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "keyword",
+  "displayName": "Keyword",
+  "description": "Keyword.com is a digital marketing platform that provides search engine ranking tracking and SEO analytics",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.keyword.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "keyword",
+    "marketing"
+  ]
+}

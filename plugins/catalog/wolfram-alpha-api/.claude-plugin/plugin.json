@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wolfram-alpha-api",
+  "displayName": "Wolfram Alpha Api",
+  "description": "Integrate computational knowledge into applications via Wolfram|Alpha's APIs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developer.wolframalpha.com/portal/myapps/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wolfram-alpha-api",
+    "developer-tools"
+  ]
+}

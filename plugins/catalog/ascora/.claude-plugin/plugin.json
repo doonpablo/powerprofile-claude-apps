@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ascora",
+  "displayName": "Ascora",
+  "description": "Ascora is a cloud-based field service management software designed to streamline operations for service-based businesses, offering features such as job scheduling, invoicing, customer management, and mobile access.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ascora.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ascora",
+    "crm"
+  ]
+}

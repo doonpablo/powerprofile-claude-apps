@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "grafbase",
+  "displayName": "Grafbase",
+  "description": "Grafbase is a platform that accelerates the development of GraphQL APIs, offering features like edge caching, unified data access, and seamless integration with popular authentication strategies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://grafbase.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "grafbase",
+    "developer-tools"
+  ]
+}

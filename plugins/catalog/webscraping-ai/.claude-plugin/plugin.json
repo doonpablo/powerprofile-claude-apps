@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "webscraping-ai",
+  "displayName": "WebScraping.AI",
+  "description": "WebScraping.AI provides an API for web scraping with features like Chrome JS rendering, rotating proxies, and HTML parsing.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://webscraping.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "webscraping-ai",
+    "ai-web-scraping"
+  ]
+}

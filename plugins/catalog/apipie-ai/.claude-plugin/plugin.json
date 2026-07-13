@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apipie-ai",
+  "displayName": "APIpie AI",
+  "description": "APIpie.ai is an AI super aggregator providing a unified API to access a vast array of AI models from leading providers, enabling cost-effective and latency-optimized solutions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://apipie.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apipie-ai",
+    "ai-models"
+  ]
+}

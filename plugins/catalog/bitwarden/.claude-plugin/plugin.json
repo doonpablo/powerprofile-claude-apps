@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bitwarden",
+  "displayName": "Bitwarden",
+  "description": "Bitwarden is a secure password management solution providing encrypted vaults, cross-platform sync, and enterprise-grade security tools for storing and sharing credentials",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bitwarden.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bitwarden",
+    "security-identity-tools"
+  ]
+}

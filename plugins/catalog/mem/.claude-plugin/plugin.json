@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mem",
+  "displayName": "Mem",
+  "description": "Mem is a note-taking and knowledge management application that helps users capture, organize, and retrieve information efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mem.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mem",
+    "notes"
+  ]
+}

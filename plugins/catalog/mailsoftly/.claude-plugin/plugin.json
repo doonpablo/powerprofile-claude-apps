@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mailsoftly",
+  "displayName": "Mailsoftly",
+  "description": "Mailsoftly is an intuitive email marketing platform designed to simplify and enhance how businesses communicate with their audiences. Built with user-friendly features and advanced automation tools, Mailsoftly helps organizations to create, schedule, and manage email campaigns easily.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mailsoftly.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mailsoftly",
+    "email-newsletters"
+  ]
+}

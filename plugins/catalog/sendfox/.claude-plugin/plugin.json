@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendfox",
+  "displayName": "Sendfox",
+  "description": "Sendfox is an affordable email marketing platform for content creators. Manage contacts, create email campaigns, automate sequences, and grow your audience.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sendfox.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sendfox",
+    "email-newsletters"
+  ]
+}

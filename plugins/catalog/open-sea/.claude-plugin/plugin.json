@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "open-sea",
+  "displayName": "OpenSea",
+  "description": "OpenSea is the world's first and largest NFT marketplace for NFTs and crypto collectibles.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://opensea.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "open-sea",
+    "ecommerce"
+  ]
+}

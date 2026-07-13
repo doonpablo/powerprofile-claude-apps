@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sms-alert",
+  "displayName": "SMS Alert",
+  "description": "SMS Alert is a versatile multi-channel communication platform enabling businesses to engage with customers through SMS, RCS, Telegram, and WhatsApp via a unified REST API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.smsalert.co.in/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sms-alert",
+    "phone-sms"
+  ]
+}

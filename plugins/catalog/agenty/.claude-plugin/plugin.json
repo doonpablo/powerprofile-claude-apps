@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agenty",
+  "displayName": "Agenty",
+  "description": "Agenty is a web scraping and automation platform that enables users to extract data, monitor changes, and automate browser tasks without coding.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://agenty.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "agenty",
+    "ai-web-scraping"
+  ]
+}

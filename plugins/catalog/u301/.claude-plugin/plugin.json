@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "u301",
+  "displayName": "U301",
+  "description": "U301 provides an API to manage all U301 resources, currently under development.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://u301.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "u301",
+    "url-shortener"
+  ]
+}

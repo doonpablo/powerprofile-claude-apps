@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "21risk",
+  "displayName": "21risk",
+  "description": "21RISK is a web application that simplifies working with checklists, audits, and actions, facilitating compliance and risk management processes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.21risk.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "21risk",
+    "business-intelligence"
+  ]
+}

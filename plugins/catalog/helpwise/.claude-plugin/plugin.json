@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "helpwise",
+  "displayName": "Helpwise",
+  "description": "Helpwise is an easy-to-use customer service platform that helps you manage all customer communication from a single place.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://helpwise.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "helpwise",
+    "customer-support"
+  ]
+}

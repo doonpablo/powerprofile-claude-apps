@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "2chat",
+  "displayName": "2chat",
+  "description": "2Chat provides a programmable API for integrating WhatsApp and other text channels, enabling developers to send and receive messages, manage groups, and automate workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://2chat.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "2chat",
+    "communication"
+  ]
+}

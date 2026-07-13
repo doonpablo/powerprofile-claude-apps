@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "adyntel",
+  "displayName": "Adyntel",
+  "description": "Adyntel provides an API to retrieve LinkedIn ads for a given company using the company's domain or LinkedIn Page ID.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://adyntel.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "adyntel",
+    "ads-conversion"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zixflow",
+  "displayName": "Zixflow",
+  "description": "AI-CRM and Messaging Across SMS, Email, and WhatsApp",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://zixflow.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zixflow",
+    "crm"
+  ]
+}

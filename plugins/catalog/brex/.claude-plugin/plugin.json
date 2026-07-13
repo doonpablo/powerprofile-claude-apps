@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "brex",
+  "displayName": "Brex",
+  "description": "Brex provides corporate credit cards, spend management, and financial tools tailored for startups and tech businesses to optimize cash flow, accounting, and growth",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.brex.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "brex",
+    "accounting"
+  ]
+}

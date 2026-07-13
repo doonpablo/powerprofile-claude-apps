@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nextdns",
+  "displayName": "Nextdns",
+  "description": "NextDNS is a DNS service that enhances internet security and privacy by blocking malicious websites, tracking scripts, and ads before they reach your device.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://nextdns.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nextdns",
+    "security-identity-tools"
+  ]
+}

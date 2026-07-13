@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "teltel",
+  "displayName": "Teltel",
+  "description": "TelTel is a telecom operator and software provider offering tools for automated voice and SMS communication, including cloud-based contact center software, Voice/SMS API, VoIP/SIP trunking, auto dialer, webphone integration, Click2Call, and webhook-based call event tracking for CRM integration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.teltel.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "teltel",
+    "phone-sms"
+  ]
+}

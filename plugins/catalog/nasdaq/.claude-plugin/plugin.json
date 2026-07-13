@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nasdaq",
+  "displayName": "Nasdaq",
+  "description": "Nasdaq Data Link is a cloud-based financial data platform providing access to curated premium and free datasets including equity prices, company fundamentals, earnings estimates, options data, forex rates, and economic indicators through REST and Streaming APIs, with integrations for Python, R, Excel, and SQL.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://data.nasdaq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nasdaq",
+    "analytics"
+  ]
+}

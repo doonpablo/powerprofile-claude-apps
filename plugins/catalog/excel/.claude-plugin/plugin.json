@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "excel",
+  "displayName": "Excel",
+  "description": "Microsoft Excel is a powerful spreadsheet application for data analysis, calculations, and visualization, enabling users to organize and process data with formulas, charts, and pivot tables",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://excel.cloud.microsoft/en-us/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "excel",
+    "spreadsheets"
+  ]
+}

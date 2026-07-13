@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "uniswap-api",
+  "displayName": "Uniswap Api",
+  "description": "Uniswap Trading API for executing swaps and managing liquidity across 25+ blockchain networks",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://uniswap.org",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "uniswap-api",
+    "developer-tools"
+  ]
+}

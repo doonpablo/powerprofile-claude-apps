@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scrapegraph-ai",
+  "displayName": "Scrapegraph Ai",
+  "description": "ScrapeGraphAI is an AI-powered web scraping API that enables developers to extract structured data from any website using natural language prompts. Website https://scrapegraphai.com",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://scrapegraphai.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scrapegraph-ai",
+    "ai-web-scraping"
+  ]
+}

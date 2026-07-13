@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "esignatures-io",
+  "displayName": "eSignatures.io",
+  "description": "eSignatures.io provides a platform for sending and signing mobile-friendly contracts over the web.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.esignatures.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "esignatures-io",
+    "signatures"
+  ]
+}

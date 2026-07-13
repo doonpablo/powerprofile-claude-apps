@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fly",
+  "displayName": "Fly",
+  "description": "Fly.io transforms containers into micro-VMs that run on hardware in 30+ regions on six continents.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fly.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fly",
+    "developer-tools"
+  ]
+}

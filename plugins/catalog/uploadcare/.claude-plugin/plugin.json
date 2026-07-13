@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "uploadcare",
+  "displayName": "Uploadcare",
+  "description": "Uploadcare is a comprehensive file handling service that offers uploading, storage, processing, and delivery solutions for web and mobile applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://uploadcare.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "uploadcare",
+    "file-management-storage"
+  ]
+}

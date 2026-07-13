@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "better-proposals",
+  "displayName": "Better Proposals",
+  "description": "Better Proposals is a web-based proposal creation tool that enables users to send professionally designed proposals.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://betterproposals.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "better-proposals",
+    "proposal-invoice-management"
+  ]
+}

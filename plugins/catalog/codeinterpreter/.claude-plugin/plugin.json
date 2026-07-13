@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "codeinterpreter",
+  "displayName": "Code Interpreter",
+  "description": "CodeInterpreter extends Python-based coding environments with integrated data analysis, enabling developers to run scripts, visualize results, and prototype solutions inside supported platforms",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://composio.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "codeinterpreter",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "spondyr",
+  "displayName": "Spondyr",
+  "description": "Spondyr is a correspondence template management and distribution platform that enables developers to quickly integrate template-driven content delivery via API, supporting email, SMS, fax, and postal mail.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.spondyr.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "spondyr",
+    "documents"
+  ]
+}

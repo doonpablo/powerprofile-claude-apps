@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "youtube",
+  "displayName": "YouTube",
+  "description": "YouTube is a video-sharing platform with user-generated content, live streaming, and monetization opportunities, widely used for marketing, education, and entertainment",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.youtube.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "youtube",
+    "video-audio"
+  ]
+}

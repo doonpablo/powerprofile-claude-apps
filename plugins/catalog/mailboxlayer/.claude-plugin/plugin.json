@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mailboxlayer",
+  "displayName": "Mailboxlayer",
+  "description": "A simple REST-based JSON API for email address validation and verification.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mailboxlayer.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mailboxlayer",
+    "email"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "salesmate",
+  "displayName": "Salesmate",
+  "description": "Salesmate is an AI-powered CRM platform designed to help businesses engage leads, close deals faster, nurture relationships, and provide seamless support through a unified, intuitive interface.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.salesmate.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "salesmate",
+    "crm"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "api-sports",
+  "displayName": "API-Sports",
+  "description": "API-Sports provides comprehensive sports data APIs covering over 2,000 competitions with more than 15 years of historical data, offering real-time updates and easy integration for developers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://api-sports.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "api-sports",
+    "developer-tools"
+  ]
+}

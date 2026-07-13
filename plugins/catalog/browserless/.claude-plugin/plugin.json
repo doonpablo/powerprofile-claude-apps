@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "browserless",
+  "displayName": "Browserless",
+  "description": "Browserless is a service that provides headless browser automation, allowing users to run automations on their own sites with browser infrastructure.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://browserless.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "browserless",
+    "developer-tools"
+  ]
+}

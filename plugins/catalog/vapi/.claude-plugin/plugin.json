@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "vapi",
+  "displayName": "Vapi",
+  "description": "Vapi is a voice AI platform that enables developers to build, test, and deploy voice agents with natural conversations, real-time responses, and seamless integration capabilities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://vapi.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "vapi",
+    "artificial-intelligence"
+  ]
+}

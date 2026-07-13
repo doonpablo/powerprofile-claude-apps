@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bigpicture-io",
+  "displayName": "BigPicture.io",
+  "description": "BigPicture.io provides APIs and datasets for accessing comprehensive company data, including information on over 20 million profiles, used in applications like fintech products, cybersecurity, market research, and sales & marketing tools.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bigpicture.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bigpicture-io",
+    "business-intelligence"
+  ]
+}

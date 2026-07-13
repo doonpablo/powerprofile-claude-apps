@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "felt",
+  "displayName": "Felt",
+  "description": "Felt is a modern GIS platform that allows users to create, modify, and share interactive maps, integrating powerful mapping capabilities into various workflows and applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://felt.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "felt",
+    "developer-tools"
+  ]
+}

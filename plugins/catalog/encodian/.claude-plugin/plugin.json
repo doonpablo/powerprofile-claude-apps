@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "encodian",
+  "displayName": "Encodian",
+  "description": "Encodian provides a suite of document management and automation tools, including Flowr, Filer, and Indxr, designed to enhance productivity and streamline workflows within Microsoft 365 environments.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.encodian.com/apikey/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "encodian",
+    "documents"
+  ]
+}

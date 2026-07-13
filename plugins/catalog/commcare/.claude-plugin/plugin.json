@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "commcare",
+  "displayName": "CommCare",
+  "description": "CommCare is a mobile data collection and case management platform for health and social programs",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dimagi.com/commcare/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "commcare",
+    "forms-surveys"
+  ]
+}

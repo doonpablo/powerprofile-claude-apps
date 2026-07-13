@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "salesforce-service-cloud",
+  "displayName": "Salesforce Service Cloud",
+  "description": "Salesforce Service Cloud is a customer service platform providing case management, knowledge base, omnichannel support, and service automation to deliver exceptional customer experiences",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.salesforce.com/service/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "salesforce-service-cloud",
+    "crm"
+  ]
+}

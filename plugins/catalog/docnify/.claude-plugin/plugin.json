@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docnify",
+  "displayName": "Docnify",
+  "description": "Docnify is a digital signing platform that simplifies the document signing process, offering integrations with tools like Figma, Jira, Trello, and Google Docs to create a unified workspace.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.docnify.io/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docnify",
+    "documents"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "productboard",
+  "displayName": "Productboard",
+  "description": "Productboard is a product management platform that gathers feedback, prioritizes features, and aligns roadmaps based on customer insights and strategic goals",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.productboard.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "productboard",
+    "product-management"
+  ]
+}

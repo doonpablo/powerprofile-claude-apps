@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "safetyculture",
+  "displayName": "SafetyCulture",
+  "description": "SafetyCulture (formerly iAuditor) is a workplace operations platform that enables teams to conduct digital inspections, manage audits, track issues, schedule tasks, and maintain compliance through mobile and web applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://safetyculture.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "safetyculture",
+    "forms-surveys"
+  ]
+}

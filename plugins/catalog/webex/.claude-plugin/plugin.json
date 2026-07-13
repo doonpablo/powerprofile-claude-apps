@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "webex",
+  "displayName": "Webex",
+  "description": "Webex is a Cisco-powered video conferencing and collaboration platform offering online meetings, webinars, screen sharing, and team messaging",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.webex.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "webex",
+    "video-conferencing"
+  ]
+}

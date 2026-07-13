@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mixmax",
+  "displayName": "Mixmax",
+  "description": "The #1 Sales Engagement Platform for Gmail. Mixmax provides email tracking, scheduling, sequences, and productivity tools for sales teams.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mixmax.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mixmax",
+    "email"
+  ]
+}

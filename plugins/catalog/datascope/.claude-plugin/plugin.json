@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "datascope",
+  "displayName": "Datascope",
+  "description": "DataScope is the ideal tool to get rid of paperwork, save time and collect data efficiently from the field. The platform allows your team to answer personalized mobile forms (even offline), from their phones or tablets.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mydatascope.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "datascope",
+    "forms-surveys"
+  ]
+}

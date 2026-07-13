@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linkedin",
+  "displayName": "LinkedIn",
+  "description": "LinkedIn is a professional networking platform enabling job seekers, companies, and thought leaders to connect, share content, and discover business opportunities",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://linkedin.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "linkedin",
+    "social-media-accounts"
+  ]
+}

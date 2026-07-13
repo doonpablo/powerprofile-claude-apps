@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kadoa",
+  "displayName": "Kadoa",
+  "description": "Kadoa is an API-first platform that enables users to create, manage, and monitor data extraction workflows from unstructured data sources.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.kadoa.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kadoa",
+    "ai-web-scraping"
+  ]
+}

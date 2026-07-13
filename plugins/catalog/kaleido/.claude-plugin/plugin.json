@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kaleido",
+  "displayName": "Kaleido",
+  "description": "Kaleido is a full-stack platform for building and managing enterprise blockchain networks and applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kaleido.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kaleido",
+    "developer-tools"
+  ]
+}

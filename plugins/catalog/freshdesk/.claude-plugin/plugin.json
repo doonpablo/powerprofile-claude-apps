@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "freshdesk",
+  "displayName": "Freshdesk",
+  "description": "Freshdesk provides customer support software with ticketing, knowledge base, and automation features for efficient helpdesk operations and better customer experiences",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.freshworks.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "freshdesk",
+    "crm"
+  ]
+}

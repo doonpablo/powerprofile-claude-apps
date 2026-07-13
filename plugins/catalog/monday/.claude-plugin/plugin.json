@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "monday",
+  "displayName": "Monday",
+  "description": "monday.com is a customizable work management platform for project planning, collaboration, and automation, supporting agile, sales, marketing, and more",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://monday.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "monday",
+    "project-management"
+  ]
+}

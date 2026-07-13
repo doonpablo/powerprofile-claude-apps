@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "solcast",
+  "displayName": "Solcast",
+  "description": "Solar resource assessment and forecasting data for irradiance and PV power, globally.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://solcast.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "solcast",
+    "analytics"
+  ]
+}

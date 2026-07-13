@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "census-bureau",
+  "displayName": "Census Bureau",
+  "description": "The Census Bureau Data API provides developers with access to a wide range of statistical data collected by the U.S. Census Bureau, facilitating integration into applications and data visualizations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.census.gov/developers/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "census-bureau",
+    "analytics"
+  ]
+}

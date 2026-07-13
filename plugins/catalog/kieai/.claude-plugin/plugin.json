@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kieai",
+  "displayName": "Kieai",
+  "description": "AI API platform providing video generation (Veo3, Kling, Runway, Luma), image generation (Flux, Nano Banana), music creation (Suno), and LLM capabilities with pay-as-you-go pricing",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://kie.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kieai",
+    "artificial-intelligence"
+  ]
+}

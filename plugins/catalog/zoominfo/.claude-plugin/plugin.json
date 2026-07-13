@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoominfo",
+  "displayName": "Zoominfo",
+  "description": "ZoomInfo is a go-to-market intelligence platform that provides AI-powered B2B data and sales intelligence to help GTM teams find in-market buyers, build pipeline, and close deals faster.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoominfo.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoominfo",
+    "crm"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bolna",
+  "displayName": "Bolna",
+  "description": "Create conversational voice agents using Bolna AI to enhance interactions, streamline operations and automate support.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bolna.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bolna",
+    "ai-agents"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "calendly",
+  "displayName": "Calendly",
+  "description": "Calendly is an appointment scheduling tool that automates meeting invitations, availability checks, and reminders, helping individuals and teams avoid email back-and-forth",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://calendly.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "calendly",
+    "scheduling-booking"
+  ]
+}

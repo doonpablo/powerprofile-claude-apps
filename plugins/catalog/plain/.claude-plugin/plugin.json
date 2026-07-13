@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "plain",
+  "displayName": "Plain",
+  "description": "Plain is a collaborative support platform for B2B support teams, offering a modern, AI-powered interface to consolidate support channels and assist customers efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.plain.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "plain",
+    "customer-support"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zep",
+  "displayName": "Zep",
+  "description": "The Foundational Memory Layer for AI. Equip your agents with the knowledge to complete tasks, from the mundane to monumental.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.getzep.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zep",
+    "artificial-intelligence"
+  ]
+}

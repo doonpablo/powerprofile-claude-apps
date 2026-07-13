@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "appdrag",
+  "displayName": "AppDrag",
+  "description": "AppDrag is a cloud-based platform for building websites, APIs, and databases with drag-and-drop tools, code editing, and integrated hosting to accelerate development workflows and iteration",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://appdrag.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "appdrag",
+    "developer-tools"
+  ]
+}

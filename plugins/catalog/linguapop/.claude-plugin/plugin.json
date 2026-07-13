@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linguapop",
+  "displayName": "Linguapop",
+  "description": "Linguapop is a web-based platform designed for schools and organizations to administer language placement tests in English, German, Spanish, Italian, and French.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.linguapop.eu/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "linguapop",
+    "education"
+  ]
+}

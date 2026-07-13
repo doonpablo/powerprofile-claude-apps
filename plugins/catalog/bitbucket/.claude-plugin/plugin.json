@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bitbucket",
+  "displayName": "Bitbucket",
+  "description": "Bitbucket is a Git-based code hosting and collaboration platform supporting private and public repositories, enabling teams to manage and review code through pull requests and integrations",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bitbucket.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bitbucket",
+    "developer-tools"
+  ]
+}

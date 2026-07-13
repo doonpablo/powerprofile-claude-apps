@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "statuscake",
+  "displayName": "Statuscake",
+  "description": "StatusCake is a website monitoring platform that provides observability for applications, offering features like uptime monitoring, page speed monitoring, SSL monitoring, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.statuscake.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "statuscake",
+    "server-monitoring"
+  ]
+}

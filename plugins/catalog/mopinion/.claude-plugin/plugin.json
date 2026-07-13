@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mopinion",
+  "displayName": "Mopinion",
+  "description": "Mopinion captures user feedback across websites and apps, providing insights, analytics, and reporting to optimize user experiences and drive conversions",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mopinion.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mopinion",
+    "analytics"
+  ]
+}

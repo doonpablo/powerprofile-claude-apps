@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sevdesk",
+  "displayName": "Sevdesk",
+  "description": "sevDesk is an online accounting software designed for small businesses and freelancers, offering features like invoicing, expense management, and financial reporting.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sevdesk.de",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sevdesk",
+    "accounting"
+  ]
+}

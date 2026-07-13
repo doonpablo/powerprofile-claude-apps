@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "booqable",
+  "displayName": "Booqable",
+  "description": "Booqable is a rental software platform that helps businesses manage inventory, bookings, and online reservations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://booqable.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "booqable",
+    "scheduling-booking"
+  ]
+}

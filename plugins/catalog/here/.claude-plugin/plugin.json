@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "here",
+  "displayName": "Here",
+  "description": "HERE Technologies provides comprehensive location data and mapping services, offering APIs and SDKs for developers to integrate maps, geocoding, routing, and other location-based features into their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.here.com/developer",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "here",
+    "developer-tools"
+  ]
+}

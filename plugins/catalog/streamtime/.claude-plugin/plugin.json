@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "streamtime",
+  "displayName": "Streamtime",
+  "description": "Streamtime is project management software for creative businesses including design studios, agencies, and architects. It offers job tracking, time tracking, scheduling, quoting, invoicing, and team collaboration tools.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.streamtime.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "streamtime",
+    "project-management"
+  ]
+}

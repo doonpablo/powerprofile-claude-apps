@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "twocaptcha",
+  "displayName": "Twocaptcha",
+  "description": "2Captcha is a service that provides automated CAPTCHA solving solutions, enabling developers to bypass various types of CAPTCHAs in their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://2captcha.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "twocaptcha",
+    "developer-tools"
+  ]
+}

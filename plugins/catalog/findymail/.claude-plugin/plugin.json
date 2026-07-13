@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "findymail",
+  "displayName": "Findymail",
+  "description": "Findymail is a B2B email and phone data provider offering verified contact information, email verification, automated exports, and CRM enrichment to enhance sales prospecting and outreach efforts.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.findymail.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "findymail",
+    "email"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "neo4j",
+  "displayName": "Neo4J",
+  "description": "Graph database platform for connected data and real-time analytics",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://neo4j.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "neo4j",
+    "developer-tools"
+  ]
+}

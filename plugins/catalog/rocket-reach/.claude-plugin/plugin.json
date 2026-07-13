@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rocket-reach",
+  "displayName": "RocketReach",
+  "description": "RocketReach locates and verifies professional contact details, helping sales and recruiters reach leads and candidates more efficiently",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.rocketreach.co",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rocket-reach",
+    "crm"
+  ]
+}

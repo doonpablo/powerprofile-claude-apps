@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "spotify",
+  "displayName": "Spotify",
+  "description": "Spotify is a digital music and podcast streaming service with millions of tracks, personalized playlists, and social sharing features",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://spotify.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "spotify",
+    "news-lifestyle"
+  ]
+}

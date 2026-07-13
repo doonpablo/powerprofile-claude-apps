@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "eventzilla",
+  "displayName": "Eventzilla",
+  "description": "Eventzilla is an event management platform that provides tools for creating, promoting, and managing events, including ticketing, registration, and attendee management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.eventzilla.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "eventzilla",
+    "event-management"
+  ]
+}

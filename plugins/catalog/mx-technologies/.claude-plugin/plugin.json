@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mx-technologies",
+  "displayName": "MX Technologies",
+  "description": "MX Technologies provides a comprehensive API platform for aggregating and enhancing financial data, enabling seamless connections to numerous financial institutions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mx.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mx-technologies",
+    "developer-tools"
+  ]
+}

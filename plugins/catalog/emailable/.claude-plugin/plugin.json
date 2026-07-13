@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "emailable",
+  "displayName": "Emailable",
+  "description": "Emailable provides an email verification API that allows developers to integrate real-time email validation into their applications, ensuring the accuracy and deliverability of email addresses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://emailable.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "emailable",
+    "email"
+  ]
+}

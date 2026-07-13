@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cutt-ly",
+  "displayName": "Cutt.ly",
+  "description": "Cutt.ly is a URL shortening service that allows users to shorten, manage, and analyze URLs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cutt.ly/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cutt-ly",
+    "url-shortener"
+  ]
+}

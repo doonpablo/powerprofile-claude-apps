@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "moosend",
+  "displayName": "Moosend",
+  "description": "Moosend is a cloud-based, AI-powered email marketing solution that allows you to target your audience at scale.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://moosend.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "moosend",
+    "email-newsletters"
+  ]
+}

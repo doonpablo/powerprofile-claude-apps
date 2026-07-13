@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "neuronwriter",
+  "displayName": "Neuronwriter",
+  "description": "NeuronWriter is a content optimization tool that leverages semantic SEO and AI to enhance content creation and improve search engine rankings.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://neuronwriter.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "neuronwriter",
+    "marketing-automation"
+  ]
+}

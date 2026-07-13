@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fireflies",
+  "displayName": "Fireflies",
+  "description": "Fireflies.ai helps your team transcribe, summarize, search, and analyze voice conversations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.fireflies.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fireflies",
+    "ai-meeting-assistants"
+  ]
+}

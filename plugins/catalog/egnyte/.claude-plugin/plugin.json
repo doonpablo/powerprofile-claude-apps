@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "egnyte",
+  "displayName": "Egnyte",
+  "description": "Egnyte is a cloud-based content collaboration platform that enables secure file sharing, storage, and governance for businesses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.egnyte.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "egnyte",
+    "file-management-storage"
+  ]
+}

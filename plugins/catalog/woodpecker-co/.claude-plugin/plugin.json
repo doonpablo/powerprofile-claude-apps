@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "woodpecker-co",
+  "displayName": "Woodpecker Co",
+  "description": "Woodpecker.co is a cold email tool that automates personalized email outreach and follow-ups for sales teams and agencies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://woodpecker.co",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "woodpecker-co",
+    "drip-emails"
+  ]
+}

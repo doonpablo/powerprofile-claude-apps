@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bestbuy",
+  "displayName": "Bestbuy",
+  "description": "Best Buy offers a suite of APIs providing access to product, store, category, and recommendation data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developer.bestbuy.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bestbuy",
+    "ecommerce"
+  ]
+}

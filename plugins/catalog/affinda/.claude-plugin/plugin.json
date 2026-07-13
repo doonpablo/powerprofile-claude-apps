@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "affinda",
+  "displayName": "Affinda",
+  "description": "Affinda provides an AI-powered document processing platform that automates data extraction from various document types.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.affinda.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "affinda",
+    "artificial-intelligence"
+  ]
+}

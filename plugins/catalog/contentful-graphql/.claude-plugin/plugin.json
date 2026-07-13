@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "contentful-graphql",
+  "displayName": "Contentful Graphql",
+  "description": "The Contentful GraphQL Content API allows developers to query and deliver content using GraphQL, providing a flexible and efficient way to access content stored in Contentful.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.contentful.com/developers/docs/references/graphql/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "contentful-graphql",
+    "developer-tools"
+  ]
+}

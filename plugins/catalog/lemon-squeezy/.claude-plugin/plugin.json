@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "lemon-squeezy",
+  "displayName": "Lemon Squeezy",
+  "description": "Lemon Squeezy is a platform designed to simplify payments, taxes, and subscriptions for software companies, offering a powerful API and webhooks for seamless integration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.lemonsqueezy.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "lemon-squeezy",
+    "ecommerce"
+  ]
+}

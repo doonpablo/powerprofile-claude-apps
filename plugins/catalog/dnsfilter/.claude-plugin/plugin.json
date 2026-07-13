@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dnsfilter",
+  "displayName": "Dnsfilter",
+  "description": "DNSFilter provides cloud-based DNS security and content filtering solutions to protect networks from online threats and manage internet usage.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dnsfilter.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dnsfilter",
+    "security-identity-tools"
+  ]
+}

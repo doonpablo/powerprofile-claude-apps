@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wit-ai",
+  "displayName": "Wit.ai",
+  "description": "Wit.ai is a natural language processing platform that enables developers to build applications and devices that understand human language.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://wit.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wit-ai",
+    "artificial-intelligence"
+  ]
+}

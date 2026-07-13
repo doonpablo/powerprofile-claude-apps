@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gitlab",
+  "displayName": "GitLab",
+  "description": "A web-based DevOps lifecycle tool that provides a Git repository manager providing wiki, issue-tracking, and CI/CD pipeline features.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://about.gitlab.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gitlab",
+    "developer-tools"
+  ]
+}

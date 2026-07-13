@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "process-street",
+  "displayName": "Process Street",
+  "description": "Process Street supports creating and running checklists, SOPs, and workflows, helping teams automate recurring processes and track compliance",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.process.st",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "process-street",
+    "task-management"
+  ]
+}

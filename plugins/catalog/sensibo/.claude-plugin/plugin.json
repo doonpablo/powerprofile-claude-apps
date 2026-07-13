@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sensibo",
+  "displayName": "Sensibo",
+  "description": "Sensibo offers smart controllers that connect air conditioners and heat pumps to the internet, enabling remote control and automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://home.sensibo.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sensibo",
+    "internet-of-things"
+  ]
+}

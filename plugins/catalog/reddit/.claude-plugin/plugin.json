@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "reddit",
+  "displayName": "Reddit",
+  "description": "Reddit is a social news platform with user-driven communities (subreddits), offering content sharing, discussions, and viral marketing opportunities for brands",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.reddit.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "reddit",
+    "social-media-accounts"
+  ]
+}

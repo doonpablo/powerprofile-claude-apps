@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "telnyx",
+  "displayName": "Telnyx",
+  "description": "Telnyx is a communications platform offering voice, messaging, and data services through a global private network.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://telnyx.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "telnyx",
+    "phone-sms"
+  ]
+}

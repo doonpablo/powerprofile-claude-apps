@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linkly",
+  "displayName": "Linkly",
+  "description": "Easily create tracking links, add retargeting tags, do smart redirects and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://linklyhq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "linkly",
+    "url-shortener"
+  ]
+}

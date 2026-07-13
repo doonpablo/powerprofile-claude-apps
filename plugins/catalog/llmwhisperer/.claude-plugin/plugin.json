@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "llmwhisperer",
+  "displayName": "LLMWhisperer",
+  "description": "LLMWhisperer is a technology that presents data from complex documents to LLMs in a way that they can best understand.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://unstract.com/llmwhisperer/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "llmwhisperer",
+    "ai-document-extraction"
+  ]
+}

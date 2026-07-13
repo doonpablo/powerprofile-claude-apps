@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "geokeo",
+  "displayName": "Geokeo",
+  "description": "Geokeo provides geocoding services, converting addresses to coordinates and vice versa, with a free tier offering 2,500 daily API requests.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://geokeo.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "geokeo",
+    "developer-tools"
+  ]
+}

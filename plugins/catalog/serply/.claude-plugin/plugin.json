@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "serply",
+  "displayName": "Serply",
+  "description": "Serply is a fast and accurate search API that provides real-time Google search results, SERP data, and web scraping capabilities. Access Google Search, Bing Search, Google Jobs, Google Scholar, Google News, and more via simple API calls.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://serply.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "serply",
+    "developer-tools"
+  ]
+}

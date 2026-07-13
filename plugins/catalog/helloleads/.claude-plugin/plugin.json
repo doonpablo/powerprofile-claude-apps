@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "helloleads",
+  "displayName": "Helloleads",
+  "description": "HelloLeads is a smart and simple lead management solution designed for small businesses to streamline lead capture, tracking, and engagement.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.helloleads.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "helloleads",
+    "crm"
+  ]
+}

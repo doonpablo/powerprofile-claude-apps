@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "token-metrics",
+  "displayName": "Token Metrics",
+  "description": "Token Metrics provides an API offering real-time, AI-powered cryptocurrency data and insights for developers to build trading bots, dashboards, and portfolio tools.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.tokenmetrics.com/api",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "token-metrics",
+    "analytics"
+  ]
+}

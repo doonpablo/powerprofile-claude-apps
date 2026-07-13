@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dropcontact",
+  "displayName": "Dropcontact",
+  "description": "Dropcontact is a B2B email finder and data enrichment service that provides verified professional email addresses and enriches contact information.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dropcontact.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dropcontact",
+    "contact-management"
+  ]
+}

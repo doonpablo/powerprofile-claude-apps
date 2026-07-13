@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scale-ai",
+  "displayName": "Scale ai",
+  "description": "Scale AI provides data labeling and annotation services for machine learning, offering access to a global workforce and sophisticated tools for training AI models with high-quality labeled data",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://scale.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scale-ai",
+    "artificial-intelligence"
+  ]
+}

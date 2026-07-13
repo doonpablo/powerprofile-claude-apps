@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scrape-do",
+  "displayName": "Scrape Do",
+  "description": "Scrape.do is a web scraping API offering rotating residential, data-center, and mobile proxies with headless browser support and session management to bypass anti-bot protections (e.g., Cloudflare, Akamai) and extract data at scale in formats like JSON and HTML.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://scrape.do",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scrape-do",
+    "ai-web-scraping"
+  ]
+}

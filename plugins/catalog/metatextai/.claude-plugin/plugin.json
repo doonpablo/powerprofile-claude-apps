@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "metatextai",
+  "displayName": "Metatextai",
+  "description": "Metatext AI specializes in natural language processing and text generation, helping organizations automate writing tasks, sentiment analysis, or content moderation",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://metatext.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "metatextai",
+    "artificial-intelligence"
+  ]
+}

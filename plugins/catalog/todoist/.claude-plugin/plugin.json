@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "todoist",
+  "displayName": "Todoist",
+  "description": "Todoist is a task management tool allowing users to create to-do lists, set deadlines, and collaborate on projects with reminders and cross-platform syncing",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.todoist.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "todoist",
+    "task-management"
+  ]
+}

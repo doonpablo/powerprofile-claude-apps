@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zoho-invoice",
+  "displayName": "Zoho Invoice",
+  "description": "Zoho Invoice simplifies billing, recurring payments, and expense management, helping freelancers and small businesses send professional invoices",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zoho.com/us/invoice/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zoho-invoice",
+    "proposal-invoice-management"
+  ]
+}

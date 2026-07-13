@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "grafana",
+  "displayName": "Grafana",
+  "description": "Open and composable observability platform for metrics, logs, and traces",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://grafana.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "grafana",
+    "developer-tools"
+  ]
+}

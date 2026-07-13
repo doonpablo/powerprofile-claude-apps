@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ticktick",
+  "displayName": "Ticktick",
+  "description": "TickTick is a cross-platform task management and to-do list application designed to help users organize their tasks and schedules efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ticktick.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ticktick",
+    "productivity"
+  ]
+}

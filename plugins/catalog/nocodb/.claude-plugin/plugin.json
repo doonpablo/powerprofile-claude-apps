@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nocodb",
+  "displayName": "NocoDB",
+  "description": "Free & open source Airtable alternative. NocoDB turns any database into a smart spreadsheet with REST APIs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://nocodb.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nocodb",
+    "databases"
+  ]
+}

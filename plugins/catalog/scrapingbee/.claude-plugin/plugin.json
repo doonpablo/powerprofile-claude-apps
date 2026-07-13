@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scrapingbee",
+  "displayName": "Scrapingbee",
+  "description": "ScrapingBee is a web scraping API that handles headless browsers and proxy rotation, allowing developers to extract HTML from any website in a single API call.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.scrapingbee.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "scrapingbee",
+    "ai-web-scraping"
+  ]
+}

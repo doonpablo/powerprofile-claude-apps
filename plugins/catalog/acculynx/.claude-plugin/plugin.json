@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "acculynx",
+  "displayName": "Acculynx",
+  "description": "AccuLynx is the leading, all-in-one roofing software designed to streamline every aspect of a roofing business.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://acculynx.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "acculynx",
+    "crm"
+  ]
+}

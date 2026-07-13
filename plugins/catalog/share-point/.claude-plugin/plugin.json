@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "share-point",
+  "displayName": "SharePoint",
+  "description": "SharePoint is a Microsoft platform for document management and intranets, enabling teams to collaborate, store, and organize content securely and effectively",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.microsoft.com/en-in/microsoft-365/sharepoint/collaboration/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "share-point",
+    "documents"
+  ]
+}

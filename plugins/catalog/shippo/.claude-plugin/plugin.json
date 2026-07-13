@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "shippo",
+  "displayName": "Shippo",
+  "description": "Shipping API for e-commerce merchants to create labels, track packages, and manage shipping operations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://goshippo.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "shippo",
+    "ecommerce"
+  ]
+}

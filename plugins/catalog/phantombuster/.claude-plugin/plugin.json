@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "phantombuster",
+  "displayName": "PhantomBuster",
+  "description": "PhantomBuster is a cloud-based data extraction and automation platform that enables users to automate actions on the web, such as scraping data, generating leads, and automating social media tasks.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://phantombuster.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "phantombuster",
+    "ai-web-scraping"
+  ]
+}

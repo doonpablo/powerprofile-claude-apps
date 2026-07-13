@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "simplekpi",
+  "displayName": "Simplekpi",
+  "description": "Beautifully simple KPI software. Create, manage and analyse your Key Performance Indicators from the cloud.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.simplekpi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "simplekpi",
+    "analytics"
+  ]
+}

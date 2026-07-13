@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tinyurl",
+  "displayName": "Tinyurl",
+  "description": "TinyURL shortens lengthy URLs, generating concise links for easier sharing and managing, often used in social media and marketing campaigns",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.tinyurl.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tinyurl",
+    "url-shortener"
+  ]
+}

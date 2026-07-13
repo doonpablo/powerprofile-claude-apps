@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "plisio",
+  "displayName": "Plisio",
+  "description": "Plisio is a cryptocurrency payment gateway that enables businesses to accept payments in over 15 cryptocurrencies, including Bitcoin, Ethereum, and Litecoin.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://plisio.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "plisio",
+    "payment-processing"
+  ]
+}

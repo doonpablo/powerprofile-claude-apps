@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "postalytics",
+  "displayName": "Postalytics",
+  "description": "Direct Mail Automation software in the cloud with deep integration to CRM and workflows, making direct mail look, act and feel like a digital marketing channel",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.postalytics.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "postalytics",
+    "marketing-automation"
+  ]
+}

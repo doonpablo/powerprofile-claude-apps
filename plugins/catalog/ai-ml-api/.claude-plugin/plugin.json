@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ai-ml-api",
+  "displayName": "AI/ML API",
+  "description": "AI/ML API provides a suite of AI models and solutions for various tasks, including text generation, image processing, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://aimlapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ai-ml-api",
+    "artificial-intelligence"
+  ]
+}

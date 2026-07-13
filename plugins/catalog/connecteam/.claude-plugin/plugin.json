@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "connecteam",
+  "displayName": "Connecteam",
+  "description": "Connecteam is a comprehensive workforce management platform designed to streamline operations, enhance communication, and improve HR processes for deskless teams.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://connecteam.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "connecteam",
+    "human-resources"
+  ]
+}

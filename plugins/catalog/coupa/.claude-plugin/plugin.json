@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coupa",
+  "displayName": "Coupa",
+  "description": "Coupa provides a comprehensive business spend management platform with procurement, invoicing, and expense capabilities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.coupa.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "coupa",
+    "accounting"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "modelry",
+  "displayName": "Modelry",
+  "description": "Modelry is a 3D visualization platform for eCommerce that creates custom 3D product models, AR experiences, and digital asset management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://modelry.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "modelry",
+    "ecommerce"
+  ]
+}

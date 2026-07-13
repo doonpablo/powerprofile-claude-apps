@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "planly",
+  "displayName": "Planly",
+  "description": "All-in-one social media management tool for scheduling and managing content across multiple platforms",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://planly.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "planly",
+    "social-media-marketing"
+  ]
+}

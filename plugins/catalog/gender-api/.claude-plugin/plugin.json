@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gender-api",
+  "displayName": "Gender API",
+  "description": "Gender API determines the gender of a first name, email address, or username.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gender-api.com/en/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gender-api",
+    "developer-tools"
+  ]
+}

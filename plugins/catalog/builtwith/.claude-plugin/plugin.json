@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "builtwith",
+  "displayName": "BuiltWith",
+  "description": "BuiltWith is a web technology profiler that provides insights into the technologies used by websites, including analytics, hosting, and content management systems.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://builtwith.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "builtwith",
+    "analytics"
+  ]
+}

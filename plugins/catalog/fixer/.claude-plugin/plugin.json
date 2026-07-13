@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fixer",
+  "displayName": "Fixer",
+  "description": "Fixer is a currency data API providing real-time and historical exchange rates for 170 world currencies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fixer.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fixer",
+    "developer-tools"
+  ]
+}

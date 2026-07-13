@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "emailoctopus",
+  "displayName": "EmailOctopus",
+  "description": "EmailOctopus is an email marketing platform founded in 2015, offering affordable and intuitive solutions for individuals and businesses to connect with their subscribers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://emailoctopus.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "emailoctopus",
+    "email-newsletters"
+  ]
+}

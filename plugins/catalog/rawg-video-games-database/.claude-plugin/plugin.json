@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rawg-video-games-database",
+  "displayName": "RAWG Video Games Database",
+  "description": "The largest video game database and video game discovery service with comprehensive game information, ratings, platforms, and release dates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://rawg.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rawg-video-games-database",
+    "gaming"
+  ]
+}

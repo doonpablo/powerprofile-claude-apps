@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docmosis",
+  "displayName": "Docmosis",
+  "description": "Docmosis generates PDF and Word documents from templates, letting developers merge data fields to produce reports, invoices, or letters quickly",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.docmosis.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docmosis",
+    "documents"
+  ]
+}

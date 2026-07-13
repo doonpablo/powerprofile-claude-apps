@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "payhere",
+  "displayName": "Payhere",
+  "description": "Easy payment links for accepting online payments",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://payhere.co",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "payhere",
+    "ecommerce"
+  ]
+}

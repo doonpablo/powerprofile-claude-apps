@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "freshbooks",
+  "displayName": "FreshBooks",
+  "description": "FreshBooks is a cloud-based accounting software service designed for small and medium-sized businesses, offering features like invoicing, expense tracking, and time management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.freshbooks.com/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "freshbooks",
+    "accounting"
+  ]
+}

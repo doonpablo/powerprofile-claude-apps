@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "moco",
+  "displayName": "Moco",
+  "description": "MOCO is a business management software offering project management, time tracking, and invoicing solutions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.mocoapp.com/en/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "moco",
+    "project-management"
+  ]
+}

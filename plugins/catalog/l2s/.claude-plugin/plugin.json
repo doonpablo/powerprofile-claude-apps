@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "l2s",
+  "displayName": "L2s",
+  "description": "L2S is a professional URL shortener offering advanced analytics, QR code generation, and team collaboration features.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.l2s.is/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "l2s",
+    "url-shortener"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fidel-api",
+  "displayName": "Fidel API",
+  "description": "Fidel API provides a developer-friendly, secure, and reliable API for businesses to link payment cards with mobile and web applications, enabling real-time transaction monitoring and event-based experiences.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fidelapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fidel-api",
+    "developer-tools"
+  ]
+}

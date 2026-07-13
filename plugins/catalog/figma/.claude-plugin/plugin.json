@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "figma",
+  "displayName": "Figma",
+  "description": "A collaborative interface design tool.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.figma.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "figma",
+    "images-design"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cody",
+  "displayName": "Cody",
+  "description": "Cody is an AI-powered assistant that uses the magic of ChatGPT meets the expertise of a custom-made AI assistant trained on your specific business.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://meetcody.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cody",
+    "ai-assistants"
+  ]
+}

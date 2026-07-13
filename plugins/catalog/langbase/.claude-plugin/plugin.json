@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "langbase",
+  "displayName": "Langbase",
+  "description": "Langbase is a serverless AI developer platform that enables developers to build, collaborate, and deploy AI agents and applications with composable AI infrastructure.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://langbase.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "langbase",
+    "ai-agents"
+  ]
+}

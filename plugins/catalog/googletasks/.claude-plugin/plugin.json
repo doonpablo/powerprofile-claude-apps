@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googletasks",
+  "displayName": "Google Tasks",
+  "description": "Google Tasks provides a simple to-do list and task management system integrated into Gmail and Google Calendar for quick and easy tracking",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://tasks.google.com/tasks/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googletasks",
+    "task-management"
+  ]
+}

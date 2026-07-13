@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "openweather-api",
+  "displayName": "OpenWeather API",
+  "description": "Provides access to current weather data, forecasts, and historical weather data for any location worldwide.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://openweathermap.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "openweather-api",
+    "developer-tools"
+  ]
+}

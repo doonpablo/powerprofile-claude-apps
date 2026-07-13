@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "twitter",
+  "displayName": "Twitter",
+  "description": "Twitter, Inc. was an American social media company based in San Francisco, California, which operated and was named for named for its flagship social media network prior to its rebrand as X.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://x.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "twitter",
+    "social-media-accounts"
+  ]
+}

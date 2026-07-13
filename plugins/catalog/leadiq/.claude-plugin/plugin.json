@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "leadiq",
+  "displayName": "LeadIQ",
+  "description": "The Smart B2B Prospecting Platform. Query professional information about people and companies, find leads, and enrich contact data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://leadiq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "leadiq",
+    "sales-crm"
+  ]
+}

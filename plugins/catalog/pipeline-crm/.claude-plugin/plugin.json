@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pipeline-crm",
+  "displayName": "Pipeline CRM",
+  "description": "Pipeline CRM is a sales-focused customer relationship management tool designed to help teams track leads, manage deals, and streamline workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pipelinecrm.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pipeline-crm",
+    "crm"
+  ]
+}

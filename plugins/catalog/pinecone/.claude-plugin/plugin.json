@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pinecone",
+  "displayName": "Pinecone",
+  "description": "Long-term Memory for AI. The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.pinecone.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pinecone",
+    "artificial-intelligence"
+  ]
+}

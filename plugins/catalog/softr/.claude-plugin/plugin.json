@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "softr",
+  "displayName": "Softr",
+  "description": "Build custom apps and portals from Airtable in minutes with no-code. Softr provides user management and database APIs for building client portals, internal tools, and web applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.softr.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "softr",
+    "app-builder"
+  ]
+}

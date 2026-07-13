@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "satismeter",
+  "displayName": "Satismeter",
+  "description": "SatisMeter is a customer feedback platform that enables businesses to collect and analyze user feedback through targeted surveys.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://satismeter.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "satismeter",
+    "forms-surveys"
+  ]
+}

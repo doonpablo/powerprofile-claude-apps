@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "payhip",
+  "displayName": "Payhip",
+  "description": "Payhip is an e-commerce platform that enables individuals and businesses to sell digital products, memberships, and physical goods directly to their audience.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://payhip.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "payhip",
+    "ecommerce"
+  ]
+}

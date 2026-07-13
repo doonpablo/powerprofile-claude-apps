@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wiza",
+  "displayName": "Wiza",
+  "description": "Wiza helps you find and export accurate contact data for prospects from LinkedIn, providing verified emails, phone numbers, and enriched professional information.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://wiza.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "wiza",
+    "sales-crm"
+  ]
+}

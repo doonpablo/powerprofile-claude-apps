@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docuseal",
+  "displayName": "DocuSeal",
+  "description": "DocuSeal is a platform that provides a powerful and easy-to-use API to implement eSignature workflows, allowing users to automate document and template management processes without relying on the web interface.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.docuseal.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docuseal",
+    "signatures"
+  ]
+}

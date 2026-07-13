@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "crustdata",
+  "displayName": "Crustdata",
+  "description": "CrustData is an AI-powered data intelligence platform that provides real-time company and people data via APIs and webhooks, empowering B2B sales teams, AI SDRs, and investors to act on live signals",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://crustdata.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "crustdata",
+    "sales-crm"
+  ]
+}

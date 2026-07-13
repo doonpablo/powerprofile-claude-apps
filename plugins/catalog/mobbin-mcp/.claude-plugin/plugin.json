@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mobbin-mcp",
+  "displayName": "Mobbin MCP",
+  "description": "Mobbin is a UI/UX design inspiration platform with 600,000+ app screens, user flows, and design patterns from over 1,100 apps. Search and browse mobile and web design references for inspiration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://api.mobbin.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mobbin-mcp",
+    "images-design"
+  ]
+}

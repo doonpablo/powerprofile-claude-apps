@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ipdata-co",
+  "displayName": "Ipdata.co",
+  "description": "ipdata provides a simple HTTP-based API that allows you to look up the location, ownership, and threat profile of any IP address.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dashboard.ipdata.co/sign-up.html",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ipdata-co",
+    "developer-tools"
+  ]
+}

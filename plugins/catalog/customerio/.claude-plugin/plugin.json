@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "customerio",
+  "displayName": "Customer.io",
+  "description": "Customer.io is a customer engagement platform that enables businesses to send targeted messages to their customers through various channels, including email, SMS, and push notifications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://customer.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "customerio",
+    "marketing-automation"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "deadline-funnel",
+  "displayName": "Deadline Funnel",
+  "description": "Deadline Funnel provides tools to create authentic, personalized deadlines for marketing campaigns, enhancing urgency and conversions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.deadlinefunnel.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "deadline-funnel",
+    "marketing-automation"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coinmarketcap",
+  "displayName": "CoinMarketCap",
+  "description": "CoinMarketCap provides a comprehensive cryptocurrency market data API, offering real-time and historical data on cryptocurrencies and exchanges.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://coinmarketcap.com/api/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "coinmarketcap",
+    "analytics"
+  ]
+}

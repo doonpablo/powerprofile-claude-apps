@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "reply-io",
+  "displayName": "Reply.io",
+  "description": "Reply.io is an AI-powered sales engagement platform that automates and optimizes sales outreach across multiple channels, integrating with various business tools to enhance lead conversion rates and overall sales productivity.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://reply.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "reply-io",
+    "marketing-automation"
+  ]
+}

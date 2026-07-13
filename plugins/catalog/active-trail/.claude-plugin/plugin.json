@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "active-trail",
+  "displayName": "ActiveTrail",
+  "description": "ActiveTrail is the world's friendliest email marketing platform, newsletter software and marketing automation software.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://activetrail.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "active-trail",
+    "email-newsletters"
+  ]
+}

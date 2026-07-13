@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "data247",
+  "displayName": "Data247",
+  "description": "Data247 is a simple, and secure on-demand data platform that provides businesses with a wide-range of data lookup services.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.data247.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "data247",
+    "developer-tools"
+  ]
+}

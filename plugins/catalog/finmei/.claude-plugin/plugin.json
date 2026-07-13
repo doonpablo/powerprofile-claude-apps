@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "finmei",
+  "displayName": "Finmei",
+  "description": "Finmei is an invoicing tool designed to simplify billing processes, allowing users to create and manage invoices and track expenses efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://finmei.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "finmei",
+    "accounting"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "landbot",
+  "displayName": "Landbot",
+  "description": "Landbot is a no-code chatbot builder that enables businesses to create conversational experiences for customer engagement, lead generation, and support across various messaging channels.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://landbot.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "landbot",
+    "ai-chatbots"
+  ]
+}

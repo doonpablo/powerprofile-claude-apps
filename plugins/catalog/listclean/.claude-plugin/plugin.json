@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "listclean",
+  "displayName": "Listclean",
+  "description": "Listclean is an email verification service that helps users validate and clean their email lists to improve deliverability and maintain sender reputation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://listclean.xyz/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "listclean",
+    "email"
+  ]
+}

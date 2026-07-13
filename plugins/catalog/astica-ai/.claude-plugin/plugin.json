@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "astica-ai",
+  "displayName": "Astica AI",
+  "description": "astica ai offers a suite of cognitive intelligence APIs, including computer vision, natural language processing, and voice synthesis, enabling developers to integrate advanced AI capabilities into their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.astica.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "astica-ai",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "monday-mcp",
+  "displayName": "Monday MCP",
+  "description": "monday.com is a work management platform for organizing projects, workflows, and customer processes in boards, docs, and dashboards. It helps teams plan work, track progress, and collaborate across functions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.monday.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "monday-mcp",
+    "productivity-project-management"
+  ]
+}

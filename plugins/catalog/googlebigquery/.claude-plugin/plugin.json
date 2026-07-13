@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googlebigquery",
+  "displayName": "Google BigQuery",
+  "description": "Google BigQuery is a fully managed data warehouse for large-scale data analytics, offering fast SQL queries and machine learning capabilities on massive datasets",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloud.google.com/bigquery",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googlebigquery",
+    "databases"
+  ]
+}

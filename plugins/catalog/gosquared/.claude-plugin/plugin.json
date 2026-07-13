@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gosquared",
+  "displayName": "Gosquared",
+  "description": "GoSquared provides real-time web analytics and customer engagement tools to help businesses understand and interact with their website visitors.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.gosquared.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gosquared",
+    "analytics"
+  ]
+}

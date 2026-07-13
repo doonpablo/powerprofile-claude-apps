@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tldv",
+  "displayName": "Tldv",
+  "description": "Meeting recorder and transcription tool for video conferences",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://tldv.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tldv",
+    "productivity"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googleforms",
+  "displayName": "Googleforms",
+  "description": "Google Forms is a survey administration software that allows users to create and share online forms and surveys.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://forms.google.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googleforms",
+    "productivity"
+  ]
+}

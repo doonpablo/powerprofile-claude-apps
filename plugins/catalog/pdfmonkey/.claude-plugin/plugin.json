@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pdfmonkey",
+  "displayName": "PDFMonkey",
+  "description": "PDFMonkey is a service that automates the generation of PDF documents from templates, allowing users to create professional PDFs programmatically.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pdfmonkey.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pdfmonkey",
+    "documents"
+  ]
+}

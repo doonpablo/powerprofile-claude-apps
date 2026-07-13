@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "raisely",
+  "displayName": "Raisely",
+  "description": "Raisely is a fundraising platform that enables organizations to create and manage online fundraising campaigns.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://raisely.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "raisely",
+    "fundraising"
+  ]
+}

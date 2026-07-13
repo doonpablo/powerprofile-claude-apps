@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "persistiq",
+  "displayName": "Persistiq",
+  "description": "PersistIQ is a sales automation platform that streamlines outbound sales processes with personalized email campaigns and task management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.persistiq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "persistiq",
+    "crm"
+  ]
+}

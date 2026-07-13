@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "brandfetch",
+  "displayName": "Brandfetch",
+  "description": "Brandfetch offers an API that retrieves company logos, brand colors, and other visual assets, helping marketers and developers maintain consistent branding across apps",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://brandfetch.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "brandfetch",
+    "images-design"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "addressfinder",
+  "displayName": "Addressfinder",
+  "description": "A reliably smart, reliably accurate data quality platform for address, email, and phone verification",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://addressfinder.com.au",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "addressfinder",
+    "developer-tools"
+  ]
+}

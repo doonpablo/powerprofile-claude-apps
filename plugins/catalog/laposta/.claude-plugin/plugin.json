@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "laposta",
+  "displayName": "Laposta",
+  "description": "Dutch newsletter app (email marketing) that makes it exceptionally easy to send professional newsletters.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://laposta.nl/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "laposta",
+    "email-newsletters"
+  ]
+}

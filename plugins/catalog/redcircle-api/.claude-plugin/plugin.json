@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "redcircle-api",
+  "displayName": "RedCircle API",
+  "description": "RedCircle API is the real-time Target product data API for accessing Target product catalog, reviews, and category data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.redcircleapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "redcircle-api",
+    "developer-tools"
+  ]
+}

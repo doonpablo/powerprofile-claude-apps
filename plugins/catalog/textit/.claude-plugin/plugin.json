@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "textit",
+  "displayName": "Textit",
+  "description": "TextIt is a platform that enables users to build scalable, interactive chatbots across various channels without writing code.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://textit.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "textit",
+    "ai-chatbots"
+  ]
+}

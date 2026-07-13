@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "goodbits",
+  "displayName": "Goodbits",
+  "description": "Goodbits is a service that helps you and your business create stellar newsletters from the best links your team and customers are reading.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://goodbits.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "goodbits",
+    "email-newsletters"
+  ]
+}

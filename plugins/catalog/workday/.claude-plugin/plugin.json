@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "workday",
+  "displayName": "Workday",
+  "description": "Workday is a cloud-based enterprise resource planning (ERP) software that provides comprehensive solutions for human capital management, financial management, and analytics",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.workday.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "workday",
+    "human-resources"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "page-x",
+  "displayName": "Page X",
+  "description": "PageX is an all-in-one platform combining CRM, page builder, and online course builder to help businesses manage leads, build websites, and create courses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pagexcrm.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "page-x",
+    "crm"
+  ]
+}

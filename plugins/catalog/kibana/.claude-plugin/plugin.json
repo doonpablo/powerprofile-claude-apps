@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kibana",
+  "displayName": "Kibana",
+  "description": "Kibana is a visualization and analytics platform for Elasticsearch, offering dashboards, data exploration, and monitoring capabilities for gaining insights from data",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.elastic.co/kibana",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "kibana",
+    "analytics"
+  ]
+}

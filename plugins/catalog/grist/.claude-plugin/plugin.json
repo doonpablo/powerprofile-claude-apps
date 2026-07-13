@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "grist",
+  "displayName": "Grist",
+  "description": "Grist is a relational spreadsheet platform that combines the flexibility of a spreadsheet with the robustness of a database, allowing users to create custom applications tailored to their data needs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.getgrist.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "grist",
+    "productivity"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dropbox-sign",
+  "displayName": "Dropbox Sign",
+  "description": "Dropbox Sign (formerly HelloSign) offers electronic signature and document workflow solutions, simplifying how businesses collect legally binding signatures online",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sign.dropbox.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dropbox-sign",
+    "signatures"
+  ]
+}

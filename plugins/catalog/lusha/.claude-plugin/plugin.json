@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "lusha",
+  "displayName": "Lusha",
+  "description": "B2B contact enrichment and prospecting platform providing verified email addresses, phone numbers, and company information",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.lusha.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "lusha",
+    "sales-crm"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "formcarry",
+  "displayName": "Formcarry",
+  "description": "Formcarry is a form API that allows you to collect submissions from your own designed HTML forms without coding any backend, providing features like email notifications, file uploads, spam protection, and integrations with other apps.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://formcarry.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "formcarry",
+    "forms-surveys"
+  ]
+}

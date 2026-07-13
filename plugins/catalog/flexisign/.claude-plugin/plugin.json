@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "flexisign",
+  "displayName": "Flexisign",
+  "description": "FlexiSign is a privacy and security-focused e-signature tool that simplifies how you sign, send, and manage documents.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://flexisign.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "flexisign",
+    "signatures"
+  ]
+}

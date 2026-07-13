@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "loomio",
+  "displayName": "Loomio",
+  "description": "Loomio is a collaborative decision-making platform that enables groups to discuss, propose, and make decisions together.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.loomio.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "loomio",
+    "project-management"
+  ]
+}

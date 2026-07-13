@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googleslides",
+  "displayName": "Google Slides",
+  "description": "Google Slides is a cloud-based presentation editor with real-time collaboration, template gallery, and integration with other Google Workspace apps",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://docs.google.com/presentation",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googleslides",
+    "documents"
+  ]
+}

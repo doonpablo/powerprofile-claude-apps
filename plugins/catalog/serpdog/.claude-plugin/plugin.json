@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "serpdog",
+  "displayName": "Serpdog",
+  "description": "Serpdog provides APIs for scraping Google search results and related services, enabling developers to access real-time data from Google Search, Maps, Scholar, and more. Note: Serpdog has merged with Scrapingdog but continues to operate independently at api.serpdog.io.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://serpdog.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "serpdog",
+    "ai-web-scraping"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agility-cms",
+  "displayName": "Agility CMS",
+  "description": "Agility CMS is a headless content management system that allows developers to build and manage digital experiences across various platforms.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://agilitycms.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "agility-cms",
+    "website-builders"
+  ]
+}

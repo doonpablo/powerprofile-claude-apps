@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docugenerate",
+  "displayName": "Docugenerate",
+  "description": "DocuGenerate simplifies document generation by converting Word templates and JSON data into professional PDF files with ease. It supports automation of contracts, invoices, letters, certificates, and more, catering to both developers and non-developers. With an intuitive REST API and no-code integrations, it ensures seamless functionality for any scale.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.docugenerate.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docugenerate",
+    "documents"
+  ]
+}

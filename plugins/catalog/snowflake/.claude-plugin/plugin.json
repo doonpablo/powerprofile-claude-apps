@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "snowflake",
+  "displayName": "Snowflake",
+  "description": "Snowflake is a cloud-based data warehouse offering elastic scaling, secure data sharing, and SQL analytics across multiple cloud environments",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.snowflake.com/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "snowflake",
+    "databases"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "northflank",
+  "displayName": "Northflank",
+  "description": "The self-service developer platform that automates and unifies deployment of any workload, on any cloud, at any scale.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://northflank.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "northflank",
+    "developer-tools"
+  ]
+}

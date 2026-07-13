@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "callpage",
+  "displayName": "Callpage",
+  "description": "CallPage is a lead capture tool that enables businesses to connect with website visitors through immediate phone callbacks, enhancing lead generation and sales conversion rates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.callpage.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "callpage",
+    "phone-sms"
+  ]
+}

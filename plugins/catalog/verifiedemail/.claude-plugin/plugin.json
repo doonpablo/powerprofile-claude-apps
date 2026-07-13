@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "verifiedemail",
+  "displayName": "Verifiedemail",
+  "description": "VerifiedEmail offers real-time email verification and bulk email list cleaning services to ensure the accuracy and deliverability of email communications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://verified.email",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "verifiedemail",
+    "email"
+  ]
+}

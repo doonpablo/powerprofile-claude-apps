@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "runpod",
+  "displayName": "RunPod",
+  "description": "The Cloud Built for AI - GPU cloud computing platform for AI and machine learning workloads",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.runpod.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "runpod",
+    "developer-tools"
+  ]
+}

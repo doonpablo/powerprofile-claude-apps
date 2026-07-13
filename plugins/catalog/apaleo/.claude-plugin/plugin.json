@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "apaleo",
+  "displayName": "Apaleo",
+  "description": "Apaleo is a cloud-based property management platform handling reservations, billing, and daily operations for hospitality businesses",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://apaleo.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "apaleo",
+    "scheduling-booking"
+  ]
+}

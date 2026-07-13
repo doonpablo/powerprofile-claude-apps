@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "placekey",
+  "displayName": "Placekey",
+  "description": "Placekey standardizes location data by assigning unique IDs to physical addresses, simplifying address matching and enabling data sharing across platforms",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.placekey.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "placekey",
+    "analytics"
+  ]
+}

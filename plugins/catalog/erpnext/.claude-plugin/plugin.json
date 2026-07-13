@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "erpnext",
+  "displayName": "Erpnext",
+  "description": "Free and open-source integrated Enterprise Resource Planning software built on Frappe Framework",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://erpnext.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "erpnext",
+    "accounting"
+  ]
+}

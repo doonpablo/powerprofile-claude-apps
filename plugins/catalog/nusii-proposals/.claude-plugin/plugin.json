@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nusii-proposals",
+  "displayName": "Nusii proposals",
+  "description": "Proposal software that both you and your clients will love. Stop fighting with Word, InDesign and PDF's. Create beautiful proposals in less time, every time with Nusii.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://nusii.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nusii-proposals",
+    "proposal-invoice-management"
+  ]
+}

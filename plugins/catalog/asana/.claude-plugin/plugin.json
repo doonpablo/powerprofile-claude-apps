@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "asana",
+  "displayName": "Asana",
+  "description": "Tool to help teams organize, track, and manage their work.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://asana.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "asana",
+    "project-management"
+  ]
+}

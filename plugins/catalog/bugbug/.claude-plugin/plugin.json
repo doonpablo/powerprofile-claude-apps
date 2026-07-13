@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bugbug",
+  "displayName": "Bugbug",
+  "description": "Bugbug is a low-code test automation tool. The easiest way to cut costs of software testing.\n\nAutomate your web app testing 3x faster without scaling your QA team.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bugbug.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bugbug",
+    "developer-tools"
+  ]
+}

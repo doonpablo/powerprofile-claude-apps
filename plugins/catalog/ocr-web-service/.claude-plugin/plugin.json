@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ocr-web-service",
+  "displayName": "OCR Web Service",
+  "description": "OCR Web Service provides SOAP and REST APIs for integrating Optical Character Recognition (OCR) technology into software products, mobile devices, or other web services.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ocrwebservice.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ocr-web-service",
+    "ai-document-extraction"
+  ]
+}

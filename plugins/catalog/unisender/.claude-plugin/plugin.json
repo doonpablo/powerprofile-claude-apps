@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "unisender",
+  "displayName": "Unisender",
+  "description": "UniSender is a simple and easy-to-use service for email and SMS marketing campaigns",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.unisender.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "unisender",
+    "marketing"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "postman",
+  "displayName": "Postman",
+  "description": "Postman is an API platform for building, testing, and managing APIs with powerful collaboration features.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.postman.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "postman",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "leadboxer",
+  "displayName": "LeadBoxer",
+  "description": "Lead generation platform that gives you real-time info about companies and people that visit your website. Turning anonymous web traffic into actionable data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.leadboxer.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "leadboxer",
+    "analytics"
+  ]
+}

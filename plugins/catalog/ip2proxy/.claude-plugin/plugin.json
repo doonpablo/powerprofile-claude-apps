@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ip2proxy",
+  "displayName": "Ip2Proxy",
+  "description": "IP2Proxy is a proxy detection web service that identifies anonymous proxies, VPNs, TOR exit nodes, search engine robots, and residential proxies by IP address.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ip2location.com/web-service/ip2proxy",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ip2proxy",
+    "security-identity-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "incident-io",
+  "displayName": "incident.io",
+  "description": "Incident management and response platform",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://incident.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "incident-io",
+    "developer-tools"
+  ]
+}

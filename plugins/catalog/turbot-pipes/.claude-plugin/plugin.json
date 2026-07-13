@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "turbot-pipes",
+  "displayName": "Turbot Pipes",
+  "description": "Turbot Pipes is an intelligence, automation, and security platform built specifically for DevOps, offering hosted Steampipe database instances, shared dashboards, snapshots, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pipes.turbot.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "turbot-pipes",
+    "developer-tools"
+  ]
+}

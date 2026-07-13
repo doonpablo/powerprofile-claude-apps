@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "roam",
+  "displayName": "Roam",
+  "description": "Roam HQ provides APIs for secure messaging, chat, file sharing, and collaboration with enterprise-grade security and compliance features.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ro.am",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "roam",
+    "communication"
+  ]
+}

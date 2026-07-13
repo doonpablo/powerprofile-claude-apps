@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "lessonspace",
+  "displayName": "Lessonspace",
+  "description": "Lessonspace is an online collaborative classroom platform that enables educators and students to engage in interactive learning sessions with features like video conferencing, whiteboards, and resource sharing.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.thelessonspace.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "lessonspace",
+    "education"
+  ]
+}

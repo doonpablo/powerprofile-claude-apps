@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rootly",
+  "displayName": "Rootly",
+  "description": "Rootly is an AI-native incident management platform that automates workflows and collaboration, integrating with Slack, PagerDuty, and other tools to streamline incident response.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://rootly.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rootly",
+    "it-operations"
+  ]
+}

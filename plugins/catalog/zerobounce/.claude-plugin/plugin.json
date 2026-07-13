@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zerobounce",
+  "displayName": "Zerobounce",
+  "description": "ZeroBounce is an email validation and deliverability platform that helps businesses improve email marketing performance by identifying and removing invalid or risky email addresses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zerobounce.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zerobounce",
+    "email"
+  ]
+}

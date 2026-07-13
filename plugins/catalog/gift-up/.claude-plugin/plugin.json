@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gift-up",
+  "displayName": "Gift Up!",
+  "description": "Gift Up! is a digital platform that allows businesses to sell, manage, and redeem gift cards online, integrating seamlessly with websites and apps to streamline gift card transactions and promotions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://giftup.app/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gift-up",
+    "ecommerce"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "instacart",
+  "displayName": "Instacart",
+  "description": "Instacart Developer Platform APIs to create shoppable lists/recipes and discover nearby retailers",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.instacart.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "instacart",
+    "ecommerce"
+  ]
+}

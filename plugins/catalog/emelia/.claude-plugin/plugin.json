@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "emelia",
+  "displayName": "Emelia",
+  "description": "Emelia is an all-in-one B2B prospecting tool offering features like cold-emailing, LinkedIn outreach, email warm-up, email finder, and LinkedIn Sales Navigator scraping.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://emelia.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "emelia",
+    "drip-emails"
+  ]
+}

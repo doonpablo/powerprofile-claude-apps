@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fluxguard",
+  "displayName": "Fluxguard",
+  "description": "Fluxguard is an AI-powered website change detection and monitoring tool that helps businesses track, analyze, and respond to critical changes in web-based data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://fluxguard.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "fluxguard",
+    "server-monitoring"
+  ]
+}

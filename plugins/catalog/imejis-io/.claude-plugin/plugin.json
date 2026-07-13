@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "imejis-io",
+  "displayName": "Imejis.io",
+  "description": "Imejis.io is an API-based image generation platform that enables users to create and customize images seamlessly through a user-friendly interface and a rich library of templates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.imejis.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "imejis-io",
+    "images-design"
+  ]
+}

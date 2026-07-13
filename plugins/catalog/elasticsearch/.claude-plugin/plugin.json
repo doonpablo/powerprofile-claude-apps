@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "elasticsearch",
+  "displayName": "Elasticsearch",
+  "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. It provides real-time search and analytics for all types of data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.elastic.co/elasticsearch",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "elasticsearch",
+    "databases"
+  ]
+}

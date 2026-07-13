@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "jira",
+  "displayName": "Jira",
+  "description": "A tool for bug tracking, issue tracking, and agile project management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.atlassian.com/software/jira",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "jira",
+    "project-management"
+  ]
+}

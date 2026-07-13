@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zeplin",
+  "displayName": "Zeplin",
+  "description": "Zeplin is a design delivery platform that connects designers and developers, enabling access to design resources like projects, screens, components, and assets.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://zeplin.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zeplin",
+    "images-design"
+  ]
+}

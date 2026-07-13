@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dungeon-fighter-online",
+  "displayName": "Dungeon Fighter Online",
+  "description": "Dungeon Fighter Online (DFO) is an arcade-style, side-scrolling action game with RPG elements, offering players a dynamic combat experience.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dfoneople.com/developers",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dungeon-fighter-online",
+    "gaming"
+  ]
+}

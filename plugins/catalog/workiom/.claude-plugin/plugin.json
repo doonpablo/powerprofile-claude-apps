@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "workiom",
+  "displayName": "Workiom",
+  "description": "Workiom allows businesses to create custom workflows, integrate apps, and automate processes, reducing manual overhead and streamlining operations",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://workiom.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "workiom",
+    "productivity"
+  ]
+}

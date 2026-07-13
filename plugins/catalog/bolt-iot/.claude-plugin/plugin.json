@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bolt-iot",
+  "displayName": "Bolt Iot",
+  "description": "Bolt IoT is an integrated platform that enables users to build IoT projects by connecting sensors and actuators to the internet, offering cloud-based control and monitoring capabilities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloud.boltiot.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bolt-iot",
+    "internet-of-things"
+  ]
+}

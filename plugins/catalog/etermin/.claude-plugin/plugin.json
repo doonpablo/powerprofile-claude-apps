@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "etermin",
+  "displayName": "Etermin",
+  "description": "eTermin is an online appointment scheduling platform that allows businesses to manage bookings and integrate with various applications through its REST API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.etermin.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "etermin",
+    "scheduling-booking"
+  ]
+}

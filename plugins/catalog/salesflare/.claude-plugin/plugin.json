@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "salesflare",
+  "displayName": "Salesflare",
+  "description": "Salesflare is a CRM platform that helps small and medium-sized B2B businesses track and manage their sales pipelines, contacts, and customer relationships with automated data entry and smart insights.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://salesflare.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "salesflare",
+    "crm"
+  ]
+}

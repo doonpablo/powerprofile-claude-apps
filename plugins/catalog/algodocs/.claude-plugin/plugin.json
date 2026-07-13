@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "algodocs",
+  "displayName": "Algodocs",
+  "description": "AlgoDocs is an AI-powered platform that automates data extraction from business documents, offering fast, secure, and accurate processing without the need for templates or training.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.algodocs.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "algodocs",
+    "ai-document-extraction"
+  ]
+}

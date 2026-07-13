@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendspark",
+  "displayName": "Sendspark",
+  "description": "Sendspark is a video messaging platform that empowers businesses to create, send, and track personalized video content, simplifying communication by allowing users to quickly record or upload videos and share them via email, social media, or other digital channels.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sendspark.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sendspark",
+    "video-audio"
+  ]
+}

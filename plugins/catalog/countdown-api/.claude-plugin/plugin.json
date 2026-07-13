@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "countdown-api",
+  "displayName": "Countdown API",
+  "description": "Countdown API provides real-time eBay product data, including product details, customer reviews, seller feedback, and search results, enabling businesses and developers to access comprehensive eBay marketplace information.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://countdownapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "countdown-api",
+    "ecommerce"
+  ]
+}

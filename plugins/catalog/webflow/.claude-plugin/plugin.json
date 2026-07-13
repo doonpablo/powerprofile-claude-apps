@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "webflow",
+  "displayName": "Webflow",
+  "description": "Webflow is a no-code website design and hosting platform, letting users build responsive sites, launch online stores, and maintain content without coding",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://webflow.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "webflow",
+    "website-builders"
+  ]
+}

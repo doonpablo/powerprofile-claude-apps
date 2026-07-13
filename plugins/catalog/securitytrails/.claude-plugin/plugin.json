@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "securitytrails",
+  "displayName": "Securitytrails",
+  "description": "SecurityTrails is a cybersecurity platform providing comprehensive domain, IP, DNS, and WHOIS intelligence data. It offers historical DNS records, subdomain discovery, WHOIS history, associated domains, passive DNS datasets, and website technology detection to support threat hunting, brand protection, cyber forensics, and attack surface management.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://securitytrails.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "securitytrails",
+    "security-identity-tools"
+  ]
+}

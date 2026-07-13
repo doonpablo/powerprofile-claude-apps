@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "beaconchain",
+  "displayName": "beaconcha.in",
+  "description": "Beaconchain is a platform providing real-time data and analytics for the Ethereum 2.0 Beacon Chain, offering insights into validators, blocks, and network performance.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://beaconcha.in/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "beaconchain",
+    "analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "crowterminal",
+  "displayName": "CrowTerminal",
+  "description": "AI-powered command line assistant with memory and automation capabilities for developers",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://crowterminal.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "crowterminal",
+    "developer-tools"
+  ]
+}

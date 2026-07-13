@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "recruitee",
+  "displayName": "Recruitee",
+  "description": "Recruitee is a collaborative hiring software that streamlines recruitment processes, enabling teams to source, interview, and hire candidates efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://recruitee.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "recruitee",
+    "hr-talent-recruitment"
+  ]
+}

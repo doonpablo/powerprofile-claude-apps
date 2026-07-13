@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ko-fi",
+  "displayName": "Ko-fi",
+  "description": "Ko-fi is a platform that enables creators to receive support from their audience through donations, memberships, and sales.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ko-fi.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ko-fi",
+    "fundraising"
+  ]
+}

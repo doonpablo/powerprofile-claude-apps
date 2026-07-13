@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "platerecognizer",
+  "displayName": "Plate Recognizer",
+  "description": "Plate Recognizer offers Automatic License Plate Recognition (ALPR) solutions for processing images and videos to detect and decode vehicle license plates.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.platerecognizer.com/accounts/login/code/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "platerecognizer",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "currencyscoop",
+  "displayName": "CurrencyScoop",
+  "description": "CurrencyBeacon is a developer friendly, easy-to-use REST API with real-time and historical exchange rates for fiat currencies and cryptocurrencies.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://currencybeacon.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "currencyscoop",
+    "developer-tools"
+  ]
+}

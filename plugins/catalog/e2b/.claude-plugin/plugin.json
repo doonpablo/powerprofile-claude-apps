@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "e2b",
+  "displayName": "E2b",
+  "description": "Open-source Code Interpreting for AI Apps. Run sandboxed code execution environments with support for multiple programming languages.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://e2b.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "e2b",
+    "developer-tools"
+  ]
+}

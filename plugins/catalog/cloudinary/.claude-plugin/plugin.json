@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudinary",
+  "displayName": "Cloudinary",
+  "description": "Cloudinary is a cloud-based media management platform for uploading, storing, transforming, and delivering images and videos via CDN.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloudinary.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudinary",
+    "images-design"
+  ]
+}

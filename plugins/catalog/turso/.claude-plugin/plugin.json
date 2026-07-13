@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "turso",
+  "displayName": "Turso",
+  "description": "Turso is a fully managed database platform built on libSQL, offering serverless SQLite databases with global replication and low-latency access.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://turso.tech/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "turso",
+    "databases"
+  ]
+}

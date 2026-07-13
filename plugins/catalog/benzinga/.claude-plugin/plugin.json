@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "benzinga",
+  "displayName": "Benzinga",
+  "description": "Benzinga provides real-time financial news and data APIs, offering comprehensive coverage of market-moving information for developers and financial professionals.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.benzinga.com/apis",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "benzinga",
+    "analytics"
+  ]
+}

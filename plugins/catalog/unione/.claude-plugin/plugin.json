@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "unione",
+  "displayName": "Unione",
+  "description": "UniOne is an email delivery service offering a versatile Web API and SMTP API for sending transactional and marketing emails.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://unione.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "unione",
+    "transactional-email"
+  ]
+}

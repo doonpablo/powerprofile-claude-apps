@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linkhut",
+  "displayName": "Linkhut",
+  "description": "LinkHut manages bookmarked links in a minimalistic, shareable interface, helping teams organize URLs and track references in one place",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://linkhut.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "linkhut",
+    "bookmark-managers"
+  ]
+}

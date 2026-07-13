@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ecologi",
+  "displayName": "Ecologi",
+  "description": "Ecologi is the platform for collective climate action. Purchase trees and carbon offsets programmatically through their Impact API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ecologi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ecologi",
+    "news-lifestyle"
+  ]
+}

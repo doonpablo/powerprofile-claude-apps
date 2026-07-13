@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudconvert",
+  "displayName": "CloudConvert",
+  "description": "CloudConvert is a file conversion service supporting over 200 formats, including audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloudconvert.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudconvert",
+    "file-management-storage"
+  ]
+}

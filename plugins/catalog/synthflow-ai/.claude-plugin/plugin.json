@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "synthflow-ai",
+  "displayName": "Synthflow AI",
+  "description": "Synthflow AI provides AI-powered voice agents to automate both inbound and outbound calls, enhancing customer engagement and operational efficiency.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://synthflow.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "synthflow-ai",
+    "ai-agents"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sharepoint-graph",
+  "displayName": "SharePoint Graph",
+  "description": "SharePoint Graph uses Microsoft Graph to access SharePoint sites, lists, list items, document libraries, files, folders, and sharing capabilities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.microsoft.com/en-in/microsoft-365/sharepoint/collaboration/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sharepoint-graph",
+    "documents"
+  ]
+}

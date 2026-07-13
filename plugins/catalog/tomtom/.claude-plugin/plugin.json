@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tomtom",
+  "displayName": "Tomtom",
+  "description": "TomTom provides a suite of location-based services and APIs, including mapping, routing, traffic information, and geofencing, enabling developers to integrate advanced navigation and location functionalities into their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developer.tomtom.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tomtom",
+    "developer-tools"
+  ]
+}

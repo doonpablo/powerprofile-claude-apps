@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mails-so",
+  "displayName": "Mails.so",
+  "description": "Mails is an API service that provides powerful email validation capabilities to help maintain a clean and effective email list.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mails.so",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mails-so",
+    "email"
+  ]
+}

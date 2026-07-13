@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "codemagic",
+  "displayName": "Codemagic",
+  "description": "Codemagic is a CI/CD platform focused on mobile app development.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://codemagic.io/start/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "codemagic",
+    "developer-tools"
+  ]
+}

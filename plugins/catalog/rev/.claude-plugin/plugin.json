@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rev",
+  "displayName": "Rev AI",
+  "description": "Affordable, accurate, easy-to-use speech-to-text solutions powered by people and A.I working together. Rev offers transcripts, captions, subtitles, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.rev.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rev",
+    "transcription"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "retellai",
+  "displayName": "Retell AI",
+  "description": "RetellAI captures calls and transcripts, enabling businesses to analyze conversations, extract insights, and enhance customer interactions in one centralized platform",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.retellai.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "retellai",
+    "artificial-intelligence"
+  ]
+}

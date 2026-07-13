@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "basin",
+  "displayName": "Basin",
+  "description": "Basin is a no-code form backend that enables users to set up powerful, reliable forms quickly without writing server-side code.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://usebasin.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "basin",
+    "forms-surveys"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudcart",
+  "displayName": "Cloudcart",
+  "description": "CloudCart is an e-commerce platform that enables businesses to create and manage online stores efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cloudcart.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudcart",
+    "ecommerce"
+  ]
+}

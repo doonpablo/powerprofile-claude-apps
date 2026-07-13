@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hub-planner",
+  "displayName": "Hub Planner",
+  "description": "A Modern and Smart Resource Management, Planning & Scheduling tool with Time Sheets and Powerful Reporting. Ideal for Managing Global Teams of Resources.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://hubplanner.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hub-planner",
+    "productivity"
+  ]
+}

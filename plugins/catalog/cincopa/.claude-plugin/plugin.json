@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cincopa",
+  "displayName": "Cincopa",
+  "description": "Cincopa is a comprehensive media platform offering tools for uploading, managing, and customizing multimedia content, including videos, images, and audio, with robust APIs for seamless integration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.cincopa.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cincopa",
+    "video-audio"
+  ]
+}

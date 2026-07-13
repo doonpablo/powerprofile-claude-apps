@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "onesignal-user-auth",
+  "displayName": "OneSignal User Auth",
+  "description": "OneSignal is a customer engagement platform offering push notifications, email, SMS, and in-app messaging services.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://onesignal.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "onesignal-user-auth",
+    "notifications"
+  ]
+}

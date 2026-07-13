@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "simple-analytics",
+  "displayName": "Simple Analytics",
+  "description": "Simple Analytics is a privacy-friendly and simple alternative to Google Analytics, offering straightforward analytics without cookies or trackers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://simpleanalytics.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "simple-analytics",
+    "analytics"
+  ]
+}

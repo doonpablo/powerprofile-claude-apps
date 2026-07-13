@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "neon",
+  "displayName": "Neon",
+  "description": "Postgres, on a serverless platform designed to help you build reliable and scalable applications faster",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://neon.tech/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "neon",
+    "databases"
+  ]
+}

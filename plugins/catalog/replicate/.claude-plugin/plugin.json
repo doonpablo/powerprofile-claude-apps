@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "replicate",
+  "displayName": "Replicate",
+  "description": "Replicate allows users to run AI models via a cloud API without managing infrastructure.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://replicate.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "replicate",
+    "artificial-intelligence"
+  ]
+}

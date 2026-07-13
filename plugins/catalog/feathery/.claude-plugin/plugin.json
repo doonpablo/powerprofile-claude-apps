@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "feathery",
+  "displayName": "Feathery",
+  "description": "Feathery is an AI-powered data intake workflow platform that enables users to build customizable forms with advanced logic and integrations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.feathery.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "feathery",
+    "forms-surveys"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "moneybird",
+  "displayName": "Moneybird",
+  "description": "Moneybird is an online invoicing and accounting platform designed for small businesses and freelancers, offering features like invoicing, expense tracking, and financial reporting.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://moneybird.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "moneybird",
+    "accounting"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "intelliprint",
+  "displayName": "Intelliprint",
+  "description": "Intelliprint offers a Hybrid Mail API that enables businesses to automate their letter printing and mailing processes, providing features like same-day printing, secure authentication, and real-time tracking.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.intelliprint.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "intelliprint",
+    "documents"
+  ]
+}

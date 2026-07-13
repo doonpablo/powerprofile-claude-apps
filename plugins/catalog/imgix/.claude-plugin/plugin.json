@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "imgix",
+  "displayName": "Imgix",
+  "description": "imgix is a real-time image processing and delivery service that enables developers to optimize, transform, and deliver images efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.imgix.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "imgix",
+    "images-design"
+  ]
+}

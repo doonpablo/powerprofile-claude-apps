@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bunnycdn",
+  "displayName": "BunnyCDN",
+  "description": "BunnyCDN is a powerful content delivery network (CDN) offering an API to manage and deliver content globally with ease.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://bunny.net/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "bunnycdn",
+    "developer-tools"
+  ]
+}

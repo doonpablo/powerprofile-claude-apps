@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pexels",
+  "displayName": "Pexels",
+  "description": "Pexels offers a free API that provides access to a vast library of high-quality photos and videos, enabling seamless integration into applications and websites.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.pexels.com/api/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pexels",
+    "images-design"
+  ]
+}

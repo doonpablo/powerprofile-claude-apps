@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "shorten-rest",
+  "displayName": "Shorten.REST",
+  "description": "Shorten.REST is a link shortening and management app that allows you to generate unique, branded URLs with advanced tracking capabilities.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://shorten.rest/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "shorten-rest",
+    "url-shortener"
+  ]
+}

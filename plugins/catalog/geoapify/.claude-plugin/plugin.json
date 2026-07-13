@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "geoapify",
+  "displayName": "Geoapify",
+  "description": "Geoapify offers a suite of APIs for integrating maps, geocoding, routing, and other location-based services into applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.geoapify.com/get-started-with-maps-api/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "geoapify",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pingdom",
+  "displayName": "Pingdom",
+  "description": "Pingdom is a web performance monitoring service that allows users to monitor the uptime and performance of websites, servers, and applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.pingdom.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pingdom",
+    "server-monitoring"
+  ]
+}

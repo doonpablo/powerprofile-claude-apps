@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "tiktok",
+  "displayName": "Tiktok",
+  "description": "TikTok short-form video platform + creation tools + social sharing",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.tiktok.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "tiktok",
+    "social-media-accounts"
+  ]
+}

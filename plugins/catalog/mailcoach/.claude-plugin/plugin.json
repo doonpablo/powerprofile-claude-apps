@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mailcoach",
+  "displayName": "Mailcoach",
+  "description": "Mailcoach is an email marketing platform that allows users to manage email campaigns and subscriber lists efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mailcoach.app",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mailcoach",
+    "email-newsletters"
+  ]
+}

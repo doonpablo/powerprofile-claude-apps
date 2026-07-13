@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "refiner",
+  "displayName": "Refiner",
+  "description": "Refiner is a customer feedback and survey tool designed to help businesses collect and analyze user insights.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://refiner.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "refiner",
+    "forms-surveys"
+  ]
+}

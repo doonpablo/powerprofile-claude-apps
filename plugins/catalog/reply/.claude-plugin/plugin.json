@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "reply",
+  "displayName": "Reply",
+  "description": "Reply.io is a sales engagement platform that automates multichannel outreach, enabling users to create and manage email campaigns, track replies, and monitor performance directly within their platform.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://reply.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "reply",
+    "marketing-automation"
+  ]
+}

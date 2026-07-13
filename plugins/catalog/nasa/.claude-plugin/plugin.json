@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nasa",
+  "displayName": "Nasa",
+  "description": "NASA offers a suite of APIs providing access to a wide range of data, including Earth science, planetary imagery, and technology transfer information.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://api.nasa.gov/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nasa",
+    "developer-tools"
+  ]
+}

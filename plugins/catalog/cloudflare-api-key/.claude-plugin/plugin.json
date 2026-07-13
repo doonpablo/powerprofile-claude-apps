@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudflare-api-key",
+  "displayName": "Cloudflare Api Key",
+  "description": "Cloudflare provides a suite of services to enhance the security, performance, and reliability of websites and applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.cloudflare.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudflare-api-key",
+    "security-identity-tools"
+  ]
+}

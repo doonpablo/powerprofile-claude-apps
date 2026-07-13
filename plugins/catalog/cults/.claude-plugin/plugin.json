@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cults",
+  "displayName": "Cults",
+  "description": "Cults is a digital marketplace for 3D printing models, offering a platform for designers to share and sell their creations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://cults3d.com/en/api",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cults",
+    "ecommerce"
+  ]
+}

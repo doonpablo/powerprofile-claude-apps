@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zyte-api",
+  "displayName": "Zyte Api",
+  "description": "Zyte API is a web scraping solution that automates data extraction from websites, handling challenges like bans and dynamic content.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.zyte.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zyte-api",
+    "ai-web-scraping"
+  ]
+}

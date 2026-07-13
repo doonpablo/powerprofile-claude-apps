@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "griptape",
+  "displayName": "Griptape",
+  "description": "Griptape is a comprehensive platform offering tools and frameworks for building, deploying, and scaling generative AI applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.griptape.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "griptape",
+    "artificial-intelligence"
+  ]
+}

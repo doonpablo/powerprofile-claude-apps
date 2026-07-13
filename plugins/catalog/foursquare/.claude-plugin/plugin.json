@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "foursquare",
+  "displayName": "Foursquare",
+  "description": "Foursquare provides location-based search and discovery, offering detailed venue information, place recommendations, and geospatial data for businesses and points of interest worldwide",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.foursquare.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "foursquare",
+    "analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "codacy",
+  "displayName": "Codacy",
+  "description": "Codacy is an automated code review tool that helps developers monitor code quality, track technical debt, and enforce coding standards across multiple programming languages.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.codacy.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "codacy",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "algolia",
+  "displayName": "Algolia",
+  "description": "Algolia is a hosted search API that provides developers with tools to build fast and relevant search experiences for their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.algolia.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "algolia",
+    "developer-tools"
+  ]
+}

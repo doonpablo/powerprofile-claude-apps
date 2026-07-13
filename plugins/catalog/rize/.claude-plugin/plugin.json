@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rize",
+  "displayName": "Rize",
+  "description": "Rize is an AI-powered time tracking and productivity tool that automatically tracks your work time and provides insights.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://rize.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rize",
+    "productivity"
+  ]
+}

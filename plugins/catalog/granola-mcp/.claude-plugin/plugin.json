@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "granola-mcp",
+  "displayName": "Granola MCP",
+  "description": "Granola is a meeting notes app that captures transcripts and helps teams search and share conversations. It helps turn meeting context into action items and follow-ups.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.granola.ai/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "granola-mcp",
+    "productivity-project-management"
+  ]
+}

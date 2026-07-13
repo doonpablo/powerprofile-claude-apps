@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agent-mail",
+  "displayName": "Agent Mail",
+  "description": "AgentMail provides AI agents with their own email inboxes, enabling them to send, receive, and act upon emails for communication with services, people, and other agents.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://agentmail.to",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "agent-mail",
+    "ai-agents"
+  ]
+}

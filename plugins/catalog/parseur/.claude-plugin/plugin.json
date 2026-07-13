@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "parseur",
+  "displayName": "Parseur",
+  "description": "Parseur is an AI-powered data extraction tool that automates the parsing of emails, PDFs, and other documents into structured data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://parseur.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "parseur",
+    "ai-document-extraction"
+  ]
+}

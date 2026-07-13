@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "miro",
+  "displayName": "Miro",
+  "description": "Miro is a collaborative online whiteboard enabling teams to brainstorm ideas, design wireframes, plan workflows, and manage projects visually",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://miro.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "miro",
+    "team-collaboration"
+  ]
+}

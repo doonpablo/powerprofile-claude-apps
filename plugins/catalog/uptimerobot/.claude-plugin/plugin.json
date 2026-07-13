@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "uptimerobot",
+  "displayName": "Uptimerobot",
+  "description": "UptimeRobot is a service that monitors the uptime and performance of websites, applications, and services, providing real-time alerts and detailed logs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://uptimerobot.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "uptimerobot",
+    "server-monitoring"
+  ]
+}

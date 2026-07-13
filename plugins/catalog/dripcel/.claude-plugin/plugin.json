@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dripcel",
+  "displayName": "Dripcel",
+  "description": "Dripcel is a platform for automated SMS and Email marketing, campaign compliance, and data-driven lead generation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dripcel.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dripcel",
+    "marketing-automation"
+  ]
+}

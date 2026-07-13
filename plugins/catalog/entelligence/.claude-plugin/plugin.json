@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "entelligence",
+  "displayName": "Entelligence",
+  "description": "Entelligence leverages artificial intelligence to provide insights, recommendations, and predictive analytics for businesses seeking data-driven decision-making capabilities",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.entelligence.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "entelligence",
+    "artificial-intelligence"
+  ]
+}

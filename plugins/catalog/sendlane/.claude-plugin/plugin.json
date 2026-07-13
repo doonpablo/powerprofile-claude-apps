@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendlane",
+  "displayName": "Sendlane",
+  "description": "Sendlane is a cloud-based marketing automation platform that helps eCommerce businesses engage customers through personalized email and SMS campaigns.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.sendlane.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sendlane",
+    "marketing-automation"
+  ]
+}

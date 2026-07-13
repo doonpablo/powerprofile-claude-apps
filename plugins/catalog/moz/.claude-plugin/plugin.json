@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "moz",
+  "displayName": "Moz",
+  "description": "Moz is an SEO software suite providing keyword research, site audits, rank tracking, and competitive insights to boost organic search visibility",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://moz.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "moz",
+    "marketing-automation"
+  ]
+}

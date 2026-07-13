@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "trello",
+  "displayName": "Trello",
+  "description": "A web-based, kanban-style, list-making application.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://trello.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "trello",
+    "project-management"
+  ]
+}

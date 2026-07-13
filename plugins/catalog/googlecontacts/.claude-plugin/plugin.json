@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "googlecontacts",
+  "displayName": "Googlecontacts",
+  "description": "Access and manage Google Contacts data via the Google People API",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://contacts.google.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "googlecontacts",
+    "productivity"
+  ]
+}

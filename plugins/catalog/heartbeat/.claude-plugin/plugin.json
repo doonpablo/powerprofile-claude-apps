@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "heartbeat",
+  "displayName": "Heartbeat",
+  "description": "Plug-and-play online communities. Heartbeat provides tools for creating and managing online communities with features for users, channels, events, messages, and more.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.heartbeat.chat/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "heartbeat",
+    "team-collaboration"
+  ]
+}

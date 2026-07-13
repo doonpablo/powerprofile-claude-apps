@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coassemble",
+  "displayName": "Coassemble",
+  "description": "Coassemble is a platform that allows users to create, manage, and deliver online training courses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://coassemble.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "coassemble",
+    "online-courses"
+  ]
+}

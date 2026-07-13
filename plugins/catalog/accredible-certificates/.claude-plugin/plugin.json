@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "accredible-certificates",
+  "displayName": "Accredible certificates",
+  "description": "Accredible Certificates is a platform that enables organizations to create, manage, and distribute digital certificates, open badges, and blockchain credentials.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.accredible.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "accredible-certificates",
+    "education"
+  ]
+}

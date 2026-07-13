@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gan-ai",
+  "displayName": "Gan.AI",
+  "description": "Gan.AI provides advanced APIs for text-to-speech, voice cloning, and video personalization, enabling developers to integrate natural and expressive speech synthesis into their applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gan.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gan-ai",
+    "artificial-intelligence"
+  ]
+}

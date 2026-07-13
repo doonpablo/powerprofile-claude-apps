@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coinmarketcal",
+  "displayName": "CoinMarketCal",
+  "description": "CoinMarketCal is a community-driven crypto calendar, highlighting upcoming events, announcements, and releases, helping traders and enthusiasts track market-impacting developments in the cryptocurrency space",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://coinmarketcal.com/en/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "coinmarketcal",
+    "analytics"
+  ]
+}

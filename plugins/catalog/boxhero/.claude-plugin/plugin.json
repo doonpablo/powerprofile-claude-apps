@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "boxhero",
+  "displayName": "Boxhero",
+  "description": "BoxHero is a cloud-based inventory management solution designed for small to medium-sized businesses, offering real-time updates, barcode scanning, team collaboration, and analytics.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.boxhero-app.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "boxhero",
+    "product-management"
+  ]
+}

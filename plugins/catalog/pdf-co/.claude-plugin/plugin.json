@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pdf-co",
+  "displayName": "PDF.co",
+  "description": "PDF.co is a REST API platform for PDF automation including PDF extraction, generation, editing, splitting, merging, form filling, barcode processing, OCR, document parsing, file conversion (PDF to Excel/CSV/JSON/XML/HTML/Image and vice versa), and AI-powered invoice parsing.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://pdf.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pdf-co",
+    "documents"
+  ]
+}

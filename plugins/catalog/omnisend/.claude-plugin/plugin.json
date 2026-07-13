@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "omnisend",
+  "displayName": "Omnisend",
+  "description": "Omnisend is a marketing automation platform for ecommerce businesses, focusing on email and SMS marketing.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.omnisend.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "omnisend",
+    "marketing-automation"
+  ]
+}

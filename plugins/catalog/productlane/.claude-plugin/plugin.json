@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "productlane",
+  "displayName": "Productlane",
+  "description": "Productlane is a customer support and feedback system designed for modern companies, built on Linear.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://productlane.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "productlane",
+    "customer-support"
+  ]
+}

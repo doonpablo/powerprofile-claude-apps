@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "postmark",
+  "displayName": "Postmark",
+  "description": "Postmark is an email delivery service that enables developers to send transactional emails with high deliverability and detailed analytics.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://postmarkapp.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "postmark",
+    "transactional-email"
+  ]
+}

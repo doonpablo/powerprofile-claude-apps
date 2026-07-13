@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "instantly",
+  "displayName": "Instantly",
+  "description": "Instantly is a platform designed to streamline cold email outreach by automating campaigns, managing leads, and enhancing email deliverability.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.instantly.ai/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "instantly",
+    "drip-emails"
+  ]
+}

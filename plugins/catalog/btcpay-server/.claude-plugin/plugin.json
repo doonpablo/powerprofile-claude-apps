@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "btcpay-server",
+  "displayName": "BTCPay Server",
+  "description": "BTCPay Server is a free, open-source, self-hosted Bitcoin payment processor that enables merchants to accept Bitcoin payments without intermediaries.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://btcpayserver.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "btcpay-server",
+    "payment-processing"
+  ]
+}

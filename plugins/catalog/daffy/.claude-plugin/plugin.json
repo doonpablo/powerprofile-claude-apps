@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "daffy",
+  "displayName": "Daffy",
+  "description": "Daffy is a modern platform for charitable giving, offering a donor-advised fund that allows users to set money aside, watch it grow tax-free, and donate to over 1.7 million charities in the U.S.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://daffy.org",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "daffy",
+    "fundraising"
+  ]
+}

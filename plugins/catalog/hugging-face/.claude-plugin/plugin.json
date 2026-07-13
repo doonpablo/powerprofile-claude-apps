@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hugging-face",
+  "displayName": "Hugging Face",
+  "description": "Build, train and deploy state of the art models powered by the reference open source in machine learning.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://huggingface.co/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hugging-face",
+    "artificial-intelligence"
+  ]
+}

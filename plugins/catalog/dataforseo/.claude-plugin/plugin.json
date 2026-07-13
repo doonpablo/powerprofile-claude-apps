@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dataforseo",
+  "displayName": "Dataforseo",
+  "description": "SEO data and analytics platform providing SERP data, backlinks, keywords, and competitive intelligence",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://dataforseo.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dataforseo",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "browser-tool",
+  "displayName": "Browser Tool",
+  "description": "Composio Browser Tool enables AI Agents and LLMs to automate web interactions, perform web scraping, and conduct automated testing. Use cases include data extraction, form automation, website monitoring, and intelligent web navigation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://composio.dev",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "browser-tool",
+    "ai-agents"
+  ]
+}

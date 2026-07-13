@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "context7-mcp",
+  "displayName": "Context7 MCP",
+  "description": "Context7 MCP pulls up-to-date, version-specific documentation and code examples straight from the source — and places them directly into your prompt",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.context7.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "context7-mcp",
+    "developer-tools-devops"
+  ]
+}

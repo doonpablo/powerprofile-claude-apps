@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "slite",
+  "displayName": "Slite",
+  "description": "Your company knowledge base, on autopilot",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://slite.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "slite",
+    "documents"
+  ]
+}

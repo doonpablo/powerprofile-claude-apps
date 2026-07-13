@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pdfless",
+  "displayName": "Pdfless",
+  "description": "Pdfless is a document factory that enables developers to create high-quality PDF documents using HTML/CSS templates and data integration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.pdfless.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pdfless",
+    "documents"
+  ]
+}

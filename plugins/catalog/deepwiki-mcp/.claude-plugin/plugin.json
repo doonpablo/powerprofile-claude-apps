@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "deepwiki-mcp",
+  "displayName": "DeepWiki MCP",
+  "description": "Free AI-powered access to public GitHub repository documentation and codebase analysis via DeepWiki. No authentication required.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.deepwiki.com/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "deepwiki-mcp",
+    "model-context-protocol"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hostinger",
+  "displayName": "Hostinger",
+  "description": "Web hosting and domain management platform with APIs for billing, domains, DNS, and VPS management",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.hostinger.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "hostinger",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "geocodio",
+  "displayName": "Geocodio",
+  "description": "Geocodio provides straightforward and easy-to-use geocoding, reverse geocoding, and data matching services for US and Canadian addresses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.geocod.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "geocodio",
+    "developer-tools"
+  ]
+}

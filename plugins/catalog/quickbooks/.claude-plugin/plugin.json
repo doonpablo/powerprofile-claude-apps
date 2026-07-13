@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "quickbooks",
+  "displayName": "QuickBooks",
+  "description": "Quickbooks is a cloud-based accounting software that helps you manage your finances, track your income and expenses, and get insights into your business",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://quickbooks.intuit.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "quickbooks",
+    "accounting"
+  ]
+}

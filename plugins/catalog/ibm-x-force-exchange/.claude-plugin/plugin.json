@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ibm-x-force-exchange",
+  "displayName": "IBM X-Force Exchange",
+  "description": "IBM X-Force Exchange is a threat intelligence sharing platform for researching security threats, aggregating intelligence, and collaborating on cybersecurity insights",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://exchange.xforce.ibmcloud.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ibm-x-force-exchange",
+    "security-identity-tools"
+  ]
+}

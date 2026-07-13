@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "placid",
+  "displayName": "Placid",
+  "description": "Placid is a creative automation toolkit that enables users to generate images, PDFs, and videos from custom templates via REST or URL APIs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://placid.app/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "placid",
+    "images-design"
+  ]
+}

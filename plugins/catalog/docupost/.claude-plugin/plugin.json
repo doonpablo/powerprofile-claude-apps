@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "docupost",
+  "displayName": "Docupost",
+  "description": "DocuPost is a print and mail service that enables users to send digital files as physical letters and postcards via the U.S. Postal Service.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://docupost.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "docupost",
+    "documents"
+  ]
+}

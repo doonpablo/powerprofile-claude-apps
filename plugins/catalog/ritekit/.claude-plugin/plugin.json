@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ritekit",
+  "displayName": "Ritekit",
+  "description": "RiteKit offers a suite of APIs designed to enhance social media engagement by providing tools for hashtag generation, link shortening, and content analysis.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://ritekit.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "ritekit",
+    "social-media-marketing"
+  ]
+}

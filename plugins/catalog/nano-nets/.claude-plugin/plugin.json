@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nano-nets",
+  "displayName": "Nanonets",
+  "description": "Nanonets provides an AI-driven Intelligent Document Processing API that transforms unstructured documents into structured data, enabling efficient data extraction and workflow automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app.nanonets.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nano-nets",
+    "ai-document-extraction"
+  ]
+}

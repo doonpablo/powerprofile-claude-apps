@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "retently",
+  "displayName": "Retently",
+  "description": "Retently is a customer experience management platform that enables businesses to collect, analyze, and act on customer feedback through surveys and integrations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.retently.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "retently",
+    "forms-surveys"
+  ]
+}

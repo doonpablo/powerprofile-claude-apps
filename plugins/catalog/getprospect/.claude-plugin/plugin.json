@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "getprospect",
+  "displayName": "Getprospect",
+  "description": "Find anyone's business email address. GetProspect provides email discovery and verification from LinkedIn.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://getprospect.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "getprospect",
+    "marketing"
+  ]
+}

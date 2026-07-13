@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "procfu",
+  "displayName": "Procfu",
+  "description": "ProcFu enhances Podio's capabilities by providing a suite of automation tools and functions, enabling users to create scripts, mini apps, and integrate with various services to streamline workflows.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://procfu.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "procfu",
+    "developer-tools"
+  ]
+}

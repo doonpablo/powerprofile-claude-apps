@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mixpanel",
+  "displayName": "Mixpanel",
+  "description": "Mixpanel is a product analytics platform tracking user interactions and engagement, providing cohort analysis, funnels, and A/B testing to improve user experiences",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mixpanel.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mixpanel",
+    "analytics"
+  ]
+}

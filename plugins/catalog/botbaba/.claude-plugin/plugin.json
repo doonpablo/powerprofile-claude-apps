@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "botbaba",
+  "displayName": "Botbaba",
+  "description": "Botbaba provides APIs for building and managing chatbots, including conversational AI and messaging integrations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://botbaba.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "botbaba",
+    "ai-chatbots"
+  ]
+}

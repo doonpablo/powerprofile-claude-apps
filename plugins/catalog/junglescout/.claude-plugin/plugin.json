@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "junglescout",
+  "displayName": "Jungle Scout",
+  "description": "Jungle Scout assists Amazon sellers with product research, sales estimates, and competitive insights to optimize inventory, pricing, and listing strategies",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.junglescout.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "junglescout",
+    "ecommerce"
+  ]
+}

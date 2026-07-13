@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "callerapi",
+  "displayName": "Callerapi",
+  "description": "CallerAPI provides a white-label caller identification API that enhances customer trust, stops spam, fraud, and robocalls by offering branded caller ID solutions.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://callerapi.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "callerapi",
+    "phone-sms"
+  ]
+}

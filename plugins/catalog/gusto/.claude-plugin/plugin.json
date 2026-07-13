@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gusto",
+  "displayName": "Gusto",
+  "description": "Modern payroll, benefits, and HR management platform for small and medium businesses",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://gusto.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "gusto",
+    "human-resources"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "flutterwave",
+  "displayName": "Flutterwave",
+  "description": "Flutterwave is a payments technology company that provides payment infrastructure and APIs enabling businesses to accept and send payments in Africa and globally.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://flutterwave.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "flutterwave",
+    "payment-processing"
+  ]
+}

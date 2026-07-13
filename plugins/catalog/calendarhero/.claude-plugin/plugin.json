@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "calendarhero",
+  "displayName": "CalendarHero",
+  "description": "CalendarHero is a versatile scheduling tool designed to streamline and simplify your calendar management. It integrates seamlessly with your existing calendars, allowing you to efficiently schedule, reschedule, and manage meetings with ease.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://calendarhero.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "calendarhero",
+    "scheduling-booking"
+  ]
+}

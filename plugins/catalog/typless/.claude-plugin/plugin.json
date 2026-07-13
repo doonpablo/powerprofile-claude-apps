@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "typless",
+  "displayName": "Typless",
+  "description": "Typless is an AI-powered document extraction platform that automates manual data entry from various documents using a simple API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://typless.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "typless",
+    "ai-document-extraction"
+  ]
+}

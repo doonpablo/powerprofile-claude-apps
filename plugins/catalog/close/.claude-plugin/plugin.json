@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "close",
+  "displayName": "Close",
+  "description": "Close is a CRM platform designed to help businesses manage and streamline their sales processes, including calling, email automation, and predictive dialers.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.close.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "close",
+    "crm"
+  ]
+}

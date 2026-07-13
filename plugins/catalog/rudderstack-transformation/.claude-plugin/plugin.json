@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rudderstack-transformation",
+  "displayName": "RudderStack Transformation",
+  "description": "RudderStack Transformation API allows you to manage transformations and libraries for customer data pipelines. Use it to create, update, and delete transformations programmatically.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://rudderstack.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rudderstack-transformation",
+    "analytics"
+  ]
+}

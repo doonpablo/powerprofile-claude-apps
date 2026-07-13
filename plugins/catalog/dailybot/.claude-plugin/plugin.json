@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dailybot",
+  "displayName": "Dailybot",
+  "description": "DailyBot simplifies team collaboration and tasks with chat-based standups, reminders, polls, and integrations, streamlining workflow automation in popular messaging platforms",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.dailybot.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "dailybot",
+    "team-collaboration"
+  ]
+}

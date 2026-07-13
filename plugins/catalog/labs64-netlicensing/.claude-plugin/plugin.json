@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "labs64-netlicensing",
+  "displayName": "Labs64 NetLicensing",
+  "description": "Labs64 NetLicensing is a license management software designed to help software vendors and developers efficiently manage their software licenses and distribution.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://netlicensing.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "labs64-netlicensing",
+    "developer-tools"
+  ]
+}

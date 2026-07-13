@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "contentful",
+  "displayName": "Contentful",
+  "description": "Contentful is a headless CMS allowing developers to create, manage, and distribute content across multiple channels and devices with an API-first approach",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.contentful.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "contentful",
+    "developer-tools"
+  ]
+}

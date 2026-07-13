@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "plausible-analytics",
+  "displayName": "Plausible Analytics",
+  "description": "Privacy-focused web analytics platform that provides simple, lightweight, and GDPR-compliant website statistics",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://plausible.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "plausible-analytics",
+    "analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "vercel",
+  "displayName": "Vercel",
+  "description": "Vercel is a platform for frontend frameworks and static sites, enabling developers to host websites and web services that deploy instantly, scale automatically, and require minimal configuration.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://vercel.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "vercel",
+    "developer-tools"
+  ]
+}

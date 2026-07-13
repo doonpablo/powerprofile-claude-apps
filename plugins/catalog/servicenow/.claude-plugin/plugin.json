@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "servicenow",
+  "displayName": "ServiceNow",
+  "description": "ServiceNow is a cloud-based enterprise platform that helps organizations automate and manage digital workflows across IT, HR, customer service, and operations.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.servicenow.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "servicenow",
+    "it-operations"
+  ]
+}

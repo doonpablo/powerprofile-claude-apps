@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "chaser",
+  "displayName": "Chaser",
+  "description": "Chaser is an accounts receivable automation software that helps businesses automate invoice reminders and get paid faster.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.chaserhq.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "chaser",
+    "accounting"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "typeform",
+  "displayName": "Typeform",
+  "description": "Build beautiful, interactive forms that people love to fill out. Collect data, accept payments, and integrate with your favorite tools.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.typeform.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "typeform",
+    "forms-surveys"
+  ]
+}

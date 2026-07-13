@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "shopify",
+  "displayName": "Shopify",
+  "description": "Shopify is an e-commerce platform. This toolkit is GraphQL-first for new Admin API automations while retaining legacy REST compatibility actions for older workflows and numeric-ID interoperability",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.shopify.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "shopify",
+    "ecommerce"
+  ]
+}

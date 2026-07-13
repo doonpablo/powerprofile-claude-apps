@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rocketlane",
+  "displayName": "Rocketlane",
+  "description": "Collaborative customer onboarding and implementation platform for professional services teams.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://rocketlane.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "rocketlane",
+    "project-management"
+  ]
+}

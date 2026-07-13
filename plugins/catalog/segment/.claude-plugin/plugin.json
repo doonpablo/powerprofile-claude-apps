@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "segment",
+  "displayName": "Segment",
+  "description": "Twilio Segment is a customer data platform that helps businesses collect, clean, and control their customer data.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://segment.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "segment",
+    "analytics"
+  ]
+}

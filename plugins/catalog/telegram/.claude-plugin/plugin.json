@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "telegram",
+  "displayName": "Telegram",
+  "description": "Telegram is a cloud-based messaging app with a focus on security and speed. Build bots to send messages, manage chats, and interact with users.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://telegram.org/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "telegram",
+    "team-chat"
+  ]
+}

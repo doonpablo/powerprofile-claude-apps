@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "outline",
+  "displayName": "Outline",
+  "description": "Team knowledge base and wiki for managing documentation and collaboration",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.getoutline.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "outline",
+    "productivity"
+  ]
+}

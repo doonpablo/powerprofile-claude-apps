@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "updown-io",
+  "displayName": "Updown.io",
+  "description": "updown.io is a simple and inexpensive website monitoring service that checks the availability and performance of your websites and APIs.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://updown.io",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "updown-io",
+    "server-monitoring"
+  ]
+}

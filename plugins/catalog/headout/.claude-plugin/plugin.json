@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "headout",
+  "displayName": "Headout",
+  "description": "Headout is a travel experiences and activities booking platform offering tours, attractions, and entertainment bookings worldwide.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.headout.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "headout",
+    "scheduling-booking"
+  ]
+}

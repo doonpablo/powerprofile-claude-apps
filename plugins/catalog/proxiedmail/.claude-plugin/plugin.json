@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "proxiedmail",
+  "displayName": "Proxiedmail",
+  "description": "ProxiedMail offers privacy-focused email services, including automatic creation of proxy emails and receiving emails via webhooks.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://proxiedmail.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "proxiedmail",
+    "email"
+  ]
+}

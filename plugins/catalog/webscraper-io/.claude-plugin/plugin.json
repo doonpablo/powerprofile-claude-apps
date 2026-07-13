@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "webscraper-io",
+  "displayName": "Webscraper io",
+  "description": "WebScraper.IO is a web scraping tool that makes web data extraction easy and accessible for everyone through a cloud-based API.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.webscraper.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "webscraper-io",
+    "developer-tools"
+  ]
+}

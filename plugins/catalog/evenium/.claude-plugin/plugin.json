@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "evenium",
+  "displayName": "Evenium",
+  "description": "Evenium is an all-in-one event management platform that simplifies the planning, execution, and analysis of professional events.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://corp.evenium.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "evenium",
+    "event-management"
+  ]
+}

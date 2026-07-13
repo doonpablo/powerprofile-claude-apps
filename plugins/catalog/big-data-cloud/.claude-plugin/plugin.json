@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "big-data-cloud",
+  "displayName": "BigDataCloud",
+  "description": "BigDataCloud offers a suite of APIs providing geolocation, reverse geocoding, and data validation services.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.bigdatacloud.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "big-data-cloud",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "zulip",
+  "displayName": "Zulip",
+  "description": "Chat for distributed teams. Zulip combines the immediacy of real-time chat with an email threading model.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://zulip.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "zulip",
+    "team-chat"
+  ]
+}

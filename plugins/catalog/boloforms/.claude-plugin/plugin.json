@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "boloforms",
+  "displayName": "Boloforms",
+  "description": "BoloForms is an eSignature platform designed for small businesses, offering unlimited signatures, templates, forms, and team members at a fixed price.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.boloforms.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "boloforms",
+    "signatures"
+  ]
+}

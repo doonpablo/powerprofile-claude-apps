@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "autobound",
+  "displayName": "Autobound",
+  "description": "Autobound provides AI-driven sales engagement solutions, offering personalized content generation and actionable insights to enhance sales outreach.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://app2.autobound.ai/settings/api-keys",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "autobound",
+    "ai-sales-tools"
+  ]
+}

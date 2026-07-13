@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pylon-mcp",
+  "displayName": "Pylon MCP",
+  "description": "Pylon is an AI-native B2B customer support platform that unifies ticketing, chat, knowledge base, and account intelligence across channels like Slack Connect, Microsoft Teams, email, and in-app chat.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://mcp.usepylon.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pylon-mcp",
+    "model-context-protocol"
+  ]
+}

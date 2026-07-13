@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pdf4me",
+  "displayName": "Pdf4me",
+  "description": "PDF4me provides robust, secure, and scalable APIs for document generation, manipulation, and management, enabling easy integration and automation across various applications.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developer.pdf4me.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "pdf4me",
+    "documents"
+  ]
+}

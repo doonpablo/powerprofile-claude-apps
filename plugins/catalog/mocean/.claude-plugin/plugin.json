@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mocean",
+  "displayName": "Mocean",
+  "description": "Mocean enables SMS, voice, and verification services, integrating messaging capabilities into applications for multifactor authentication or customer engagement",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://moceanapi.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "mocean",
+    "phone-sms"
+  ]
+}

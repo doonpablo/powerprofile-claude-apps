@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendbird-ai-chabot",
+  "displayName": "Sendbird AI Chatbot",
+  "description": "Sendbird's AI Chatbot enables businesses to integrate intelligent, automated conversational agents into their applications, enhancing customer engagement and support.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://sendbird.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "sendbird-ai-chabot",
+    "ai-chatbots"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "spotlightr",
+  "displayName": "Spotlightr",
+  "description": "Spotlightr is a video hosting and streaming platform that captures leads, updates contacts with engagement data, and provides analytics reporting.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://spotlightr.com",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "spotlightr",
+    "video-audio"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "goody",
+  "displayName": "Goody",
+  "description": "Goody is a platform that enables users to send gifts and physical products without handling logistics, offering APIs for commerce and automation.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.ongoody.com/business/signup",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "goody",
+    "ecommerce"
+  ]
+}

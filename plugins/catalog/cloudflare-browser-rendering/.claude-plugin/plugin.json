@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cloudflare-browser-rendering",
+  "displayName": "Cloudflare Browser Rendering",
+  "description": "Cloudflare Browser Rendering enables developers to programmatically control and interact with headless browser instances running on Cloudflare’s global network, facilitating tasks such as automating browser interactions, capturing screenshots, generating PDFs, and extracting data from web pages.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://developers.cloudflare.com/browser-rendering/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "cloudflare-browser-rendering",
+    "ai-web-scraping"
+  ]
+}

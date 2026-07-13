@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "nocrm-io",
+  "displayName": "NoCRM.io",
+  "description": "noCRM.io is a lead management software designed to help sales teams track and close deals efficiently.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.nocrm.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "nocrm-io",
+    "crm"
+  ]
+}

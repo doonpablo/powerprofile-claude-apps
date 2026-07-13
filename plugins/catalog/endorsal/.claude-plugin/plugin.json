@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "endorsal",
+  "displayName": "Endorsal",
+  "description": "Endorsal automates the collection and display of customer testimonials and reviews, enhancing social proof for businesses.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://endorsal.io/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "endorsal",
+    "reviews"
+  ]
+}

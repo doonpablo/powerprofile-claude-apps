@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "passslot",
+  "displayName": "Passslot",
+  "description": "PassSlot is a service that simplifies the creation, design, and distribution of Apple Wallet passes, including coupons, store cards, event tickets, membership cards, and boarding passes.",
+  "author": {
+    "name": "PowerProfile"
+  },
+  "homepage": "https://www.passslot.com/",
+  "license": "Proprietary",
+  "keywords": [
+    "powerprofile",
+    "connector",
+    "composio",
+    "passslot",
+    "event-management"
+  ]
+}
