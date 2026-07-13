@@ -73,6 +73,7 @@ for (const item of catalog) {
   generatedEntries.push({
     name: slug,
     displayName: item.name,
+    defaultEnabled: false,
     description,
     author: { name: "PowerProfile" },
     homepage: item.meta?.app_url || "https://powerprofile.com.br",
