@@ -287,6 +287,27 @@
       "version": "1.0.0"
     },
     {
+      "name": "figma",
+      "displayName": "Figma",
+      "defaultEnabled": false,
+      "description": "Acesse arquivos, projetos e recursos de design do Figma.",
+      "author": {
+        "name": "PowerProfile"
+      },
+      "homepage": "https://www.figma.com/",
+      "category": "design",
+      "keywords": [
+        "figma",
+        "design",
+        "prototyping",
+        "conector-real",
+        "mcp",
+        "oauth"
+      ],
+      "source": "./plugins/catalog/figma",
+      "version": "1.0.0"
+    },
+    {
       "name": "shopify",
       "displayName": "Shopify",
       "defaultEnabled": false,

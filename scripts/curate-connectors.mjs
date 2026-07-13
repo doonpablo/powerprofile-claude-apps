@@ -7,7 +7,7 @@ const marketplacePath = path.join(root, ".claude-plugin", "marketplace.json");
 const selected = new Set([
   "gmail", "google-drive", "google-agenda", "outlook", "microsoft-teams",
   "slack", "notion", "github", "trello", "hubspot", "salesforce",
-  "dropbox", "canva", "shopify", "jira"
+  "dropbox", "canva", "figma", "shopify", "jira"
 ]);
 const marketplace = JSON.parse(fs.readFileSync(marketplacePath, "utf8"));
 const byName = new Map(marketplace.plugins.map((plugin) => [plugin.name, plugin]));
