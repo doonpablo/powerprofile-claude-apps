@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "PowerProfile Drive": {
-      "type": "http",
-      "url": "https://connectors.powerprofile.com.br/mcp/drive"
-    }
-  }
-}
