@@ -14,5 +14,6 @@
     "composio",
     "microsoft-teams",
     "team-chat"
-  ]
+  ],
+  "version": "1.0.0"
 }

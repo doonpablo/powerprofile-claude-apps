@@ -3,7 +3,10 @@
   "displayName": "Notion",
   "defaultEnabled": false,
   "description": "Consulte e atualize paginas e bases do Notion.",
-  "author": { "name": "PowerProfile" },
+  "author": {
+    "name": "PowerProfile"
+  },
   "homepage": "https://powerprofile.com.br",
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "version": "1.0.0"
 }

@@ -1,0 +1,1 @@
+{"mcpServers":{"github":{"type":"http","url":"https://connectors.powerprofile.com.br/mcp/github","headers":{"Authorization":"Bearer ${POWERPROFILE_API_KEY}"}}}}

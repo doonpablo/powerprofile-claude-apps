@@ -3,7 +3,10 @@
   "displayName": "Gmail",
   "defaultEnabled": false,
   "description": "Leia, pesquise, organize e envie emails pelo Gmail.",
-  "author": { "name": "PowerProfile" },
+  "author": {
+    "name": "PowerProfile"
+  },
   "homepage": "https://powerprofile.com.br",
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "version": "1.0.0"
 }

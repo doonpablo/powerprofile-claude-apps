@@ -1,0 +1,1 @@
+{"mcpServers":{"shopify":{"type":"http","url":"https://connectors.powerprofile.com.br/mcp/shopify","headers":{"Authorization":"Bearer ${POWERPROFILE_API_KEY}"}}}}

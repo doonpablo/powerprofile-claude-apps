@@ -1,0 +1,1 @@
+{"mcpServers":{"dropbox":{"type":"http","url":"https://connectors.powerprofile.com.br/mcp/dropbox","headers":{"Authorization":"Bearer ${POWERPROFILE_API_KEY}"}}}}

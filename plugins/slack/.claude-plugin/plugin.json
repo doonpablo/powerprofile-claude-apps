@@ -3,7 +3,10 @@
   "displayName": "Slack",
   "defaultEnabled": false,
   "description": "Pesquise conversas e trabalhe com mensagens do Slack.",
-  "author": { "name": "PowerProfile" },
+  "author": {
+    "name": "PowerProfile"
+  },
   "homepage": "https://powerprofile.com.br",
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "version": "1.0.0"
 }

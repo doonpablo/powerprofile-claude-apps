@@ -1,0 +1,1 @@
+{"mcpServers":{"outlook":{"type":"http","url":"https://connectors.powerprofile.com.br/mcp/outlook","headers":{"Authorization":"Bearer ${POWERPROFILE_API_KEY}"}}}}

@@ -14,5 +14,6 @@
     "composio",
     "dropbox",
     "file-management-storage"
-  ]
+  ],
+  "version": "1.0.0"
 }

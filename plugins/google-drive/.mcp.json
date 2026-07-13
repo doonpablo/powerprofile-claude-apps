@@ -1,0 +1,1 @@
+{"mcpServers":{"google-drive":{"type":"http","url":"https://connectors.powerprofile.com.br/mcp/google-drive","headers":{"Authorization":"Bearer ${POWERPROFILE_API_KEY}"}}}}

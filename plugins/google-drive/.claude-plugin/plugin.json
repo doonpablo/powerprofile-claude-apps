@@ -3,7 +3,10 @@
   "displayName": "Google Drive",
   "defaultEnabled": false,
   "description": "Pesquise, leia e organize arquivos do Google Drive.",
-  "author": { "name": "PowerProfile" },
+  "author": {
+    "name": "PowerProfile"
+  },
   "homepage": "https://powerprofile.com.br",
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "version": "1.0.0"
 }

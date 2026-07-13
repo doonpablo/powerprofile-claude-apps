@@ -3,7 +3,10 @@
   "displayName": "Canva",
   "defaultEnabled": false,
   "description": "Acesse e gerencie recursos e designs do Canva.",
-  "author": { "name": "PowerProfile" },
+  "author": {
+    "name": "PowerProfile"
+  },
   "homepage": "https://powerprofile.com.br",
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "version": "1.0.0"
 }
